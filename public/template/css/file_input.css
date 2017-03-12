@@ -1,0 +1,14 @@
+@charset "utf-8";
+/*
+
+
+
+
+.NFI-current {}
+*/
+
+.NFI-wrapper {width:100%	; display:inline-block; float:right; border:1px solid #efefef; border-radius:8px;}
+.NFI-button {display:inline-block; width:111px !important; text-align:center; border-radius:0 3px 3px 0;   background:#db2891; outline:none; padding:15px 0 14px 0;  font-family: 'AvenirNext-Regular'; font-size:18px; line-height:20px; color:#fff; font-weight:400; float:right !important;}
+.NFI-filename {background:none; border:0 none; font-family: inherit ;font-size:1.310em;color:#a6aab1;padding:13px 13px 11px !important; width:350px !important; display:inline-block;}
+.NFI-button:hover {background:#db2891; color:#ffffff;}/* CSS Document */
+

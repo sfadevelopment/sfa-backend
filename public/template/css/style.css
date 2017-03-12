@@ -1,0 +1,692 @@
+/*====================================== reset.css is here ========================================*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { margin:0; padding:0;}
+table {	border-collapse:collapse; border-spacing:0;}
+fieldset,img { border:0; }
+address,caption,cite,code,dfn,em,strong,th,var {font-style:normal; font-weight:normal;}
+ol,ul { list-style:none;}
+caption,th {text-align:left;}
+h1,h2,h3,h4,h5,h6 {	font-size:100%;	font-weight:bold;}
+q:before,q:after {content:'';}
+abbr,acronym { border:0;}
+.clear{clear:both; font-size:1px;line-height:1px; display:block; height:0;}
+.clrflt{clear:both;}
+.last	{margin:0 !important;}
+.pad_last{padding:0 !important;}
+.no_bg {background:none !important;}
+header,nav,section,article,aside,footer,hgroup {display: block;}
+.no_bod			{border:none !important;}
+/**************************************************************************************/
+a											{color:#000; text-decoration:none; outline:0 none;}
+a:hover										{color:#000;  text-decoration:none;}
+h1											{font-size:24px;}
+h2											{font-size:22px;}
+h3											{font-size:18px;}
+h4											{font-size:16px;}
+h5											{font-size:14px;}
+h6											{font-size:12px;}
+/*----------------------------------------------------------------------------------*/
+html 										{}
+body										{color:#b1b1b1; font-family:"Arial", Verdana, Tahoma; font-size:12px;}
+.flt_lt										{float:left; display:inline;}
+.flt_rt										{float:right; display:inline;}
+/* ---------------------------------------------------------------------------------*/
+
+@font-face {
+  font-family: 'AvenirNext-UltraLight';
+  src: url('../../template/fonts/AvenirNext-UltraLight/AvenirNext-UltraLight.eot'),  
+       url('../../template/fonts/AvenirNext-UltraLight/AvenirNext-UltraLight.woff') format('woff'), 
+	   url('../../template/fonts/AvenirNext-UltraLight/AvenirNext-UltraLight.ttf')  format('truetype'), 
+	   url('../../template/fonts/AvenirNext-UltraLight/AvenirNext-UltraLight.svg#AvenirNext-UltraLight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AvenirNext-Regular';
+  src: url('../../template/fonts/AvenirNext-Regular/AvenirNext-Regular.eot'),  
+       url('../../template/fonts/AvenirNext-Regular/AvenirNext-Regular.woff') format('woff'), 
+	   url('../../template/fonts/AvenirNext-Regular/AvenirNext-Regular.ttf')  format('truetype'), 
+	   url('../../template/fonts/AvenirNext-Regular/AvenirNext-Regular.svg#AvenirNext-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AvenirNext-Medium';
+  src: url('../../template/fonts/AvenirNext-Medium/AvenirNext-Medium.eot'),  
+       url('../../template/fonts/AvenirNext-Medium/AvenirNext-Medium.woff') format('woff'), 
+	   url('../../template/fonts/AvenirNext-Medium/AvenirNext-Medium.ttf')  format('truetype'), 
+	   url('../../template/fonts/AvenirNext-Medium/AvenirNext-Medium.svg#AvenirNext-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AvenirNext-Italic';
+  src: url('../../template/fonts/AvenirNext-Italic/AvenirNext-Italic.eot'),  
+       url('../../template/fonts/AvenirNext-Italic/AvenirNext-Italic.woff') format('woff'), 
+	   url('../../template/fonts/AvenirNext-Italic/AvenirNext-Italic.ttf')  format('truetype'), 
+	   url('../../template/fonts/AvenirNext-Italic/AvenirNext-Italic.svg#AvenirNext-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../../template/fonts/Helvetica/Helvetica.eot'),  
+       url('../../template/fonts/Helvetica/Helvetica.woff') format('woff'), 
+	   url('../../template/fonts/Helvetica/Helvetica.ttf')  format('truetype'), 
+	   url('../../template/fonts/Helvetica/Helvetica.svg#Helvetica') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AvenirNext-DemiBold';
+  src: url('../../template/fonts/AvenirNext-DemiBold/AvenirNext-DemiBold.eot'),  
+       url('../../template/fonts/AvenirNext-DemiBold/AvenirNext-DemiBold.woff') format('woff'), 
+	   url('../../template/fonts/AvenirNext-DemiBold/AvenirNext-DemiBold.ttf')  format('truetype'), 
+	   url('../../template/fonts/AvenirNext-DemiBold/AvenirNext-DemiBold.svg#AvenirNext-DemiBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'LucidaGrande';
+  src: url('../../template/fonts/LucidaGrande/LucidaGrande.eot'),  
+       url('../../template/fonts/LucidaGrande/LucidaGrande.woff') format('woff'), 
+	   url('../../template/fonts/LucidaGrande/LucidaGrande.ttf')  format('truetype'), 
+	   url('../../template/fonts/LucidaGrande/LucidaGrande.svg#LucidaGrande') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'prophecy_scriptregular';
+    src: url('../../template/fonts/prophecy/prophecy_script-webfont.eot');
+    src: url('../../template/fonts/prophecy/prophecy_script-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../template/fonts/prophecy/prophecy_script-webfont.woff2') format('woff2'),
+         url('../../template/fonts/prophecy/prophecy_script-webfont.woff') format('woff'),
+         url('../../template/fonts/prophecy/prophecy_script-webfont.ttf') format('truetype'),
+         url('../../template/fonts/prophecy/prophecy_script-webfont.svg#prophecy_scriptregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* custom input */
+.custom-checkbox, .custom-radio { position: relative; }
+	
+/* input, label positioning */
+.custom-checkbox input, 
+.custom-radio input {
+	position: absolute;
+	left: 2px;
+	top: 3px;
+	margin: 0;
+	z-index: 0;
+}
+
+.custom-checkbox label, 
+.custom-radio label {
+	display: block;
+	position: relative;
+	z-index: 1;
+	font-size: 1.3em;
+	padding-right: 1em;
+	line-height: 1;
+	padding:.3em 0 .5em 34px;
+	margin: 0 0 .3em;
+	cursor: pointer;
+}
+
+	
+/* states */
+.custom-checkbox label { background: url(../images/check.png) no-repeat 0 0; }
+
+.custom-radio label { background: url(images/radiobutton.gif) no-repeat; }
+
+.custom-checkbox label, .custom-radio label {
+}
+
+
+.custom-checkbox label.checked { 
+  background:url(../images/checked.png) no-repeat 0 0;
+}
+.custom-radio label.checked {  
+}
+
+
+/* ----------------------- layout ----------*/
+.wrapper									{margin:0 auto;width:100%; /*padding:0 0 130px 0*/; min-width:960px;}
+/* ------------------ HEADER HERE -------------------*/
+header										{width:100%; margin:0; display:block; background:url(../images/header_bg.png) no-repeat center top; position:relative; height:181px; background-size:cover;}
+.header_in									{display:block; padding:47px 0 0 0; position:absolute; top:0; left:0px; width:100%; }
+#logo										{display:block; width:300px; margin:0 auto; text-align:center;}
+#logo a span								{display:block; font-family: 'prophecy_scriptregular'; color:#ffffff; font-size:31px; line-height:28px; padding:0 0 44px 0;}
+#logo a img									{margin:0 auto;}
+/* ---------------------------------------------------------*/
+
+
+
+/* ------------------------- NAVIGATION HERE ---------------*/
+nav											{}
+nav ul										{}
+nav ul li									{}
+nav ul li a									{}
+nav ul li a span							{}
+nav ul li a:hover							{}
+
+/* ---------------------------------------------------------*/
+
+/* ------------------------ MIAN CONTENT HERE --------------*/
+.container									{width:960px; margin:0 auto !important;}
+.logout_cont								{display:block; border-bottom:1px solid #e9e9e9; height:60px; position:relative; z-index:9;}
+.logout_left								{display:inline-block; float:left; padding:13px 0 0 0;}
+
+.logout_right								{display:inline-block; float:right;}
+.logout_right p								{font-family: 'AvenirNext-Italic'; font-size:13px; line-height:15px; color:#a8a8a8; padding:16px 0 0 0;}
+.logout_right p a							{font-family: 'AvenirNext-Italic'; font-size:13px; line-height:15px; color:#e545a2; margin:0 0 0 15px;}
+
+.sign_in									{display:block; width:633px; margin:0 auto; padding:22px 0 32px 0;}
+.sign_in h2									{font-family: 'AvenirNext-UltraLight'; font-size:64px; line-height:65px; color:#5a5a5a; text-align:center; padding:0 0 38px 0;}
+.sign_in ul									{display:block; padding:0 0 16px 0;}
+.sign_in ul li								{display:block; padding:0 0 20px 0;}
+.sign_in ul li.err-message				{display:block; padding:0; color:#e2328f; font-family: 'AvenirNext-Regular'; font-size: 16px; line-height: 20px; text-align:center; }
+.sign_in ul li label						{display:inline-block; float:left; width:96px; font-family: 'AvenirNext-Regular'; font-size:18px; line-height:20px; color:#a8a8a8; padding:15px 0 0 0 ;}
+.sign_in ul li input						{display:inline-block; float:left; outline:none; font-family:'AvenirNext-Regular'; font-size:18px; line-height:20px; color:#a8a8a8;}
+.sign_in ul li input.name					{background:#f6f6f6; width:418px; border:1px solid #e9e9e9; border-radius:8px; padding:12px 10px 11px;}
+.sign_in ul li input.sign_btn				{width:227px; display:block; margin:28px auto 0; background:#d8127d; border:1px solid #a40d5f; border-radius:8px; padding:19px 0 17px; font-size:20px; line-height:22px; text-transform:uppercase; color:#ffffff; float:none; cursor:pointer;}
+.reset										{display:block; text-align:center; padding:0 0 67px 0;}
+.reset a									{font-family: 'AvenirNext-Regular'; font-size:14px; line-height:16px; color:#e2328f; border-bottom:1px solid #e54399;}	
+.reset a:hover								{color:#e2328f; border:none;}				
+.sign_in h4									{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:36px; line-height:40px; color:#5a5a5a; text-align:center; padding:0 0 23px 0;}
+.sign_up									{display:block; text-align:center; background:url(../images/signup_bg.png) no-repeat center bottom; padding:0 0 13px 0;}
+.sign_up a									{font-family: 'AvenirNext-Regular'; font-size:24px; line-height:26px; color:#e2328f;}					
+.phone-signup								{width: 448px !important; text-indent: 40px; line-height: 25px !important; }
+.sign_in ul li .dd .ddTitle .ddTitleText		{padding:16px 20px 13px 15px;}
+.sign_in ul li .dd							{width:221px !important; border-radius:8px; outline:none;}
+.sign_in ul li .dd .ddTitle					{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#000000; background:#f6f6f6; border-radius:8px;}
+.sign_in ul li .dd .ddArrow					{background:url(../images/dd_arrow.png) no-repeat center #979797; right:0px; top:0px; width:50px; height:50px; margin:0px; border-radius:0 7px 7px 0;}
+.sign_in ul li .dd .ddChild li				{width:98%;}
+.sign_in ul li .ddcommon ul li				{margin:0px;}
+/* ---------------------------------------------------------*/
+
+.country-list li							{display: block !important;}
+
+/* ------------------ FOOTER HERE --------------------------*/
+footer										{display:block; width:100%; padding:30px 0; position: relative; left:0; bottom:0px; background:#ffffff;}
+.footer_in									{display:block; width:964px; margin:0 auto;}
+.footer_in ul 								{display:block; float:left;}
+.footer_in ul li							{display:inline-block; float:left; padding:0 34px 0 0;}
+.footer_in ul li a							{font-family: 'Helvetica'; font-size:12px; line-height:12px; color:#a8a8a8;} 
+.footer_in ul li a:hover					{color:#a8a8a8; text-decoration:underline;}
+.footer_in ul li a.support					{text-decoration:underline;}
+.footer_in ul li a.support:hover			{text-decoration:none;}
+.copy										{}
+/* ---------------------------------------------------------*/
+
+
+/* ------------------------ create_account HERE --------------*/
+.create_account								{width:674px;}
+.create_account ul li label					{width:222px;}
+.create_account ul li input.name			{width:426px;}
+.create_account ul li.email					{padding:0 0 47px 0;}
+/* ---------------------------------------------------------*/
+/* ------------------------ choose_plan HERE --------------*/
+.subscription								{display:block; border-bottom:1px solid #e9e9e9; padding:62px 0 60px 0;}
+.subscription h2							{font-family: 'AvenirNext-UltraLight'; font-size:64px; line-height:65px; color:#5a5a5a; text-align:center; padding:0 0 50px 0;}
+.subscription_check							{width:206px; display:block; margin:0 auto; padding:18px 0 0 0;}
+.subscription_check label					{font-family: 'AvenirNext-Regular'; line-height:20px; color:#5a5a5a;}
+.plan										{display:block; margin:0 auto; width:669px; border:1px solid #d8127d; border-radius:8px;}
+.plan ul									{display:block; float:left;}
+.plan ul li									{display:inline-block; float:left; width:334px; border-right:1px solid #d8127d; }
+.plan ul li a								{display:block; font-family: 'AvenirNext-Regular'; font-size:48px; line-height:50px; color:#e2328f; padding:27px 0 21px 64px; cursor:pointer;}
+.plan ul li a small							{font-size:20px; line-height:20px; display:inline;}
+/*.plan ul li a.month:hover					{background:#d8127d; color:#ffffff; border-radius:6px 0 0 6px;}
+.plan ul li a.year:hover					{background:#d8127d; color:#ffffff; border-radius:0 6px 6px 0;}*/
+.plan ul li a.selected						{background:#d8127d; color:#ffffff; border-radius:6px 0 0 6px;}
+.plan ul li.no_bod a.selected				{background:#d8127d; color:#ffffff; border-radius:0 6px 6px 0;}
+.create_account h5							{font-family: 'AvenirNext-Medium'; font-weight:normal; font-size:20px; line-height:22px; color:#000000; padding:0 0 34px 0;}
+.bill_cont									{padding:32px 0 0 0;}
+
+/* ---------------------------------------------------------*/
+
+
+/* ------------------------ Account_Home HERE --------------*/
+.jen								{font-family: 'AvenirNext-Medium'; font-size:24px; line-height:25px; color:#5a5a5a; display:inline-block; margin:5px 0 0 0;}
+.jen:hover							{color:#5a5a5a;}
+.logout								{font-family: 'AvenirNext-Regular'; font-size:16px; line-height:18px; color:#e2328f; margin:21px 5px 0 0; display:inline-block;}
+.logout:hover						{color:#e2328f;}
+
+.account_sec						{display:block; padding:68px 0 71px 0; border-bottom:1px solid #efefef;}
+.account_left						{display:inline-block; float:left; width:428px; padding:0 0 0 5px;}
+.account_left h4					{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#b6b6b6; padding:0 0 15px 0;}
+.account_left .with_background 		{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:28px; line-height:30px; color:#5a5a5a; background:url(../images/pin_icon.png) no-repeat top right; display:block; margin:0 0 7px 0; width:410px; cursor:pointer; }
+.account_left .with_background .email	{width:390px; overflow:hidden; text-overflow:ellipsis; }
+.account_left p						{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#5a5a5a; display:block; padding:0 0 4px 0;}
+.account_left h3					{padding:0 0 7px 0; display:block;}
+.account_left h3 span				{display:inline-block; float:left; font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:36px; line-height:38px; color:#5a5a5a;}
+.account_left h3 a					{display:inline-block; float:right; width:27px; height:27px; text-indent:24px; }
+.account_left .change-passwd a		{font-family: 'AvenirNext-Regular'; font-size:14px; line-height:14px; color:#e64ca6;}
+.account_right						{float:right; padding:0 4px 0 0; width:386px;}
+.account_right h4					{padding:0px 0 6px 0}
+.account_left .delete-account a		{font-family: 'AvenirNext-Regular'; font-size:14px; line-height:14px; color:#e64ca6;}
+.account_left .cancel-subscription a		{font-family: 'AvenirNext-Regular'; font-size:14px; line-height:14px; color:#e64ca6;}
+
+
+.art_gallery						{display:block; padding:36px 0 40px 0;  border-bottom:1px solid #efefef;}
+.art_gallery h3						{font-family: 'AvenirNext-UltraLight'; font-size:48px; line-height:50px; color:#5a5a5a; padding:0 0 0 25px;}
+.left_art							{display:inline-block; float:left; padding:12px 0 0 26px;}
+.left_art p							{display:block; font-family: 'AvenirNext-Regular'; font-size:18px; line-height:20px; color:#000000; padding:0 0 5px 0;}
+.right_art							{display:inline-block; float:right; padding:9px 30px 0 0;}
+.right_art ul						{display:block; float:right;}
+.right_art ul li					{display:inline-block; float:right; text-align:center; padding:0 0 0 84px;}
+.right_art ul li span				{display:block; font-family: 'AvenirNext-Regular'; font-size:64px; line-height:65px; color:#e545a2}
+.right_art ul li a					{font-family: 'AvenirNext-Regular'; font-size:18px; line-height:20px; color:#b6b6b6;}
+.right_art ul li a.edit				{text-decoration:underline; margin:21px 0 0 0; display:block; font-weight:bold; color:#e2328f;}
+.right_art ul li a.edit:hover		{text-decoration:none;}
+
+.sc_section {display:block; border-bottom: 1px solid #efefef;padding: 20px 0 20px 25px;}
+.sc_foreword_left {display: inline-block;width: 450px;font-family: 'AvenirNext-Regular';font-size: 14px;}
+.sc_icons_right {display:inline-block; float:right;}
+.sc_icons_right img {margin-right: 20px;}
+.sc_disconnect a    {font-family: 'AvenirNext-Regular'; font-size:14px; line-height:14px; color:#e64ca6;}
+
+.gallery-found						{width: 100%; text-align: center;}
+.gallery-found p					{text-align:center; margin:5px auto !important; }
+.gallery-found p.pink				{color: #e2328f !important; margin:30px auto 20px auto !important;}
+#found-gallery-name					{font-size: 24px; font-weight:bold; }
+#found-gallery-address				{font-size: 18px;}
+/* ------------------------ popup HERE --------------*/
+
+.about_pop										{width:800px; margin:10px 0 0 10px; padding:0 0 40px 0; display:block; border: 1px solid #e9e9e9; background:#ffffff; box-shadow:0 0 13px -6px rgb(0, 0, 0); display:none;}
+.about_pop_cont									{width:500px; margin:0 auto; display:block;}
+.about_pop_cont h2									{display:block; color:#000; font-family: 'AvenirNext-Regular'; font-size:36px; line-height:35px; margin:50px 0 50px 0; padding:0 0 0 0; text-align:center;}
+.about_pop_cont p									{display:block; color:#a8a8a8; width: 424px; font-family: 'AvenirNext-Regular'; font-size:20px; line-height:20px; margin:0 0 0 0; padding:0 0 0 0;}
+.about_pop_cont p.desc				{font-family: 'AvenirNext-Regular';   font-weight: normal; font-size: 18px; line-height: 20px; color: #5a5a5a; width:690px; padding: 0 30px 30px 30px; text-align: left; }
+.valid										{display:block; margin:0 0 0 0; padding:0 0 0 0; text-align:center;}
+.about_pop_cont ul									{display:block; margin:10px 0 0 0; padding:0 0 0 0;}
+.about_pop_cont ul li								{display:inline-block; margin:16px 0 0 0; padding:0 0 0 0;}
+.about_pop_cont ul li label						{display:inline-block; float:left; width:156px; font-family: 'AvenirNext-Regular'; font-size:18px; line-height:20px; color:#a8a8a8; padding:13px 0 0 0 ;}
+.about_pop_cont ul li input						{display:inline-block; border-radius:6px; float:right; outline:none; font-family:'AvenirNext-Regular'; font-size:20px; line-height:20px; /*border:none;*/} 
+.about_pop_cont ul li input.size			{float: left !important;}
+.textfield									{display:block; background-color:#f6f6f6; height:50px; width:322px; padding:0 10px 0 10px; border:1px solid #ddd; font-family: 'AvenirNext-Regular' !important; font-size:18px !important;}
+.about_cancel 									{width:230px; height:57px; display:block; color:#ffffff; cursor:pointer; border-radius:10px; margin:25px 0 0 0; padding:0 0 0 0; background-color:#979797; text-transform:uppercase;}
+.about_save 										{background-color:#d8127d; display:block; cursor:pointer; margin: 25px 0 0 35px;}
+.date_icon											{background:url(../images/date_icon.png) no-repeat center right #f6f6f6;}
+
+.term_pop_cont									{width:720px; margin:0 auto; display:block;}
+.term_pop_cont h2									{display:block; color:#000; font-family: 'AvenirNext-Regular'; font-size:36px; line-height:35px; margin:50px 0 30px 0; padding:0 0 0 0; text-align:center;}
+.term_pop_cont h6									{display:block; color:#000; font-family: 'AvenirNext-Regular'; font-size:18px; line-height:18px; margin:15px 0 5px 0; padding:0 0 0 0; text-align:justify; font-weight:bold; }
+.term_pop_cont p									{display:block; color:#a8a8a8; font-family: 'AvenirNext-Regular'; font-size:18px; line-height:18px; margin:0 0 0 0; padding:0 0 10px 0; text-align:justify; }
+.printable 							{text-align:right; float:right; width:100%; color: #e2328f; padding-bottom:10px;   font-family: 'AvenirNext-Regular'; }
+/* ---------------------------------------------------------*/
+
+/* ------------------------ Change Hour popup -----------*/
+.hour_pop_up										{width:800px; margin:10px 0 0 10px; padding:0 0 40px 0; display:block; border: 1px solid #e9e9e9; background:#ffffff; box-shadow:0 0 13px -6px rgb(0, 0, 0); display:none;}
+.hour_pop_up_cont									{width:710px; margin:0 auto; display:block;}
+.hour_pop_up_cont h2								{display:block; color:#000; font-family: 'AvenirNext-Regular'; font-size:36px; line-height:20px; margin:50px 0 50px 0; padding:0 0 0 0; text-align:center;}
+.hour_pop_up_cont p									{display:block; color:#a8a8a8; width: 424px; font-family: 'AvenirNext-Regular'; font-size:20px; line-height:20px; margin:0 0 0 0; padding:0 0 0 0;}
+.valid												{display:block; margin:0 0 0 0; padding:0 0 0 0; text-align:center;}
+.hour_pop_up_cont ul								{display:block; margin:10px 0 0 0; padding:0 0 0 0;}
+.hour_pop_up_cont ul li								{display:inline-block; margin:0; padding:0 0 0 0;}
+.hour_pop_up_cont ul li label						{display:inline-block; float:left; width:156px; font-family: 'AvenirNext-Regular'; font-size:18px; line-height:20px; color:#a8a8a8; padding:13px 0 0 0 ;}
+.hour_pop_up_cont ul li input						{display:inline-block; border-radius:6px; outline:none; font-family:'AvenirNext-Regular'; font-size:20px; line-height:20px; /*border:none;*/}
+.hour_pop_up_cont ul li input[type="text"] 			{width: 35px;} 
+.hour_pop_up_cont ul li input[disabled] {opacity: .5;}
+.textfield											{display:block; background-color:#f6f6f6; height:50px; width:322px; padding:0 10px 0 10px; border:1px solid #ddd; font-family: 'AvenirNext-Regular' !important; font-size:18px !important;}
+.about_cancel 										{width:230px; height:57px; display:block; color:#ffffff; cursor:pointer; border-radius:10px; margin:25px 0 0 0; padding:0 0 0 0; background-color:#979797; text-transform:uppercase;}
+.about_save 										{background-color:#d8127d; display:block; cursor:pointer; margin: 25px 0 0 35px;}
+.date_icon											{background:url(../images/date_icon.png) no-repeat center right #f6f6f6;}
+.hour_pop_up_cont ul li select						{display:inline-block; border-radius:6px; float:right; outline:none; font-family:'AvenirNext-Regular'; font-size:20px; line-height:20px; width:344px; height:51px; background-color:#f6f6f6; border:1px solid #ddd;} 
+.hour_pop_up_cont em								{font-family: 'AvenirNext-DemiBold'; font-size:13px; line-height:15px; color:#000000; padding:15px 0 8px 0; display:block;}	
+.hour_pop_up_cont ul li .dd .ddTitle .ddTitleText		{padding:16px 20px 13px 15px;}
+.hour_pop_up_cont ul li .dd							{width:100px !important; border-radius:8px; outline:none;}
+.hour_pop_up_cont ul li .dd .ddTitle					{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#000000; background:#f6f6f6; border-radius:8px;}
+.hour_pop_up_cont ul li .dd .ddArrow					{background:url(../images/dd_arrow.png) no-repeat center #979797; right:0px; top:0px; width:50px; height:50px; margin:0px; border-radius:0 7px 7px 0;}
+.hour_pop_up_cont ul li .dd .ddChild li				{width:98%;}
+.hour_pop_up_cont ul li .ddcommon ul li				{margin:0px;}
+.hour_pop_up_cont .custom-checkbox label 			{width: 80px; float:left; padding: 0 !important; text-indent:25px; }
+.hour_pop_up_cont .custom-checkbox input 			{float:left; }
+.hour_pop_up_cont .custom-checkbox					{margin-left:5px;}
+.hour_pop_up_cont ul li .buttons					{text-align: center; width: 650px; }
+.closed_appointment_checkbox {padding: 0 55px 15px 40px !important;}
+/* ---------------------------------------------------------*/
+
+
+/* ------------------------ Artist POPUP HERE --------------*/
+/* ---------------------------------------------------------*/
+
+.phone-gallery						{width: 316px !important; text-indent: 0px; line-height: 25px !important; }
+
+/* ------------------------ Gallery Event HERE --------------*/
+.warning-message					{width:100%; text-align:center; font-family: 'AvenirNext-Regular'; color:red; font-size:18px; padding: 0 0 5px 0;}
+.event_container					{width:960px; min-height:250px;}
+.event_sec							{display:block; padding:36px 0 19px 0;}
+.event_sec h3						{display:inline-block; float:left; font-family: 'AvenirNext-UltraLight'; font-size:48px; line-height:50px; color:#5a5a5a; width:auto;}
+.event_rt							{display:inline-block; float:right; width:420px;}
+.event_rt ul						{display:block; float:right; padding:14px 0px 49px 0;}
+.event_rt ul li						{display:inline-block; float:right; width:140px; text-align:center;}
+.event_rt ul li a					{font-family: 'AvenirNext-Regular'; font-size:18px; line-height:20px; color:#e545a2; padding:0 0 17px 0; display:block; border-bottom:3px solid #ffffff; cursor:pointer;}
+.event_rt ul li.current a					{border-bottom:3px solid #db2891; color:#000000;}
+.event_rt ul li a:hover, .event_rt ul li a.active				{border-bottom:3px solid #db2891; color:#000000;}
+.new_event							{display:block; width:138px; background:#d8127d; border:1px solid #a40d5f; border-radius:8px; font-family: 'AvenirNext-Medium'; font-size:16px; line-height:18px; color:#f8f8f8; text-align:center; text-transform:uppercase; padding:15px 0 15px; float:right; margin:0 0 30px 0;}
+.new_event:hover					{color:#f8f8f8;}
+
+.upcoming_events					{display:block;}
+.upcoming_events h3					{font-family: 'AvenirNext-DemiBold'; font-size:20px; line-height:22px; color:#a8a8a8; background:url(../images/line_bg.png) no-repeat right center; margin:0 0 37px 0; float:none; display:block;}
+.event								{display:block; padding:0 0 34px 0;}
+.event_pic							{display:inline-block; float:left; width:289px; padding:3px 0 0 0;}
+.event_cont							{display:inline-block; float:left; width:auto;}
+.event_cont h2						{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:30px; line-height:32px; color:#5a5a5a; padding:0 0 6px 0;}
+.event_cont h2 a					{float:right; display:inline;}
+.event_cont h6						{font-family: 'AvenirNext-Medium'; font-weight:normal; font-size:18px; line-height:20px; color:#5a5a5a; padding:0 0 19px 0;}
+.event_cont p						{font-family: 'AvenirNext-Medium'; font-size:18px; line-height:20px; color:#5a5a5a;}
+.event_cont a						{font-family: 'AvenirNext-Regular'; font-size:14px; line-height:14px; color:#e64ca6;}
+.discription						{min-height:62px;}
+
+.app_cont							{display:inline-block; float:right; text-align:right; padding:3px 0px 0 0;}
+.pin								{text-align:right; border-bottom:1px solid #e9e9e9; width:141px; display:block; min-height:90px;}
+.pin a								{margin:0 !important;}
+.app_cont p							{text-align:right; padding:8px 10px 6px 0;}
+.app_cont a							{display:block; margin:0 5px 0 0; font-family: 'AvenirNext-Regular'; font-size:13px; line-height:15px; color:#e545a2; text-transform:uppercase;}
+
+
+
+.pop_event							{width:800px; margin:10px 0 0 10px;}
+.about_pop_cont ul li select		{display:inline-block; border-radius:6px; float:right; outline:none; font-family:'AvenirNext-Regular'; font-size:20px; line-height:20px; width:344px; height:51px; background-color:#f6f6f6; border:1px solid #ddd;} 
+.browse_cont						{width:500px; background:#f6f6f6; border-radius:8px;}
+.browse_cont input					{width:355px; background:#f6f6f6; display:inline-block; float:left; font-family: 'AvenirNext-Regular'; font-size:18px; line-height:22px; color:#a8a8a8; padding:13px 13px 11px; border:none; border-radius:8px 0 0 8px; box-shadow:0;}
+.browse_cont a						{display:inline-block; float:right; width:110px; text-align:center; background:#db2891; font-family:'AvenirNext-Regular'; font-size:20px; line-height:20px; color:#ffffff; padding:15px 0 14px; border-radius:0 8px 8px 0;}	
+
+.about_pop_cont em				{font-family: 'AvenirNext-DemiBold'; font-size:13px; line-height:15px; color:#000000; padding:15px 0 8px 0; display:block;}
+
+.event-image-holder				{position: relative; text-align: center; height:310px; }
+.event-image-holder img			{margin: 2px auto;}
+.event-image-holder a			{position: absolute; top: 2px; right: 2px;}
+/* ---------------------------------------------------------*/
+
+.remove-banner					{position: relative; width: 100%; height: 100%;}
+.remove-banner div				{position: absolute; top:2px; right:5px; }
+.remove-banner div a			{color:#e545a2; font-size:18px; }
+.empty-banner					{cursor: pointer;}
+.delete-other-banner			{position:absolute; top:0px; right:-1px; color:#e545a2; font-size:16px; font-weight:bold; line-height:13px; background:white; }
+
+/* ------------------------ Gallery artist HERE --------------*/
+.order-sec							{display:block;}
+.order_title						{display:block; padding:0 0 29px 0;}
+.helen								{display:inline-block; float:left; background:url(../images/line_bg.png) no-repeat right center; width:758px;}
+.helen h5							{background:#ffffff; display:inline-block; font-family: 'AvenirNext-DemiBold'; font-weight:normal; font-size:20px; line-height:22px; color:#000000; padding:0 8px 0 0;}						
+.order_change						{display:inline-block; float:right;}
+.order_change ul					{display:inline-block; float:left;}
+.order_change ul li					{display:inline-block; float:left; padding:5px 0 0 7px;}
+.order_change ul li p				{font-family: 'AvenirNext-DemiBold'; font-size:14px; line-height:16px; color:#a8a8a8; padding:0 7px 0 0;}
+.order_change ul li a				{cursor:pointer;}
+.order_change ul li:nth-last-child(3){padding:5px 0 0 0;}
+.orders_list						{display:block;}
+.orders_list ul						{display:block; float:left;}
+.orders_list ul li					{display:inline-block; float:left; padding:0 30px 15px 0;}
+.orders_list ul li:nth-child(4n)	{padding:0 0 37px 0;}
+/* ---------------------------------------------------------*/
+/* ------------------------ search HERE --------------*/
+.gallery_lft						{display:block; padding:0;}
+.gal_arrow							{width:44px; height:40px; display:inline-block; float:left; padding:12px 0 0 0; }
+.gallery_lft ul						{display:inline-block; float:left; padding:22px 0 0 0;}
+.gallery_lft ul li					{display:inline-block; float:left; width:123px; text-align:center;}
+.gallery_lft ul li.rt				{width:153px;}
+.gallery_lft ul li a				{display:block; font-family: 'AvenirNext-Regular'; font-weight:bold; font-size:16px; line-height:18px; color:#e545a2; padding:0 0 17px  0;}
+.gallery_lft ul li a:hover, .gallery_lft ul li a.active			{color:#000000; border-bottom:3px solid #db2891;}
+.gallery_rt							{float:right; padding:0 15px 0 0;}
+
+.gallery_head						{display:block; padding:19px 0 20px 0; border-bottom:1px solid #e9e9e9;}
+.gallery_head h4					{display:inline-block; font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:24px; line-height:24px; float:left; color:#5a5a5a; padding:14px 0 0 0;}
+.new_gallery						{display:inline-block;}
+.gallery_details					{display:block; padding:19px 0 20px 0; border-bottom:1px solid #e9e9e9;}
+.gallery_details ul					{display:inline-block; float:left; width:475px;}
+.gallery_details ul li				{display:block; padding:0 0 19px 0;}
+.gallery_details ul li label		{display:inline-block; float:left; width:158px; font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#a8a8a8; padding:15px 0 0 0;}
+.gallery_details ul li input		{display:inline-block; float:left; width:288px; background:#f6f6f6; border:1px solid #e9e9e9; border-radius:8px; font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#000000; outline:none; padding:11px 10px 12px;}
+.gallery_details ul.rt				{float:right; padding:0 0 16px 0 ;}
+.gallery_art						{display:block; padding:39px 0 0 0;}
+.art_left							{display:inline-block; float:left; max-width:784px;}
+.art_left ul						{display:block; float:left;}
+.art_left ul li						{display:inline-block; float:left; padding:0 20px 0 0; /*padding:0 41px 0 0;*/}
+.art_left ul li h4					{font-family: 'AvenirNext-Regular'; font-weight:bold; font-size:30px; line-height:32px; color:#5a5a5a; padding:0 0 12px 0;}	
+.art_left ul li p					{font-family: 'AvenirNext-Regular'; font-weight:bold; font-size:18px; line-height:20px; color:#5a5a5a;}
+.art_left ul li a					{font-family: 'AvenirNext-Regular'; font-weight:bold; font-size:16px; line-height:20px; color:#8e8e8e;}
+.art_left ul li:nth-child(2)		{/*padding:35px 44px 0 0;*/ padding:35px 20px 0 0; width:256px;}
+.art_left ul li:nth-child(3)		{padding:35px 20px 0 0; width:210px;}
+
+
+.art_rt								{display:inline-block; float:right; width:130px; text-align:right; padding:1px 0 0 0;}
+.art_rt ul							{display:block;}
+.art_rt ul li						{display:block; border-bottom:1px solid #e9e9e9; margin:0 0 16px 0; padding:0 0 16px 0;}
+.art_rt ul li a						{font-family: 'AvenirNext-Regular'; font-size:16px; line-height:16px; color:#e545a2;}
+.art_rt ul li a.act					{font-family: 'AvenirNext-Medium'; font-size:13px; line-height:13px; color:#00c5a3; margin:0 0 7px 0; display:inline-block;}
+.img-gallery-search					{width:250px; height:auto; /*height:150px;*/ }
+/* ---------------------------------------------------------*/
+
+.subscription_sec					{display:block;}
+.subscription_sec ul				{display:block;}
+.subscription_sec ul li				{display:block; width:100%; border-bottom:1px solid #e9e9e9; padding:30px 0;}
+.subscription_sec ul li h5			{display:inline-block; float:left; font-family: 'AvenirNext-Medium'; font-size:24px; line-height:25px; color:#5a5a5a; font-weight:normal;}
+.subscription_sec ul li h6			{display:inline-block; float:right; font-family: 'AvenirNext-Regular'; font-size:16px; line-height:18px; color:#e545a2;}
+.subscription_sec ul li .subscript	{display:inline-block; float:left; width:600px;}
+.subscription_sec ul li h3			{display:inline-block; float:left; font-family: 'AvenirNext-UltraLight'; font-size:36px; line-height:38px; color:#5a5a5a;}
+.subscription_sec ul li span		{display:inline-block; float:right; font-family: 'AvenirNext-UltraLight'; font-size:36px; line-height:38px; color:#5a5a5a;}
+
+
+
+
+/* ------------------------ gallery pending items HERE --------------*/
+.adminpendings						{width:960px; display:block;}
+.pendings							{display:block; padding:33px 0 18px 0;}
+.pendings-left						{width:738px; float:left; margin:0 0 0 0;}
+.pendings-left h3					{font-family: 'AvenirNext-Medium'; font-size:24px; line-height:25px; color:#5a5a5a; font-weight:normal; padding:0 0 50px 0;}
+.pendings-left h4					{font-family: 'AvenirNext-DemiBold'; font-size:20px; line-height:20px; color:#a8a8a8; background:url(../images/line2-bg.png) no-repeat right center;}
+.pendings-right						{width:216px; float:right; margin:63px 0 12px 0;}
+.pendings-right a					{font-family: 'AvenirNext-Medium'; font-size:16px; line-height:25px; color:#f8f8f8; font-weight:normal; background:#d8127d; border:1px solid #a40d5f; border-radius:7px; padding:12px 0 11px 0; display:block; width:209px; text-align:center;}
+.pending_last						{padding:21px 0 18px 0;}
+.pen_left							{padding:12px 0 0 0;}
+
+.gallery							{width:960px; display:block; padding:0 0 14px 0;}
+.gallery-left						{width:760px; float:left; display:inline-block; margin:0 0 0 0; padding:35px 0 0 0;}
+.gallery-left ul					{padding:0 0 0 0; float:left; list-style-type:none;}
+.gallery-left ul li					{margin:0 0 0 0; float:left; display:inline-block; padding:0 84px 0 0; width:300px; }
+.gallery-left ul li h3				{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:30px; line-height:30px; color:#5a5a5a; padding:0 0 13px 0;}
+.gallery-left ul li p				{font-family: 'AvenirNext-Regular'; font-size:18px; line-height:18px; font-weight:normal; color:#5a5a5a; padding:0 0 0 0;}
+.gallery-left ul li a				{font-family: 'AvenirNext-Regular'; font-size:18px; line-height:18px; font-weight:normal; color:#5a5a5a; padding:0 0 0 0;}
+.gallery-left ul li a:hover			{text-decoration:underline;}
+.gallery-right						{width:130px; float:right; display:inline-block;}
+.gallery-right a span				{font-family: 'AvenirNext-Regular'; font-size:13px; line-height:13px; font-weight:normal; color:#5aa3e8; padding:0 0 6px 0; display:block; text-align:right;}
+.gallery-right a					{font-family: 'AvenirNext-Regular'; font-size:16px; line-height:16px; font-weight:normal; color:#e545a2; padding:0 0 33px 0; display:block; text-align:right; background:url(../images/line3.png) no-repeat 0px 31px;}
+.accept								{width:960px; display:block; padding:0 0 0px 0;}
+.accept-left						{width:731px; float:left; display:inline-block; margin:0 0 0 0; padding:0px 0 0 0;}
+.accept-left ul						{padding:0 0 0 0; float:left; list-style-type:none;}
+.accept-left li						{margin:0 0 0 0; float:left; display:inline-block; padding:10px 38px 0 0; max-width: 400px;}
+.accept-left ul li h3				{font-family: 'AvenirNext-Regular'; font-size:30px; line-height:30px; color:#5a5a5a; padding:64px 0 14px 0;}
+.accept-left ul li p				{font-family: 'AvenirNext-Regular'; font-size:18px; line-height:18px; font-weight:normal; color:#5a5a5a; padding:0 0 0 0;}
+.accept-right						{width:130px; float:right; display:inline-block; padding:80px 0 0 0;}
+.accept-right a						{font-family: 'AvenirNext-Regular'; font-size:16px; line-height:16px; font-weight:normal; color:#e545a2; padding:0 0 33px 0; display:block; text-align:right; background:url(../images/line3.png) no-repeat 0px  31px;}
+/* ---------------------------------------------------------*/
+
+/* ------------------------ management HERE --------------*/
+
+.admin_menu							{display:block; border-bottom:1px solid #e9e9e9; border-top:1px solid #e9e9e9; padding:6px 0 6px 0; margin-bottom: 25px;}
+.menu_left							{display:inline-block; float:left; padding:5px 0 0 0; }
+.menu_left h3						{font-family: 'AvenirNext-Regular'; font-size:22px; line-height:28px; font-weight:normal; color:#000000;}
+.menu_left p						{font-family: 'AvenirNext-Regular'; font-size:18px; line-height:22px; font-weight:normal; color:#000000;}
+.menu_right							{display:inline-block; float:right; width:196px; text-align:right; padding:5px 0 0 0; }
+.menu_right ul						{display:block;}
+.menu_right ul li					{display:block; border-bottom:1px solid #e9e9e9; padding:10px 0; }
+.menu_right ul li a					{font-family: 'AvenirNext-Regular'; font-size:16px; line-height:18px; color:#e545a2;}
+
+.address_cont						{display:block; padding:44px 0 27px 0;}
+.address_left						{display:inline-block; float:left;}
+.address_left ul					{display:block;}
+.address_left ul li					{display:block; padding:0 0 15px 0;}
+.address_left ul li label			{display:inline-block; float:left; font-family: 'AvenirNext-Regular'; font-size:18px; line-height:20px; color:#a8a8a8; width:163px; padding-top: 15px; }
+.address_left ul li p				{display:inline-block; float:left; width:315px;}
+.address_left ul li p span			{display:inline-block; float:left; font-family: 'AvenirNext-Regular'; font-size:18px; line-height:25px; color:#000000; width:290px;}
+
+.address_left ul li p a				{display:inline-block; float:right;}
+.address_left ul li input			{display:inline-block; float:left; font-family: 'AvenirNext-Regular'; font-size:18px; line-height:20px; color:#000000; background:#f6f6f6; border:1px solid #e9e9e9; border-radius:5px; padding:13px 14px 10px; width:286px;}
+
+.address_rt							{display:inline-block; float:right; width:430px;}
+.address_rt h4						{text-indent:10px; font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#a8a8a8;}
+.address_rt p						{font-family: 'AvenirNext-Italic'; font-size:13px; line-height:15px; color:#a8a8a8; padding:0 0 11px 0;}
+.address_rt ul						{display:block; float:right; padding:3px 0 0 0;}
+.address_rt ul li					{display:inline-block; float:left; /*padding:0 6px 0 0;*/}
+
+.hours_cont							{display:block; border-bottom:1px solid #e9e9e9;}
+.hours_cont h3						{font-family: 'AvenirNext-DemiBold'; font-size:20px; line-height:20px; color:#a8a8a8;  background:url(../images/hours_line.png) no-repeat right center;}
+.weak_data							{display:inline-block; float:left; width:874px;}
+
+.weak_data ul						{display:block; float:left; border-bottom:1px solid #e9e9e9; padding:6px 0 15px; }
+.weak_data ul li					{display:inline-block; float:left; width:100px; text-align:center;}
+.weak_data ul li p					{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:14px; line-height:15px;  color:#000000;}
+.weak_data ul li.days				{display:block; width:166px; height:10px; text-align:left;}
+
+.open_close							{display:block; float:left; width:166px; }
+.open_close ul li					{display:block; float:left; width:166px; text-align:left; padding:18px 0 0 0; height:10px;}
+.open_close ul li p					{font-family: 'AvenirNext-Medium'; font-weight:normal; font-size:14px; line-height:15px;  color:#000000;}
+
+.day								{display:block; float:left; width:100px; }
+.day ul li							{display:block; float:left; width:100px; text-align:center; padding:18px 0 0 0; height:10px; }
+.day ul li p						{font-family: 'AvenirNext-Medium'; font-weight:normal; font-size:14px; line-height:15px;  color:#000000;}
+
+.time								{display:inline-block; float:left; width:766px;}
+.time ul							{border:none; display:block; float:left; padding:21px 0 13px 0; }
+.time ul li p						{font-family: 'AvenirNext-Medium'; }
+.close_cont							{display:inline-block; float:left; background:#f9f9f9; width:100px; text-align:center; padding:34px 0 31px;}
+.close_cont p						{font-family: 'AvenirNext-Medium'; font-size:14px; line-height:16px; color:#a8a8a8; text-transform:uppercase; font-weight:normal; }
+.by_appointment             {display:inline-block; float:left; background:#f9f9f9; width:100px; text-align:center; padding:34px 0 31px;}
+.by_appointment p           {font-family: 'AvenirNext-Medium'; font-size:10px; line-height:16px; color:#a8a8a8; text-transform:uppercase; font-weight:normal; }
+.weak_edit							{display:inline-block; float:right; width:85px; padding:43px 0 0 0;}
+.weak_edit a img					{display:block; margin:0 auto;}
+.save_changes						{display:block; float:right; padding:25px 0 0 0}
+.save_changes a						{font-family: 'AvenirNext-Medium'; font-size:20px; line-height:22px; color:#f8f8f8; width:227px; text-align:center; padding:18px 0; background:#d8127d; border:1px solid #a40d5f; border-radius:5px; display:block;}
+.save_changes a.no_changes			{background:#979797; border:1px outset buttonface; }
+
+/*---------------------subscriber page----------------------*/
+
+.subsribers							{width:960px; display:block; border-bottom:1px solid #e9e9e9;}
+.subsribers h3						{font-family: 'AvenirNext-Medium'; font-size:24px; line-height:25px; color:#5a5a5a; font-weight:normal; padding:32px 0 31px 0; letter-spacing:-1px;}
+
+.subsribers ul						{display:inline-block; float:left; width:475px;}
+.subsribers ul li					{display:block; padding:0 0 19px 0;}
+.subsribers ul li label				{display:inline-block; float:left; width:158px; font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#a8a8a8; padding:15px 0 0 0;}
+.subsribers ul li input		{display:inline-block; float:left; width:288px; background:#f6f6f6; border:1px solid #e9e9e9; border-radius:8px; font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#000000; outline:none; padding:11px 10px 12px;}
+.subsribers ul.rt				{float:right; padding:0 0 16px 0 ;}
+
+/*.subsribers ul						{display:block; float:left; width:100%; border-top:1px solid #e9e9e9; padding:20px 0 0 0;}
+.subsribers ul li					{display:inline-block; float:left; padding:0 0 21px 0;}
+.subsribers ul li label				{font-family: 'AvenirNext-Medium'; font-size:17px; line-height:18px; color:#a8a8a8; font-weight:normal; padding:15px 0 0px 0; display:inline-block; width:159px; display:inline-block; float:left;}
+.subsribers ul li input				{padding:16px 11px 16px 11px; margin:0 0 0 0; width:286px; border-radius:5px; border:1px solid #e9e9e9; background:#f6f6f6; display:inline-block; float:left;}
+.subsribers ul li.rt				{float:right;}*/
+.subsribers ul li a					{font-family: 'AvenirNext-Medium'; font-size:16px; line-height:25px; color:#f8f8f8; font-weight:normal; background:#d8127d; border:1px solid #a40d5f; border-radius:7px; padding:12px 0 9px 0; float:right; width:138px; text-align:center;}
+
+.dominic							{width:960px; display:block; border-bottom:1px solid #e9e9e9; padding:0 0 21px 0;}
+.dominic-left						{width:600px; float:left; margin:0 0 0 0; padding:38px 0 0 0;}
+.dominic-left ul					{padding:0 0 0 0; float:left; display:inline-block; list-style-type:none;}
+.dominic-left ul li					{float:left; margin:0 0 0 0; padding:0 50px 0 0; display:inline-block; width:257px; overflow: hidden; text-overflow: ellipsis;}
+.dominic-left ul li h2				{font-family: 'AvenirNext-Regular'; font-size:30px; line-height:30px; font-weight:normal; color:#5a5a5a; padding:0 0 14px 0; display:block; letter-spacing:-2px;}
+.dominic-left ul li a				{font-family: 'AvenirNext-Regular'; font-size:18px; line-height:18px; font-weight:normal; color:#5a5a5a; padding:0 0 3px 0; /*display:inline-block;*/ overflow: hidden; text-overflow: ellipsis;}
+.dominic-left ul li a.active		{color:#00c5a3; font-size:13px; padding:23px 0 0 0;}
+.dominic-left ul li a.suspended		{color:#e545a2; font-size:13px; padding:23px 0 0 0;}
+.dominic-left ul li span			{font-family: 'AvenirNext-Regular'; font-size:18px; line-height:18px; font-weight:normal; color:#5a5a5a; padding:0 0 0px 0; display:block; letter-spacing:-1px;}
+.dominic-left ul li p				{font-family: 'AvenirNext-Regular'; font-size:18px; line-height:18px; font-weight:normal; color:#5a5a5a; padding:0 0 0px 0; display:block;}
+.dominic-left ul li a:hover			{text-decoration:underline;}
+.dcart								{width:205px; float:left;}
+.dcart h2							{font-family: 'AvenirNext-Regular'; font-size:30px; line-height:30px; font-weight:normal; color:#5a5a5a; padding:0 0 13px 0; display:block; letter-spacing:-2px;}
+.dcart span							{font-family: 'AvenirNext-Regular'; font-size:18px; line-height:18px; font-weight:normal; color:#5a5a5a; padding:0 0 28px 0; display:block;}
+.dcart a							{font-family: 'AvenirNext-Regular'; font-size:13px; line-height:13px; font-weight:400; color:#00c5a3; padding:0 0 0px 0; display:block;}
+.dcart a:hover						{text-decoration:underline;}
+.dominic-right						{float:right; display:inline-block; padding:39px 0 0 0; text-align:right; width:330px;}
+.dominic-right p					{font-family: 'AvenirNext-Medium'; font-size:13px; line-height:13px; color:#000; font-weight:normal; /*padding:0 20px 0 0;*/ padding:5px 0 0 0;}
+.dominic-right p span				{padding:0 0 0 16px; display:inline;}
+.dominic-right ul					{display:block; padding:10px 0 0 0; float:right;}
+.dominic-right ul li				{display:block; width:128px; border-bottom:1px solid #e9e9e9; text-align:right; padding:15px 0 15px 0}
+.dominic-right ul li a				{font-family: 'AvenirNext-Regular'; font-size:16px; line-height:16px; font-weight:700; color:#e545a2; padding:0; display:inline-block;;  }
+.dominic-right ul li a:hover		{text-decoration:underline;}
+/* ---------------------------------------------------------*/
+
+
+/*---------------------admin artist page----------------------*/
+.admin_artist						{display:block; border-bottom:1px solid #e9e9e9; padding:0 0 20px 0;}
+
+.admin_artist ul					{display:inline-block; float:left; width:475px;}
+.admin_artist ul li					{display:block; padding:0 0 19px 0;}
+.admin_artist ul li label			{font-family: 'AvenirNext-Medium'; font-size:17px; line-height:18px; color:#a8a8a8; font-weight:normal; padding:16px 0 0px 0; display:inline-block; width:155px; display:inline-block; float:left;}
+.admin_artist ul li input			{display:inline-block; float:left; width:288px; background:#f6f6f6; border:1px solid #e9e9e9; border-radius:8px; font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#000000; outline:none; padding:11px 10px 12px;}
+.admin_artist ul.rt					{float:right; padding:0 0 16px 0 ;}
+.admin_artist ul li.rt				{float:right;}
+.admin_artist ul li.rt label		{width:165px;}*
+
+.admin_artist h3					{font-family: 'AvenirNext-Medium'; font-size:24px; line-height:25px; color:#5a5a5a; font-weight:normal; padding:32px 0 32px 0;}
+/*.admin_artist ul					{display:block; float:left; width:100%; border-top:1px solid #e9e9e9; padding:19px 0 21px 0;}
+.admin_artist ul li					{display:inline-block; float:left;}
+.admin_artist ul li label			{font-family: 'AvenirNext-Medium'; font-size:17px; line-height:18px; color:#a8a8a8; font-weight:normal; padding:16px 0 0px 0; display:inline-block; width:155px; display:inline-block; float:left;}
+.admin_artist ul li input			{display:inline-block; float:left; padding:16px 11px 16px 11px; margin:0 0 0 0; width:286px; border-radius:5px; border:1px solid #e9e9e9; background:#f6f6f6;}
+.admin_artist ul li.rt				{float:right;}
+.admin_artist ul li.rt label		{width:165px;}*/
+.admin_artist a						{font-family: 'AvenirNext-Medium'; font-size:16px; line-height:25px; color:#f8f8f8; font-weight:normal; background:#d8127d; border:1px solid #a40d5f; border-radius:7px; padding:12px 0 11px 0; float:right; width:138px; text-align:center;}
+
+
+.artist_cont						{display:block; border-bottom:1px solid #e9e9e9; padding:33px 0 7px;}
+.name								{display:inline-block; float:left; width:418px; padding:4px 0 0 0;}
+.name h4							{display:block; font-family: 'AvenirNext-Regular'; font-size:30px; line-height:32px; color:#5a5a5a; font-weight:normal;}
+.name a								{font-size:16px; line-height:16px; color:#e545a2; font-weight:normal; padding:4px 0 0 0 ;}
+
+.works								{display:inline-block; float:left; padding:5px 0 0 0;}
+.works ul							{display:block; float:left;}
+.works ul li 						{display:inline-block; float:left; text-align:center; padding:0 58px 0 0;}
+.works ul li p						{font-family: 'AvenirNext-Regular'; font-size:30px; line-height:32px; color:#5a5a5a;}
+.works ul li p span					{font-size:16px; line-height:16px; color:#a8a8a8; display:block; padding:3px 0 0 0;}
+
+.btn-edit-artwork					{position: absolute; top:2px; left: 3px;}
+.btn-delete-artwork					{position: absolute; top:-1px; right: 2px; color:#DB2891; font-size:24px; font-weight:bold;}
+.artwork-img						{position: relative;}
+
+.remove_cont						{display:inline-block; float:right; width:130px;}
+.remove_cont ul						{display:block;}
+.remove_cont ul li 					{display:block;text-align:right; padding:0 0 11px 0; border-bottom:1px solid #e9e9e9; margin:0 0 13px 0;}
+.remove_cont ul li a				{font-family: 'AvenirNext-Regular'; font-size:16px; line-height:18px; color:#e545a2;}
+/* ---------------------------------------------------------*/
+/*---------------------drop_down starts----------------------*/
+
+.gallery_details ul li .dd .ddTitle .ddTitleText			{padding:16px 20px 13px 15px;}
+.gallery_details ul li .dd			{width:306px !important; border-radius:8px; outline:none;}
+.gallery_details ul li .dd .ddTitle	{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#000000; background:#f6f6f6; border-radius:8px;}
+.gallery_details ul li .dd .ddArrow	{background:url(../images/dd_arrow.png) no-repeat center #979797; right:0px; top:0px; width:50px; height:50px; margin:0px; border-radius:0 7px 7px 0;}
+.gallery_details ul li .dd .ddChild li	{width:98%;}
+
+.subsribers ul li .dd .ddTitle .ddTitleText			{padding:16px 20px 13px 15px;}
+.subsribers ul li .dd								{width:306px !important; border-radius:8px; outline:none;}
+.subsribers ul li .dd .ddTitle						{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#000000; background:#f6f6f6; border-radius:8px;}
+.subsribers ul li .dd .ddArrow						{background:url(../images/dd_arrow.png) no-repeat center #979797; right:0px; top:0px; width:50px; height:50px; margin:0px; border-radius:0 7px 7px 0;}
+.subsribers ul li .dd .ddChild li					{width:98%;}
+
+.about_pop_cont ul li .dd .ddTitle .ddTitleText		{padding:16px 20px 13px 15px;}
+.about_pop_cont ul li .dd							{width:341px !important; border-radius:8px; outline:none;}
+.about_pop_cont ul li .dd .ddTitle					{font-family: 'AvenirNext-Regular'; font-weight:normal; font-size:18px; line-height:20px; color:#000000; background:#f6f6f6; border-radius:8px;}
+.about_pop_cont ul li .dd .ddArrow					{background:url(../images/dd_arrow.png) no-repeat center #979797; right:0px; top:0px; width:50px; height:50px; margin:0px; border-radius:0 7px 7px 0;}
+.about_pop_cont ul li .dd .ddChild li				{width:98%;}
+.about_pop_cont ul li .ddcommon ul li				{margin:0px;}
+
+/*---------------------drop_down ends----------------------*/
+.address_rt .bx-wrapper						{margin:0 auto 7px;}
+.address_rt .bx-wrapper .bx-viewport		{box-shadow:none; border:0px;}
+
+.map_canvas {
+    width: 478px;
+    height: 300px;
+    margin: 10px 20px 10px 0;
+}
