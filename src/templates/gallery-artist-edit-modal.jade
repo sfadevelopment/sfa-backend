@@ -1,0 +1,38 @@
+include ./_spinner
+.close-icon.close(ng-click="ctrl.close()") &times;
+.modal-header
+    h3.modal-title {{ctrl.artist.name}}
+.modal-body
+      .row(ng-show="!ctrl.uploadInProgress")
+        .col-xs-12(ng-show="!ctrl.editing")
+            .row
+              .col-xs-8 
+                | Drag and drop your images and organize them into the order you would like them displayed.
+              .col-xs-4
+                a.btn.btn-pink.small.full-width(ng-click="ctrl.uploadMore()") + Add images
+            .row
+              .col-xs-12.images-dnd
+                div.drop-box(ngf-drop="ctrl.uploadFilesOnDrop($files)", ngf-drag-over-class="'dragover'", ngf-multiple="true")
+                  ul(dnd-list="ctrl.artist.artworks")
+                     li.pointer(ng-repeat="item in ctrl.artist.artworks",
+                         dnd-draggable="item",
+                         dnd-moved="ctrl.artist.artworks.splice($index, 1)",
+                         dnd-effect-allowed="move",
+                         dnd-selected="ctrl.onItemSelect(item, $index)",
+                         ng-class="{'selected': ctrl.isSelected(item)}")
+                          img.image-display(ng-src="{{item.small_crop}}")
+                          .number {{$index + 1}}
+                          .actions
+                            a(href="#", ng-click="ctrl.removeArtwork(item, $event)")
+                              i.glyphicon.glyphicon-trash
+            .row
+              .col-xs-6
+                button.btn.btn-grey.full-width(type="reset", ng-click="ctrl.close()") Cancel
+              .col-xs-6
+                button.btn.btn-pink.full-width(ng-click="ctrl.save()" ng-disabled='!ctrl.hasChanged() || inProgress') Save 
+        .col-xs-12(ng-if="ctrl.editing")
+            artwork-form(artwork-data="ctrl.selected", in-progress="inProgress", gallery-id="{{ctrl.galleryId}}", artist-id="{{ctrl.artistId}}" after-save="ctrl.afterArtworkSave", on-cancel="ctrl.closeSelected", gallery-has-facebook="{{ctrl.galleryHasFacebook}}", gallery-has-twitter="{{ctrl.galleryHasTwitter}}") 
+      .row(ng-show="ctrl.uploadInProgress")
+          .col-xs-12
+            artwork-upload(gallery-id="{{ctrl.galleryId}}", artist-id="{{ctrl.artistId}}" artwork-list="ctrl.artist.artworks", on-cancel="ctrl.onCacelUpload", gallery-has-facebook="{{ctrl.galleryHasFacebook}}", gallery-has-twitter="{{ctrl.galleryHasTwitter}}", files-to-upload="ctrl.selectedFiles", display-load-dialog="ctrl.displayLoadDialog", on-edit-start="ctrl.onEditStart")                             
+            

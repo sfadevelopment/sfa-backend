@@ -1,0 +1,32 @@
+.row
+	.col-xs-12
+		form(name="cardForm")
+
+			.row
+				.col-xs-12
+					.form-group(ng-class="{'has-error':hasError('cardForm','name')}")
+						input.form-control(type="text", placeholder="Cardholder’s name", required="", name="name", ng-model="cardData.name")
+						span.help-block
+							span(ng-show="hasError('cardForm', 'name', 'required')") Cardholder’s name is required
+								
+			.row
+				.col-xs-12
+					.form-group(ng-class="{'has-error':hasError('cardForm','number')}")
+						input.form-control(type="text", placeholder="Card number", credit-card-number="", ng-model="cardData.number", name="number", ui-mask="9999-9999-9999-9999", ui-mask-placeholder="", ui-mask-placeholder-char="_", required="")
+						span.help-block
+							span(ng-show="hasError('cardForm', 'number', 'invalidCardNumber')") Invalid card number
+							span(ng-show="hasError('cardForm', 'number', 'required')") Card number required
+			.row
+				.col-xs-6
+					.form-group(ng-class="{'has-error':hasError('cardForm','date')}")
+						input.form-control(type="text", name="date" placeholder="mm/yy", data-ng-pattern="/(0[1-9]|1[0-2])\/?([0-9]{2})$/", required="", ng-model="cardData.date", ui-mask="99-99")
+						span.help-block
+							span(ng-show="hasError('cardForm', 'date', 'pattern')") Invalid date
+							span(ng-show="hasError('cardForm', 'date', 'required')") Date required
+				.col-xs-6
+					.form-group(ng-class="{'has-error':hasError('cardForm','cvc')}")
+						input.form-control(type="text", name="cvc", placeholder="CVC", required="", data-ng-pattern="/^[0-9]+$/", data-ng-minlength="3", maxlength="4", ng-model="cardData.cvc")
+						span.help-block
+							span(ng-show="hasError('cardForm', 'cvc', 'required')") Security code required
+							span(ng-show="hasError('cardForm', 'cvc', 'minlength')") Security code must be 3-4 digits
+							span(ng-show="hasError('cardForm', 'cvc', 'pattern')") Security code must contain only numbers

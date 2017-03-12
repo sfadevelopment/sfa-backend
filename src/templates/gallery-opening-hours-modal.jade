@@ -1,0 +1,50 @@
+include ./_spinner
+.modal-header
+	h3.modal-title Change hours
+.modal-body.hours-change-modal
+	.row
+		.col-xs-12
+			.row
+				.col-xs-12
+					.row
+						.col-xs-12
+							.row.day-item
+								.col-xs-4
+									| Monday
+								.col-xs-8 {{ctrl.getHourDisplay('mon')}} 
+							.row.day-item
+								.col-xs-4
+									| Tuesday
+								.col-xs-8 {{ctrl.getHourDisplay('tue')}} 
+							.row.day-item
+								.col-xs-4
+									| Wednesday
+								.col-xs-8 {{ctrl.getHourDisplay('wed')}} 
+							.row.day-item
+								.col-xs-4
+									| Thursday
+								.col-xs-8 {{ctrl.getHourDisplay('thu')}} 
+							.row.day-item
+								.col-xs-4
+									| Friday
+								.col-xs-8 {{ctrl.getHourDisplay('fri')}}
+							.row.day-item
+								.col-xs-4
+									| Saturday
+								.col-xs-8 {{ctrl.getHourDisplay('sat')}}
+							.row.day-item
+								.col-xs-4
+									| Sunday
+								.col-xs-8 {{ctrl.getHourDisplay('sun')}}	
+							.row.margin-top-very-small(ng-show="!ctrl.editingHours")
+								.col-xs-12
+									a.btn.btn-pink.small(ng-click="ctrl.editHours()", href="#") Change
+							.row.margin-top-very-small(ng-show="!ctrl.editingHours")
+								.col-xs-6
+									button.btn.btn-grey.full-width.small(type="reset", ng-click="ctrl.close()") Cancel
+								.col-xs-6
+									button.btn.btn-pink.full-width.small(type="submit", ng-disabled='inProgress || !ctrl.changedHours', ng-click="ctrl.onFormSubmit()") Save  
+
+					.row.margin-top-small(ng-if="ctrl.editingHours")
+						.col-xs-12
+							hour-input(on-cancel="ctrl.onHoutInputCancel", on-change="ctrl.onHoutInputChange")

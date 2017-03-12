@@ -1,0 +1,64 @@
+include ./_spinner
+.modal-header
+    h3.modal-title Change address
+.modal-body
+    .map_canvas
+    .map-info-text Please use quick-locator below or manually drag the map marker to the right location.
+
+    form#addressForm.address_detail.form-horizontal(ng-submit='ctrl.onFormSubmit()', name='addressForm', novalidate='')
+      .form-group
+          div.col-sm-12
+            input.form-control#geocomplete(type='text', placeholder="Quick Locator : Type in any address or zip code here")
+      .form-group(ng-class="{'has-error':ctrl.hasError('addressForm','address')}")
+        label.col-sm-3.control-label(for="gallery_country") Address
+        div.col-sm-9  
+          input.form-control(type='text', name='address', ng-model='ctrl.addressData.address', placeholder='Street or Building or P.O Box', required='')
+          span.help-block
+            span(ng-show="ctrl.hasError('addressForm', 'address', 'required')") Field is required  
+
+      .form-group(ng-class="{'has-error':ctrl.hasError('addressForm','address2')}")
+        label.col-sm-3.control-label(for="gallery_country") Address 2 
+        div.col-sm-9  
+          input.form-control(type='text', name='address2', ng-model='ctrl.addressData.address2', placeholder='APT, Suite, Unit')
+          span.help-block
+            span(ng-show="ctrl.hasError('addressForm', 'address', 'required')") Field is required 
+
+      .form-group(ng-class="{'has-error':ctrl.hasError('addressForm','locality')}")
+        label.col-sm-3.control-label(for="gallery_country") City
+        div.col-sm-9  
+          input#gallery_city.form-control(type='text', name='locality', ng-model='ctrl.addressData.city_name', placeholder='City', required='')
+          span.help-block
+            span(ng-show="ctrl.hasError('addressForm', 'locality', 'required')") Field is required    
+      .form-group(ng-class="{'has-error':ctrl.hasError('addressForm','administrative_area_level_1')}")
+        label.col-sm-3.control-label(for="gallery_country") State
+        div.col-sm-9  
+          input#gallery_state.form-control(type='text', name='administrative_area_level_1', ng-model='ctrl.addressData.state', placeholder='State', required='')
+          span.help-block
+            span(ng-show="ctrl.hasError('addressForm', 'administrative_area_level_1', 'required')") Field is required
+      .form-group(ng-class="{'has-error':ctrl.hasError('addressForm','postal_code')}")
+        label.col-sm-3.control-label(for="gallery_country") Zip Code
+        div.col-sm-9  
+          input#postal_code.form-control(type='text', name='postal_code', ng-model='ctrl.addressData.zipcode', placeholder='Zip code', required='')
+          span.help-block
+            span(ng-show="ctrl.hasError('addressForm', 'postal_code', 'required')") Field is required       
+
+      .form-group(ng-class="{'has-error':ctrl.hasError('addressForm','country')}")
+        label.col-sm-3.control-label(for="gallery_country") Country
+        div.col-sm-9  
+          input#gallery_country.form-control(type='text', name='country', ng-model='ctrl.addressData.country_name', placeholder='Country', required='')
+          span.help-block
+            span(ng-show="ctrl.hasError('addressForm', 'country', 'required')") Field is required
+      
+      input.hidden-input(ng-model="ctrl.addressData.country_code", name="country_short")
+      input.hidden-input(ng-model="ctrl.addressData.country_id", name="gallery_country_id") 
+      input.hidden-input(ng-model="ctrl.addressData.state_id", name="gallery_state_id")
+      input.hidden-input(ng-model="ctrl.addressData.state_code", name="administrative_area_level_1_short") 
+      input.hidden-input(ng-model="ctrl.addressData.city_id", name="gallery_city_id")
+      input.hidden-input(ng-model="ctrl.addressData.latitude", name="lat" ) 
+      input.hidden-input(ng-model="ctrl.addressData.longitude",  name="lng") 
+      div.row
+        .col-xs-6
+            button.btn.btn-grey.full-width(type="reset", ng-click="ctrl.close()") Cancel
+        .col-xs-6
+            button.btn.btn-pink.full-width(type='submit', ng-disabled='inProgress') Save
+

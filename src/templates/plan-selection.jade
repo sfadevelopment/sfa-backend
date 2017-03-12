@@ -1,0 +1,38 @@
+.pricing-table
+			.pricing-time-swither
+				button(ng-click="showPricing('monthly')", ng-class="{'active': isPricingVisible('monthly')}") Monthly
+				button(ng-click="showPricing('yearly')", ng-class="{'active': isPricingVisible('yearly')}") Yearly
+			.pricing-items
+				.pricing-item.three.highlight-middle(ng-repeat='plan in plans')
+					.pricing-body.clearfix
+						h4(ng-bind='plan.name')
+						.price-display 
+							span.amount(ng-bind='getPricingDisplay(plan)')
+							span.duration()
+								span(ng-bind="visiblePricing", ng-show="plan.monthly_price") 
+						.plan-info
+							.plan-feature
+								span(ng-if="!plan.artists_count")
+									| unlimited artists
+								span(ng-if="plan.artists_count")
+									| Feature up to {{plan.artists_count}} artists on your gallery profile	
+							.plan-feature
+								span(ng-if="!plan.artist_images_count")
+									| unlimited artworks
+								span(ng-if="plan.artist_images_count")
+									| up to {{plan.artist_images_count}} artworks per artist
+							.plan-feature
+								span(ng-bind='getFeatureNumberDisplay(plan.events_count)')
+								ng-pluralize(count='plan.events_count||0', when="{'1': ' event',\
+								'other': ' events'}") event	
+						a.btn.btn-pink.margin-top-small(ng-click='selectPlan(plan)', ng-bind='getActionButtonText(plan)')
+						span.pricing-compare-display(ng-if="isPricingVisible('monthly')")
+							div(ng-if='plan.monthly_price')
+								| *annual plan saves you $
+								span {{(12 * plan.monthly_price)-plan.yearly_price }}
+
+
+
+
+
+						

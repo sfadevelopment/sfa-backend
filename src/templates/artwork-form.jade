@@ -1,0 +1,105 @@
+include ./_spinner
+div
+    form#artworkForm.form-horizontal.margin-top-small(ng-submit='ctrl.onFormSubmit()', name='artworkForm', novalidate='')
+        .form-group
+            .col-md-6.col-md-offset-3
+                img.full-width(ng-src="{{artworkData.original_image_link}}")
+        .form-group(ng-class="{'has-error':ctrl.hasError('artworkForm','name')}")
+            label.col-sm-3.control-label(for="name") Title
+            .col-sm-9
+                input.form-control(type='text', name='name', ng-model='artworkData.name', placeholder='Title', required='')
+                span.help-block
+                    span(ng-show="ctrl.hasError('artworkForm', 'name', 'required')") Field is required
+
+        .form-group(ng-class="{'has-error':ctrl.hasError('artworkForm','medium')}")
+            label.col-sm-3.control-label(for="medium") Medium  
+            .col-sm-9
+                input.form-control(type='text', name='medium', ng-model='artworkData.medium', placeholder='Medium', required='')
+                span.help-block
+                    span(ng-show="ctrl.hasError('artworkForm', 'medium', 'required')") Field is required   
+
+        .form-group()
+            label.col-sm-3.control-label(for="dimensions") Dimensions
+            .col-sm-9
+                .form-group(ng-class="{'has-error': ctrl.hasError('artworkForm','height')}")
+                    label.col-sm-3.control-label Height
+                    .col-sm-9
+                        input.form-control(type='text', name='height', ng-model='artworkData.height', placeholder='Height', required='')  
+                        span.help-block
+                            span(ng-show="ctrl.hasError('artworkForm', 'height', 'required')") Field is required
+                .form-group(ng-class="{'has-error':ctrl.hasError('artworkForm','width')}")
+                    label.col-sm-3.control-label Width        
+                    .col-sm-9    
+                        input.form-control(type='text', name='width', ng-model='artworkData.width', placeholder='Width', required='')    
+                        span.help-block
+                            span(ng-show="ctrl.hasError('artworkForm', 'width', 'required')") Field is required 
+                .form-group(ng-class="{'has-error': ctrl.hasError('artworkForm','depth')}")
+                    label.col-sm-3.control-label Depth         
+                    .col-sm-9
+                        input.form-control(type='text', name='depth', ng-model='artworkData.depth', placeholder='Depth')   
+                        span.help-block
+                            span(ng-show="ctrl.hasError('artworkForm', 'depth', 'required')") Field is required 
+                .form-group(ng-class="{'has-error': ctrl.hasError('artworkForm', 'dimensionsUnit')}")
+                    label.col-sm-3.control-label Unit
+                    .col-sm-9
+                        ol.nya-bs-select(ng-model="artworkData.dimensions_unit", required="true", name="dimensions_unit")
+                            li(nya-bs-option="unit in ctrl.availableUnits")
+                                a {{unit}} 
+                        span.help-block
+                            span(ng-show="ctrl.hasError('artworkForm', 'dimensions_unit', 'required')") Field is required  
+                               
+        .form-group(ng-class="{'has-error':ctrl.hasError('artworkForm','styles')}")
+            label.col-sm-3.control-label(for="styles") Styles
+            .col-sm-9
+                ui-select(multiple, ng-model="artworkData.styles", name="styles", ui-select-required="true")
+                    ui-select-match(placeholder="Select style...") {{$item.name}}
+                    ui-select-choices(repeat="style in ctrl.styles | propsFilter: {name: $select.search}")
+                        div(ng-bind-html="style.name | highlight: $select.search")
+                span.help-block
+                      span(ng-show="ctrl.hasError('artworkForm', 'styles', 'uiSelectRequired')") Field is required 
+        .form-group(ng-class="{'has-error':ctrl.hasError('artworkForm','price') || ctrl.hasError('artworkForm','priceDisplay')}")  
+            label.col-sm-3.control-label(for="styles") Price
+            .col-sm-9
+                div.radio
+                    label
+                        input(type="radio", ng-model="artworkData.price", value="-1", name="price", ng-required="!artworkData.price")  
+                        | Sold   
+                div.radio
+                    label
+                        input(type="radio", ng-model="artworkData.price", value="-2", name="price", ng-required="!artworkData.price")  
+                        | Call for price
+                div.radio.radio-with-input
+                    label.full-width
+                        input(type="radio", ng-model="artworkData.price", value="-3", name="price", ng-required="!artworkData.price")  
+                        input.form-control.one-third-display(type="number", ng-model="artworkData.priceDisplay", name="priceDisplay" ng-focus="artworkData.price = '-3' ", ng-required="artworkData.price==='-3'") 
+                        
+                        ol.one-third-display.nya-bs-select(ng-model="artworkData.currency")
+                                li(nya-bs-option="currency in ctrl.availableCurrencies")
+                                    a {{currency}}
+                span.help-block
+                      span(ng-show="ctrl.hasError('artworkForm', 'price', 'required')") Field is required
+                      span(ng-show="ctrl.hasError('artworkForm', 'priceDisplay', 'required')") Field is required
+        .form-group(ng-if="ctrl.isSocialShareVisible()")  
+            label.col-sm-3.control-label Social share
+            .col-sm-9
+                div.checkbox(ng-show="ctrl.isFacebookShareAvailable()")
+                    label
+                        input(type="checkbox", ng-model="artworkData.postToFacebook")  
+                        | Share to Facebook  
+                .form-group(ng-if="artworkData.postToFacebook", ng-class="{'has-error': ctrl.hasError('artworkForm', 'facebookText')}")
+                    label.col-sm-4.control-label  Facebook post text
+                    .col-sm-8
+                        textarea.form-control(ng-model="artworkData.facebookText", ng-required="true", name="facebookText")
+                        span.help-block
+                            span(ng-show="ctrl.hasError('artworkForm', 'facebookText', 'required')") Field is required  
+
+
+                div.checkbox(ng-show="ctrl.isTwitterShareAvailable()")
+                    label
+                        input(type="checkbox", ng-model="artworkData.postToTwitter")  
+                        | Share to Twitter                          
+        .row
+            .col-xs-6
+                button.btn.btn-grey.full-width(type="reset", ng-click="ctrl.closeSelected()") Cancel
+            .col-xs-6
+                button.btn.btn-pink.full-width(type="submit", ng-disabled='inProgress') Save 

@@ -1,0 +1,20 @@
+include ./_spinner
+.modal-header
+	h3.modal-title Add New Artist
+.modal-body
+	.row
+		.col-xs-12
+			form#artistForm.form-horizontal.margin-top-small(ng-submit='ctrl.onFormSubmit()', name='artistForm', novalidate='')
+				.form-group(ng-class="{'has-error':ctrl.hasError('artistForm','name')}")
+					label.col-sm-3.control-label(for="name") Artist name
+					div.col-sm-9 
+						input#name.form-control(type='text', name='name', ng-model='ctrl.artistData', placeholder='Artist\'s name', required='true', uib-typeahead="artist as artist.name for artist in ctrl.getArtists($viewValue)" class="form-control",  autocomplete='off'
+						)
+						span.help-block
+							span(ng-show="ctrl.hasError('artistForm', 'name', 'required')") Field is required        
+				.row
+					.col-xs-6
+						button.btn.btn-grey.full-width(type="reset", ng-click="ctrl.close()") Cancel
+					.col-xs-6
+						button.btn.btn-pink.full-width(type="submit", ng-disabled='inProgress') Save  
+

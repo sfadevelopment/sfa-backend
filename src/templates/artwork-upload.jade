@@ -1,0 +1,16 @@
+.row
+	.col-xs-12
+		.row(ng-if="!ctrl.availableArtworks.length")
+			.col-xs-12
+				a.btn.btn-pink.small(ng-click="ctrl.selectFiles()") Select files
+				a.btn.btn-grey.small(ng-click="ctrl.hideUpload()") Hide upload
+				
+			.col-xs-12 
+				input#arwork-input.hidden-input(type="file", ng-model="ctrl.selectedFiles", on-file-change="ctrl.artworksFileChanged()", multiple)
+				| The image must be at least 600x300 pixels
+		.row(ng-if="ctrl.availableArtworks.length")
+			.col-xs-12
+				.row(ng-if="ctrl.editableArtwork")
+					.col-xs-12
+						| Artworks to fill: {{ctrl.availableArtworks.length}}
+						artwork-form(artwork-data="ctrl.editableArtwork", gallery-id="{{ctrl.galleryId}}", artist-id="{{ctrl.artistId}}", after-save="ctrl.afterArtworkSave", on-cancel="ctrl.afterArtworkCancel", gallery-has-facebook="{{galleryHasFacebook}}", gallery-has-twitter='{{galleryHasTwitter}}') 

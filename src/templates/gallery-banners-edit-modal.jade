@@ -1,0 +1,33 @@
+include ./_spinner
+.modal-header
+  h3.modal-title Update gallery banners
+.modal-body
+  .row
+    .col-xs-8
+      | Drag and drop your images and organize them into the order you would like them displayed.
+    .col-xs-4
+      a.btn.btn-pink.small.full-width(href="#", ng-if="ctrl.isNewBannerAvailable()", ng-click="ctrl.uploadBanner()") + Add images
+      input#banner-input.hidden-input(type="file", ng-model="ctrl.selectedFile", on-file-change="ctrl.bannerChanged()")
+  .row
+    .col-xs-12.images-dnd.margin-top-very-small
+      div.drop-box(ngf-drop="ctrl.uploadFilesOnDrop($files)", ngf-drag-over-class="'dragover'", ngf-multiple="true", ngf-drop-disabled="!ctrl.isNewBannerAvailable()")
+        ul(dnd-list="ctrl.banners")
+          li(ng-repeat="item in ctrl.banners",
+              dnd-draggable="item",
+              dnd-moved="ctrl.banners.splice($index, 1)",
+              dnd-effect-allowed="move",
+              ng-class="{'selected': models.selected === item}")
+                img.image-display(ng-src="{{item.url}}")
+                .number {{$index + 1}}
+                .actions
+                  a(href="#", ng-click="ctrl.removeBanner(item)")
+                    i.glyphicon.glyphicon-trash
+
+          li.pointer(ng-if="ctrl.isNewBannerAvailable()", ng-click="ctrl.uploadBanner()")
+            img.image-display(src="/images/slide_images.png") 
+  .row
+    .col-xs-6
+      button.btn.btn-grey.full-width(type="reset", ng-click="ctrl.close()") Cancel
+    .col-xs-6
+      button.btn.btn-pink.full-width(ng-click="ctrl.save()" ng-disabled='!ctrl.hasChanged() || inProgress') Save  
+

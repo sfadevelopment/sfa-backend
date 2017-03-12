@@ -1,0 +1,62 @@
+include ./_spinner
+.modal-header
+	h3.modal-title Add Event to {{ctrl.galleryName}}
+.modal-body
+	.row
+		.col-xs-12
+			form#eventform.form-horizontal.margin-top-small(ng-submit='ctrl.onFormSubmit()', name='eventForm', novalidate='')
+				.form-group
+						.col-xs-12
+							input#event-file-input.hidden-input(type="file", name="file", ng-model="ctrl.selectedFile", on-file-change="ctrl.fileChanged()")
+							div.input-group(ng-if="!ctrl.eventData.image")     
+									input.form-control(type="text", name="file-name", disabled="true", ng-model="ctrl.selectedFileName", placeholder="Please choose an image for the event")
+									.input-group-addon.action-addon(ng-click="ctrl.selectFile()")
+											a.btn.btn-pink.execute-search Browse 			
+							div.event-edit-image-display(ng-if="ctrl.eventData.image")
+								i.edit-link.sprite-icon.icon-edit-icon(ng-click="ctrl.selectFile()")
+								img(ng-src="{{ctrl.eventData.image}}")
+				.form-group(ng-class="{'has-error':ctrl.hasError('eventForm','name')}")
+					label.col-sm-3.control-label(for="name") Event name
+					div.col-sm-9  
+						input#name.form-control(type='text', name='name', ng-model='ctrl.eventData.name', placeholder='Event\'s name', required='')
+						span.help-block
+							span(ng-show="ctrl.hasError('eventForm', 'name', 'required')") Field is required
+				.form-group
+					label.col-sm-3.control-label(for="start_date") Event date
+					div.col-sm-9  
+						div.half-display.as-one-end(ng-class="{'has-error':ctrl.hasError('eventForm','start_date')}") 
+							div.input-group
+								input#start_date.form-control(type='text', name='start_date', ng-model='ctrl.eventData.start_date', placeholder='Event\'s start date', required='', uib-datepicker-popup="{{ctrl.format}}", is-open="ctrl.start_date.open" ng-focus="ctrl.start_date.open=true" )
+								.input-group-addon(ng-click="ctrl.start_date.open=true")
+									i.glyphicon.glyphicon-calendar
+							div
+								span.help-block
+									span(ng-show="ctrl.hasError('eventForm', 'start_date', 'required')") Field is required
+									span(ng-show="ctrl.hasError('eventForm', 'start_date', 'date')") Invalid date
+						div.half-display.as-one-end(ng-class="{'has-error':ctrl.hasError('eventForm','end_date')}")
+							div.input-group
+								input#end_date.form-control(type='text', name='end_date', ng-model='ctrl.eventData.end_date', placeholder='Event\'s end date', uib-datepicker-popup="{{ctrl.format}}",  is-open="ctrl.end_date.open" ng-focus="ctrl.end_date.open=true")
+								.input-group-addon(ng-click="ctrl.end_date.open=true")
+									i.glyphicon.glyphicon-calendar
+							div
+								span.help-block
+									span(ng-show="ctrl.hasError('eventForm', 'end_date', 'required')") Field is required
+									span(ng-show="ctrl.hasError('eventForm', 'end_date', 'date')") Invalid date
+				.form-group(ng-class="{'has-error':ctrl.hasError('eventForm','description')}")
+					label.col-sm-3.control-label(for="description") Tagline
+					div.col-sm-9  
+						input#description.form-control(type='text', name='description', ng-model='ctrl.eventData.description', placeholder='Enter a short description up to 60 chars', required='')
+						span.help-block
+							span(ng-show="ctrl.hasError('eventForm', 'description', 'required')") Field is required 
+				.form-group(ng-class="{'has-error':ctrl.hasError('eventForm','website')}")
+					label.col-sm-3.control-label(for="website") Website
+					div.col-sm-9  
+						input#website.form-control(type='text', name='website', ng-model='ctrl.eventData.weblink', placeholder='http://......')
+						span.help-block
+							span(ng-show="ctrl.hasError('eventForm', 'website', 'required')") Field is required            
+				.row
+					.col-xs-6
+						button.btn.btn-grey.full-width(type="reset", ng-click="ctrl.close()") Cancel
+					.col-xs-6
+						button.btn.btn-pink.full-width(type="submit", ng-disabled='inProgress') Save  
+

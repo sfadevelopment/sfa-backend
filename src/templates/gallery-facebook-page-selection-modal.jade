@@ -1,0 +1,12 @@
+include ./_spinner
+.modal-header
+	h3.modal-title Select Facebook page for {{ctrl.galleryName}}
+.modal-body.facebook-page-selection-modal
+	.row
+		.col-xs-12
+			p(ng-show="!ctrl.pages.length") No pages found
+			.page-item(ng-repeat="page in ctrl.pages")
+				.col.title-display
+					| {{page.name}}
+				.col.centered
+					a.btn.btn-pink.small(ng-click="ctrl.selectPage(page)") Select	

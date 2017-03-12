@@ -1,0 +1,25 @@
+include ./_spinner
+.modal-header
+    h3.modal-title Change Account Details
+.modal-body
+    form(ng-submit='ctrl.onFormSubmit()', name='accountForm', novalidate='')
+      .form-group(ng-class="{'has-error':ctrl.hasError('accountForm','name')}")
+        input#full_name.form-control(type='text', name='name', ng-model='ctrl.subscriberData.name', placeholder='Full name', required='')
+        span.help-block
+          span(ng-show="ctrl.hasError('accountForm', 'name', 'required')") Field is required
+      .form-group(ng-class="{'has-error':ctrl.hasError('accountForm','phone')}")
+        input#phone.form-control(type='text', name='phone', ng-model='ctrl.subscriberData.phone', required='', ng-intl-tel-input='')
+        span.help-block
+          span(ng-show="ctrl.hasError('accountForm', 'phone', 'required')") Field is required
+          span(ng-show="ctrl.hasError('accountForm', 'phone', 'ngIntlTelInput')") Invalid phone number
+      .form-group(ng-class="{'has-error':ctrl.hasError('accountForm','email')}")
+        input#email.form-control(type='email', name='email', ng-model='ctrl.subscriberData.email', placeholder='Email', required='')
+        span.help-block
+          span(ng-show="ctrl.hasError('accountForm', 'email', 'required')") Field is required
+          span(ng-show="ctrl.hasError('accountForm', 'email', 'email')") Invalid email format
+      div.row
+        .col-xs-6
+            button.btn.btn-grey.full-width(type="reset", ng-click="ctrl.close()") Cancel
+        .col-xs-6
+            button.btn.btn-pink.full-width(type='submit', ng-disabled='inProgress') Save
+

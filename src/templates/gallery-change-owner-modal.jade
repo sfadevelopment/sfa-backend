@@ -1,0 +1,20 @@
+include ./_spinner
+.modal-header
+	h3.modal-title Reasign owner
+.modal-body
+	.row
+		.col-xs-12
+			form#ownerForm.form-horizontal.margin-top-small(ng-submit='ctrl.onFormSubmit()', name='ownerForm', novalidate='')
+				.form-group(ng-class="{'has-error':ctrl.hasError('ownerForm','name')}")
+					label.col-sm-3.control-label(for="name") New Owner
+					div.col-sm-9 
+						input#name.form-control(type='text', name='name', ng-model='ctrl.ownerData', placeholder='Subscribers name\'s', required='true', uib-typeahead="subscriber as subscriber.name for subscriber in ctrl.getSubscribers($viewValue)" class="form-control",  autocomplete='off'
+						)
+						span.help-block
+							span(ng-show="ctrl.hasError('ownerForm', 'name', 'required')") Field is required        
+				.row
+					.col-xs-6
+						button.btn.btn-grey.full-width(type="reset", ng-click="ctrl.close()") Cancel
+					.col-xs-6
+						button.btn.btn-pink.full-width(type="submit", ng-disabled='inProgress') Save  
+

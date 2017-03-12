@@ -1,0 +1,46 @@
+form.hours-input.form-horizontal(ng-submit="onFormSubmit()", name='hourInputForm', novalidate='')
+	.row
+		.col-xs-6
+			.form-group(ng-class="{'has-error':hasError('hourInputForm','from')}")
+				label.col-sm-2.control-label(for="from") From
+				div.col-sm-8
+					ui-select(ng-model='hourInput.from', reset-search-input='true', name="from", ng-disabled="hourInput.byAppointment || hourInput.closed", ng-required="!(hourInput.byAppointment || hourInput.closed)")
+						ui-select-match() {{$select.selected}}
+						ui-select-choices(repeat='time in availableOpeningHours | filter: $select.search | limitTo: 300')
+							div(ng-bind-html='time | highlight: $select.search')
+					span.help-block
+						span(ng-show="hasError('hourInputForm', 'from', 'required')") Field is required
+
+		.col-xs-6
+			.form-group(ng-class="{'has-error':hasError('hourInputForm','to')}")
+				label.col-sm-2.control-label(for="to") To
+				div.col-sm-8
+					ui-select(ng-model='hourInput.to', reset-search-input='true', name="to", ng-disabled="hourInput.byAppointment || hourInput.closed", ng-required="!(hourInput.byAppointment || hourInput.closed)")
+						ui-select-match() {{$select.selected}}
+						ui-select-choices(repeat='time in availableClosingHours | filter: $select.search | limitTo: 300')
+							div(ng-bind-html='time | highlight: $select.search')
+					span.help-block
+						span(ng-show="hasError('hourInputForm', 'to', 'required')") Field is required
+	.row
+		.col-xs-12
+			div.checkbox
+				label
+					input(type="checkbox", ng-model="hourInput.byAppointment") 
+					| By appointment 
+			div.checkbox
+				label
+					input(type="checkbox", ng-model="hourInput.closed") 
+					| Closed
+	.row.margin-top-very-small
+		.col-xs-12
+			div.day-selection
+				div.day-item(ng-repeat="day in dayKeys", ng-class="{'selected': isChecked(day)}")
+					label 
+						span {{day}}
+
+						input(type="checkbox", value="{{day}}", name="days", ng-model="bool", ng-change="syncCheckboxes(bool, day)", ng-checked="isChecked(day)")
+	.row.margin-top-very-small
+			.col-xs-6
+				button.btn.btn-grey.full-width(type="reset", ng-click="cancel()") Cancel
+			.col-xs-6
+				button.btn.btn-pink.full-width(type="submit") Change
