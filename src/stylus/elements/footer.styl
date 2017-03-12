@@ -1,0 +1,50 @@
+.footer	
+		padding-top 50px
+		padding-bottom 100px	
+		.footer-menu
+			float right
+			position relative
+			left -50%
+			text-align left
+			ul 
+				list-style none
+				position relative 
+				left 50%
+				
+				li 
+					display inline-block
+					position relative
+					text-transform uppercase
+					
+					& + li
+						padding-left 50px
+					a
+						font-family $medium-font-family
+				& + ul 
+					margin-top 20px		
+						
+@media only screen and (max-width: $screen-xs)
+	.footer	
+		padding 20px 0
+		float left
+		width 100%
+		.footer-menu
+			float left
+			left 0
+			width 100%
+			ul 
+				left 0
+				float left
+				width 100%
+				margin 0
+				padding 0
+				
+				&:not(.social-links)
+					li
+						width 100%
+						padding 10px 0px!important
+						text-align center
+			
+
+				
+							

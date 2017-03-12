@@ -1,0 +1,83 @@
+.pricing-table
+	font-family $normal-font-family
+	.pricing-time-swither
+		text-align center
+		margin-bottom 20px
+		button
+			border 1px solid $grey-border
+			font-size 20px
+			background-color $pink
+			color #fff
+			padding 10px 20px
+			&:not(.active)
+				background-color grey
+			&:active,&:focus
+				outline none
+				outline-offset 0	
+	.pricing-items
+		width 100%
+		background-color #D8D8D8
+		border-top 1px solid #979797
+		border-bottom 1px solid #979797
+		float left
+		padding 60px 15%
+		.pricing-item
+			background-color #fff
+			display inline-block
+			border 1px solid #979797
+			text-align center
+			
+			&.three
+				width 33.3%
+				&:first-child
+					border-right 0
+				&:last-child
+					border-left 0
+					
+				&.highlight-middle
+					&:first-child, &:last-child
+						width 30%
+					&:nth-child(2)
+						width 40%
+						.pricing-body
+							margin 30px 0			
+			&:before
+				content ' '
+				height 15px
+				width 100%
+				float left
+				linear-gradient(#FE06B1, #C70562)	
+			.pricing-body
+				padding 0 0 20px
+			h4 	
+				font-size 35px
+				margin 35px 0
+			.price-display
+				span 
+					width 100%
+					display block
+					&.amount
+						color $pink
+						font-size 55px
+						line-height 55px
+					&.duration
+						color #555555
+						font-size 17px	
+						height 25px
+			.plan-info
+				margin-top 30px
+				color #555555
+				font-size 20px
+				.plan-feature
+					margin-bottom 20px	
+					padding 0 10px
+					min-height 50px
+
+			.pricing-compare-display
+				height 12px
+				color $pink
+				font-size 12px
+				font-family $medium-font-family
+				margin-top 10px
+				float left
+				width 100%				

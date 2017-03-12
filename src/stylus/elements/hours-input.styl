@@ -1,0 +1,23 @@
+.hours-input
+	.day-selection
+		display table
+		width 100%
+		.day-item
+			display table-cell
+			text-align center
+			border: 1px solid $grey-border
+			cursor pointer
+			text-transform uppercase
+			& + .day-item
+				border-left 0
+			&.selected
+				background-color $pink
+				color #fff
+			label
+				width 100%
+				margin 0
+				span
+					padding 14px 10px
+					display block
+			input
+				display none

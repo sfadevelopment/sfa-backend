@@ -1,0 +1,15 @@
+.slick-prev, .slick-next
+	background url("../images/slider-controls.png") no-repeat left top
+	width 17px
+	height 32px
+	transform(none)
+	&:hover
+		background url("../images/slider-controls.png") no-repeat left top
+	&:before, &:after
+		content: ''
+.slick-next
+	right -67px
+	background-position -17px 0 !important
+	
+.slick-prev
+	left: -67px;

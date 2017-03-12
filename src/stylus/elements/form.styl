@@ -1,0 +1,74 @@
+.has-error
+	.nya-bs-select
+		button
+			border-color #a94442
+form
+	.form-control
+			border-radius(0)
+			padding 14px 10px
+			height auto	
+			box-shadow(none)
+			font-size 16px
+			&:focus
+				border-color #ccc
+				box-shadow(none)	
+				
+	.input-group
+		&.as-one-end
+			input
+				border-right 0 
+			.input-group-addon
+				border-left 0
+				
+								
+	.input-group-addon
+		border-radius(0)
+		& + input
+			border-left 0
+		background-color transparent	
+			
+		&.action-addon
+			padding 0
+			border 0
+			background-color $pink-btn
+			
+			button
+				padding-top 14px
+				padding-bottom 14px
+				
+					
+	.form-title
+		text-align center
+		font-size 36px
+		font-family $light-font-family		
+	.form-copy
+		text-align center
+		margin-bottom 20px
+	
+	&.form-horizontal 
+		.input-text-display
+			padding 14px 0
+			font-size 16px	
+			
+			&.with-icon
+				display table
+				span, a
+					padding-left 5px
+					display table-cell!important
+					vertical-align middle
+					
+		.control-label
+			text-align left
+			padding 14px 15px	
+			color #a8a8a8
+			font-size 16px
+	.radio
+		label 
+			font-size 16px			
+.radio-with-input
+	input[type="radio"]
+		margin-top 20px			
+input
+	&.hidden-input
+			display none				
+			

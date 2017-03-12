@@ -1,0 +1,66 @@
+ul[dnd-list]
+    position: relative;
+    >li 
+        position: relative;
+    min-height 42px
+    padding-left 0px
+    .dndDraggingSource
+        display none
+    .dndPlaceholder
+        display block
+        background-color #ddd
+        min-height 42px
+    li
+        background-color #fff
+        border 1px solid #ddd
+        display block
+        padding 10px 15px
+        margin-bottom -1px
+.images-dnd
+    ul
+        li 
+            display inline-block
+            padding 0
+            margin-right 10px
+            margin-bottom 10px
+            img
+                float left
+                
+            &.selected
+                border 1px solid $pink    
+            .actions
+                position absolute
+                bottom 0
+                left 0
+                width 100% 
+                color #fff
+                background-color rgba(0,0,0,0.7)
+                display none
+                padding 5px
+                a
+                    color #fff
+            
+            &:hover
+                .actions
+                    display inline-block       
+            .number
+                position absolute
+                left 5px
+                top 5px
+                background-color #fff
+                width 20px
+                height 20px
+                text-align center
+                
+                border-radius(100%)
+                  
+                   
+        .dndPlaceholder
+            display inline-block 
+        .image-display, .dndPlaceholder
+            width 150px
+            height 150px 
+        
+                    
+
+

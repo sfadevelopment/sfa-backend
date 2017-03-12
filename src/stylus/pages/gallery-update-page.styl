@@ -1,0 +1,152 @@
+.gallery-update-page
+	.banner-helper-text
+		font-size 13px
+		line-height 15px
+		color #a8a8a8
+		padding 0 0 11px 0
+		&.top
+			padding-bottom 5px
+		&.bottom
+			padding-top 5px	
+	.small-banners
+		margin-top 20px
+		img
+			width 24%
+			height 100px
+			float left
+			//margin 5px 0 0 6.5px
+			& + img
+				margin-left (4 / 3)%
+	.main-banner-display
+		position relative
+		.actions
+				position absolute
+				bottom 0
+				left 0
+				width 100% 
+				color #fff
+				background-color rgba(0,0,0,0.7)
+				display none
+				padding 5px
+				a
+					color #fff
+		&:hover
+			.actions
+				display block			
+	.event-row
+		margin-bottom 20px	
+		.actions
+			text-align right
+			.separator
+				margin 20px 0 20px auto
+				width 60%
+			.status-display
+				font-size 12px
+				a 
+					display block
+					text-transform uppercase	
+.event-edit-image-display
+	position relative
+	img
+		width 100%
+	.edit-link
+		cursor pointer
+		position absolute
+		top 5px
+		right 5px	
+.artworks-row
+	div.slick-slide, .slick-placeholder
+		text-align center
+		&:focus
+			outline 0
+		width 210px
+		margin-right 10px	
+		img
+			height 210px
+			width 210px
+			display inline-block
+.artist-title
+	background: url(../images/line_bg.png) repeat-x left center;	
+	margin-bottom 15px
+	margin-top 15px
+	.order-change, .title
+		display inline-block
+		background-color #fff
+	.title
+		padding-right 20px	
+		font-size 25px
+		font-weight bold
+	.order-change
+		float right	
+		padding-left 20px
+		line-height 25px
+		i
+			cursor pointer
+.working-hours
+	display table
+	border-collapse separate
+	width 100%
+	.working-hours-row
+		display table-row
+	.col
+		display table-cell
+		&.day
+			width 100px				
+			text-align center
+		.title
+			font-size 16px
+			color #000	
+			padding-left 10px
+			padding-right 10px
+			padding-bottom 10px
+			
+		.start-row
+			border-top 1px solid $grey-border-color
+			padding-left 10px
+			padding-right 10px
+			padding-top 10px
+			padding-bottom 5px
+			
+		.end-row
+			border-bottom 1px solid $grey-border-color
+			padding-left 10px
+			padding-right 10px
+			padding-top 5
+			padding-bottom 10px
+				
+		.start-row, .end-row
+			color #000
+			font-size 16px
+		
+		.edit-icon
+			padding-left 5px
+		
+		.appointment
+			font-size 10px
+			line-height 10px		
+
+		.closed
+			border-top 1px solid $grey-border-color	
+			border-bottom 1px solid $grey-border-color	
+			color #a8a8a8
+			background-color #f9f9f9
+			padding 12px
+			line-height 45px
+.hours-change-modal
+	.day-item
+		font-size 16px
+		margin-bottom 10px
+
+.admin-actions
+	border-top 1px solid $grey-border-color	
+	border-bottom 1px solid $grey-border-color	
+	margin-top 15px
+	margin-bottom 15px
+	padding 15px 0
+	
+	.right-col
+		text-align right
+		.separator
+			margin-right 0
+			margin-top 10px
+			margin-bottom 10px

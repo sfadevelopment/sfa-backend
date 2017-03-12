@@ -1,0 +1,123 @@
+.navbar 
+	margin-bottom 0
+	min-height $navbar-height
+	border-radius(0)
+	border 0
+	
+	.navbar-brand
+		padding 0
+		height $navbar-height
+		img
+			max-height $navbar-height
+	.navbar-right
+		padding-right 5px		
+	.navbar-nav
+		>li
+			&.highlight
+					>a
+						background-color $pink-btn
+						color #fff
+						&:hover
+							background-color darken($pink-btn, 10%)	
+							color #fff
+			>a
+				color #000
+				&:focus, &:hover
+					background-color transparent
+					color $pink
+					font-weight bold
+	.nav-toggle 
+		.dropdown-menu
+			left inherit
+			right 10px
+			top 85%
+			border-radius(0)
+			background-color $pink
+			li 
+				a 
+					color #ffffff
+					font-size 16px
+					&:hover
+						background-color darken($pink, 10%)
+			&:before 
+				position: absolute
+				top -7px
+				right 12px
+				display inline-block
+				border-right 7px solid transparent
+				border-bottom 7px solid #ccc
+				border-left 7px solid transparent
+				border-bottom-color rgba(0, 0, 0, 0.2)
+				content ''
+			&:after 
+				position absolute
+				top -6px
+				right 13px
+				display inline-block
+				border-right 6px solid transparent
+				border-bottom 6px solid $pink
+				border-left 6px solid transparent
+				content ''
+
+		
+	.header-block
+		text-align center
+	.search-fields
+		//margin-top 13px
+		input
+			min-width 200px
+	.navbar-header
+		width 100%  
+	.nav-toggle
+		text-align right
+		.navbar-toggle 
+			float none
+			margin 11px 15px
+			margin-right 5px
+			.icon-bar   
+				background-color $pink  
+				height 3px
+				width 30px
+	.nav-wrapper
+		display table
+		width 100%
+		
+		.table-cell
+			display table-cell
+			vertical-align middle
+			&.logo-cell
+				width 90px  
+				
+								
+@media only screen and (max-width: $screen-sm)
+	.navbar 
+		min-height $navbar-mobile-height
+		.navbar-brand
+			height $navbar-mobile-height
+			img
+				max-height $navbar-mobile-height
+				
+		.container-fluid
+			padding 0
+		.navbar-header
+			margin 0    
+		.nav-wrapper
+			display block
+			.table-cell
+				display block
+			
+		.header-block
+			float left
+			width 100%  
+			
+			.search-fields
+				display block
+				 
+				 .form-group 
+					margin-bottom 5px
+					
+					input
+						min-width 0 
+					
+					& + .form-group 
+						margin 0                                

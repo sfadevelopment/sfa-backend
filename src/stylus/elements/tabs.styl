@@ -1,0 +1,48 @@
+.tabs
+  padding 11px 0 0 0
+  margin 0
+  ul
+    padding 10px 0 0 0
+    margin 0
+    display inline-block
+    float initial
+    
+    &.centered
+      text-align center
+      float auto
+      width 100%
+      li 
+        float initial
+    li
+      padding 0
+      margin 0 41px 0 0
+      display inline-block
+      float left
+      
+      a
+        padding 0 22px 18px 22px
+        margin 0 0 -1px 0
+        display inline-block
+        font-family $medium-font-family
+        font-size 18px
+        line-height 18px
+        color #e545a2
+        font-weight normal
+        border-bottom solid 3px transparent
+        
+        &.active, a:hover
+            color #000000
+            border-color #e545a2
+@media only screen and (max-width: $screen-sm)
+ .tabs
+   padding 0
+   ul
+    float left
+    width 100%  
+    text-align center
+    margin-bottom 10px
+    li
+      float left 
+      margin-right 15px
+      a
+        padding 0 12px 8px 12px         
