@@ -1,0 +1,14 @@
+require('./common-service');
+require('./local-storage-service');
+require('./location-service');
+require('./gallery-service');
+require('./user-service');
+require('./url-service');
+require('./utils-service');
+require('./parse-service');
+require('./file-service');
+require('./artist-service');
+require('./style-service');
+require('./fb-service');
+require('./admin-service');
+require('./message-service');
