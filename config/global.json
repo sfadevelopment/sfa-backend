@@ -1,0 +1,22 @@
+{
+  "global": {
+    "parseVersion": "1.5.0"
+  },
+  "applications": {
+    "SFA": {
+      "applicationId": "ItuhCbvaDbRLW3pjHDiYUUghGjgiKtDD78ETdSbm",
+      "masterKey": "SRF7LnKFiN0GK28e2HIeani7p5KRAM3nljstmBxZ"
+    },
+    "SFAC": {
+      "applicationId": "CcKvs0KwChRfn0s3cTJ2Ti02f9MfgU2PNXkgQnTa",
+      "masterKey": "W5vBhSPy3lS1hdrtSKqDSWpu0P3W8LlmqjpRY6W9"
+    },
+    "_default": {
+      "link": "test-backned"
+    },
+    "test-backned": {
+      "applicationId": "xC57PGWzSjYHyraW4OeRlH8ylziEgGFDrG3AG6OA",
+      "masterKey": "izeoS1TyXHrW5AEjrBtuwM1yIaJqHCxU2PnEBOsG"
+    }
+  }
+}
