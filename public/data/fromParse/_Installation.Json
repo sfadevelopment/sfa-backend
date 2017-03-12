@@ -1,0 +1,3865 @@
+{ "results": [
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-19T05:16:30.249Z",
+        "deviceToken": "882cb033e1ae9dc6b1ee6932cdbc38877722f96d24bdfeb487d67ca37d095b9e",
+        "deviceType": "ios",
+        "deviceUID": "741E30E3-4C80-46DC-82B5-6F940B85285F",
+        "installationId": "3a16a9f3-e595-4726-b977-b0d34cc6b391",
+        "localeIdentifier": "en-US",
+        "objectId": "0FYcqGwB7g",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-19T05:16:30.249Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-30T01:58:31.490Z",
+        "deviceToken": "e83629dff68b43ae4542147501bc06be97a69ab292bc6261277062d25b029d62",
+        "deviceType": "ios",
+        "deviceUID": "1775ABB8-4D21-4D02-A188-DCF1EA116598",
+        "installationId": "fe630355-74a5-4b85-b0b1-e5a28970fe64",
+        "localeIdentifier": "en-US",
+        "objectId": "0oOB7kcSE1",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-30T01:58:31.490Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-08T01:42:56.963Z",
+        "deviceToken": "344167b2cebe822d91c82a3d8855ac4c5b5c490fa0f349b7929ee506c5a43459",
+        "deviceType": "ios",
+        "deviceUID": "0F5DE109-1428-4156-9B72-EB0A6DCE2FF3",
+        "installationId": "6a68075a-ada2-44da-9d90-3e43eb1378b1",
+        "localeIdentifier": "en-US",
+        "objectId": "0s83Ege1Jj",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-08T01:42:56.963Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-14T22:14:10.391Z",
+        "deviceToken": "4f46ee1523c0620a853d847f92f215de663dafacda10254afeb7dafeeb10da6a",
+        "deviceType": "ios",
+        "deviceUID": "6430E36A-0D9C-4B49-86A6-B9ABA6830F97",
+        "installationId": "f4719699-faa4-4e59-b167-6f9b3f077494",
+        "localeIdentifier": "en-CA",
+        "objectId": "1A2u60fBZZ",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Toronto",
+        "updatedAt": "2015-12-16T23:16:00.436Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-18T21:57:51.046Z",
+        "deviceToken": "2000949963f4b778e375da41cac768764e4a98e16a02c58428fc29f1535309c7",
+        "deviceType": "ios",
+        "deviceUID": "AD831E09-79E2-4557-9A2A-51CBB6C5DCE2",
+        "installationId": "972c469f-9aee-484e-b374-ba1879885a7d",
+        "localeIdentifier": "en-US",
+        "objectId": "1T2iN1469X",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-10-18T21:57:51.046Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-28T16:58:04.675Z",
+        "deviceToken": "ea7f0a5ac9a6a8378408e0acc157ff8b30f28713f4630330b5148feba2a5a2ac",
+        "deviceType": "ios",
+        "deviceUID": "4DAB3BDC-6521-4D4E-9607-3432AB5E9916",
+        "installationId": "fbda1ac6-26e5-4127-9869-9e8951c6632f",
+        "localeIdentifier": "en-GB",
+        "objectId": "1WqcxsjmtP",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-05T16:39:39.030Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-27T04:02:27.318Z",
+        "deviceToken": "29e9d9f127ad748555c4822fe0f553281834280bf66ad69143a06b762ba717c5",
+        "deviceType": "ios",
+        "deviceUID": "6B1FBC06-FE6C-45C4-BE3D-A53CDAB59EA5",
+        "installationId": "26f36a80-412c-4962-b7f9-2b3d18b9355b",
+        "localeIdentifier": "en-US",
+        "objectId": "2A1InKAtpY",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Tehran",
+        "updatedAt": "2015-12-27T04:02:27.318Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-17T20:59:59.620Z",
+        "deviceToken": "0594e38dcf1bb448cad25ecfee95741767ee3ae9e174e044dc154eb623aad504",
+        "deviceType": "ios",
+        "deviceUID": "23530B40-558B-4B98-8A50-E5355D4E5AE5",
+        "installationId": "1c4942b9-9ba1-420b-af7f-92204303b620",
+        "localeIdentifier": "en-CN",
+        "objectId": "2nFONR5nVZ",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Shanghai",
+        "updatedAt": "2015-12-25T09:09:23.298Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-17T12:45:19.628Z",
+        "deviceToken": "841c0d85df50a045f0c91488d80e145fe88a9c646412f686f65bbf5ac3b6d07b",
+        "deviceType": "ios",
+        "deviceUID": "622472E8-590A-454A-B356-1FAF60184778",
+        "installationId": "9ef0100f-1dba-4fbb-b1bd-dc7cf7e0cfb5",
+        "localeIdentifier": "en-US",
+        "objectId": "3BGpy8hten",
+        "parseVersion": "1.8.5",
+        "timeZone": "US/Eastern",
+        "updatedAt": "2016-01-17T12:45:19.628Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-06T22:58:08.451Z",
+        "deviceToken": "8e8f2f7943685aba7d41a3e439156d3fcd97739fbbe98af8e13d671133d6c844",
+        "deviceType": "ios",
+        "deviceUID": "B0EAF272-B850-4CC7-8A13-8F0DB718675D",
+        "installationId": "5448d2e8-622d-42a1-bc47-4df13f6fa310",
+        "localeIdentifier": "en-GB",
+        "objectId": "3IW8e8XbOC",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/London",
+        "updatedAt": "2015-11-06T22:58:08.451Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-11T16:32:46.525Z",
+        "deviceToken": "d20fb2967d2a89120b895033d08661ecc6bf52896d5fd474497686ed80567e0a",
+        "deviceType": "ios",
+        "deviceUID": "AF0D3912-1C27-4C43-8F56-C6BB9E78E4B6",
+        "installationId": "97270f37-8ecf-4fb7-b6a3-d3253f0117db",
+        "localeIdentifier": "en-US",
+        "objectId": "4lkoTLfTyu",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/Berlin",
+        "updatedAt": "2015-12-11T16:32:46.525Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-09T14:21:59.132Z",
+        "deviceToken": "9a786f77a5b6c7d5d8f5982333e8a20d43cc01bff10a1e1dabd3b88a949dc8ed",
+        "deviceType": "ios",
+        "deviceUID": "725FD78A-D80C-4066-ADD8-737A546DBB7C",
+        "installationId": "10e9e1a5-15f5-4834-94bc-62a7107833ba",
+        "localeIdentifier": "en-US",
+        "objectId": "586nqZrZCu",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-09T14:21:59.132Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "131",
+        "badge": 1,
+        "channels": [
+            "global",
+            "gs_8ammtmB8QF",
+            "as_UmLLFzyAs9",
+            "gs_0x74mf4Mnf",
+            "gs_AdaXJDk7y2",
+            "as_6EZiNSGDJI",
+            "gs_n4CoDQvVp9",
+            "as_aWqCwtoLUP"
+        ],
+        "createdAt": "2015-12-09T03:30:04.386Z",
+        "deviceToken": "794ef5194fa0164076f37d1ef359d1bb2dfd895361e9c8075bf1745f22c3e4bd",
+        "deviceType": "ios",
+        "deviceUID": "6DBACA88-723F-4A2D-AB2A-DB6D31BE5D7D",
+        "installationId": "910e0b09-1219-4b5f-b44c-9559098dd0f2",
+        "localeIdentifier": "en-ID",
+        "objectId": "5OgGkupmNp",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Pontianak",
+        "updatedAt": "2015-12-09T03:30:04.386Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-22T05:19:20.530Z",
+        "deviceToken": "0ce3c966ae4c2910ff4546236001a9b4998db6e5707db7529f5411dd22b9fb53",
+        "deviceType": "ios",
+        "deviceUID": "FA04FDCB-E319-4AB5-B80F-7BD68681E7EA",
+        "installationId": "934e7f92-d6fd-49b1-a2e7-9abae755fc71",
+        "localeIdentifier": "en-US",
+        "objectId": "660HaU2Jwx",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-22T05:19:20.530Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-15T19:59:31.499Z",
+        "deviceToken": "b3e749b37df4cedc94beafcd26a6da214dcd5dc334b3624d709019b043b2a06e",
+        "deviceType": "ios",
+        "deviceUID": "0C3BBDAA-8BC0-4915-9C7B-17C0AE54120D",
+        "installationId": "3eb9fad7-5e87-49bc-8ef8-73fa58dee61e",
+        "localeIdentifier": "en-US",
+        "objectId": "6P3qW5X0U7",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-15T19:59:31.499Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-28T23:19:34.178Z",
+        "deviceToken": "c1ba305406a79df11f642ce43b0ba900423b35fd9ce84ea8280c217f55e749d4",
+        "deviceType": "ios",
+        "deviceUID": "5A3EB383-871E-44C1-8B6F-135381040EF8",
+        "installationId": "b385e42f-b739-44fc-bce5-e583fa7ea99c",
+        "localeIdentifier": "en-US",
+        "objectId": "6QDxQSQ0iT",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-22T17:01:34.496Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "as_lgxuwiYkZA"
+        ],
+        "createdAt": "2015-11-27T04:04:33.826Z",
+        "deviceToken": "b8cf65c0de5dbfd329f8018e2239550bbbf52d8961dab807a861d7f95539bedf",
+        "deviceType": "ios",
+        "deviceUID": "DC11304C-2595-4433-BD31-880228EF5077",
+        "installationId": "3917d6a5-852d-4c8a-94e7-519fef9eee49",
+        "localeIdentifier": "en-US",
+        "objectId": "6aefdYofDG",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-20T06:28:21.471Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-17T17:41:39.329Z",
+        "deviceToken": "da16edc0ec010e2064b3566c2be25d0f7275b378a2a9ae73b5fada7b13a981d3",
+        "deviceType": "ios",
+        "deviceUID": "FBEE795B-A0BB-47DB-8F58-A99B0369EF1E",
+        "installationId": "4d1f1d97-df4d-4fbc-add3-0a0ff893a626",
+        "localeIdentifier": "en-US",
+        "objectId": "6bsCNIfOru",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-17T17:41:39.329Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-13T19:51:42.897Z",
+        "deviceToken": "1ce4dc87006670ab95fb2e9650eb5d13f975335ce09597a6899bfd7d94e99760",
+        "deviceType": "ios",
+        "deviceUID": "F161C502-AB33-41C8-A122-1E7D1ED962BF",
+        "installationId": "550eb450-a7ca-425c-b44c-664bb56a8900",
+        "localeIdentifier": "en-US",
+        "objectId": "6c0EiI21pY",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-13T19:51:42.897Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-29T20:29:42.937Z",
+        "deviceToken": "23c6908a02fcfbf08b4d8798d7b15dff92522686a0d3643e21468f16a729d124",
+        "deviceType": "ios",
+        "deviceUID": "C8F3B7DD-3009-4049-94E9-081C61AD8FD4",
+        "installationId": "6507f938-7cdb-4f66-9524-5266a7de1b20",
+        "localeIdentifier": "en-US",
+        "objectId": "6hlTCZhV0U",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-11-29T20:29:42.937Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-05T02:34:28.516Z",
+        "deviceToken": "4e6d2864c03554e7c190332f67139772b8fc53abcbca12c249356420c7f1904c",
+        "deviceType": "ios",
+        "deviceUID": "6907B95F-B67B-42B7-A6BA-73E173E2A625",
+        "installationId": "6eaeb20f-eed8-487f-a0b7-96430f27a57e",
+        "localeIdentifier": "zh-CN",
+        "objectId": "6l1Wk2VQ5Q",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Shanghai",
+        "updatedAt": "2015-12-28T11:44:52.190Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-14T14:10:51.614Z",
+        "deviceToken": "bdfc0a59fcc3598cde643fb319b6359130c75db2a7828db1eeed0857f03c398c",
+        "deviceType": "ios",
+        "deviceUID": "5EA1D0F7-11EA-4290-BF81-56B54E39CE30",
+        "installationId": "60801905-2fce-4f2b-9c24-1d77aeeb68af",
+        "localeIdentifier": "en-US",
+        "objectId": "6wp5ZO8YYb",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2016-01-07T14:00:53.928Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-21T21:27:23.180Z",
+        "deviceToken": "3574858647a8a965a10b30425ad5249cc19b9e263a1a109b39921ca259a59d12",
+        "deviceType": "ios",
+        "deviceUID": "F772A69B-6ABD-41F2-BA86-32B8D334CDC5",
+        "installationId": "0133bb52-6069-443a-bfc1-9c90f9c43bb4",
+        "localeIdentifier": "en-US",
+        "objectId": "75muVb0OCG",
+        "parseVersion": "1.8.5",
+        "timeZone": "US/Pacific",
+        "updatedAt": "2015-10-21T21:27:23.180Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-23T21:08:13.408Z",
+        "deviceToken": "da2cfefcd89c76c62844024e63f7bef0cd100fc64b9c940924cc7b853ce8297b",
+        "deviceType": "ios",
+        "deviceUID": "8DCD7FDB-D038-40DD-A43E-34F0462E1B49",
+        "installationId": "de366830-0800-4af8-bd18-a59f79496044",
+        "localeIdentifier": "en-US",
+        "objectId": "75ubiqJI4t",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-02T08:37:55.543Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-13T18:46:14.457Z",
+        "deviceToken": "4f1134edf3ec6db5004066a9716c6f454e82180a5349c85e6dfc41e3723599a3",
+        "deviceType": "ios",
+        "deviceUID": "61756376-1D2C-404F-8B30-CAF8CD35FF48",
+        "installationId": "96ec5335-94dc-4a93-9b78-870307cf72c4",
+        "localeIdentifier": "en-US",
+        "objectId": "7IaK0uCSeM",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2016-01-13T18:46:14.457Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "as_SAmp43DyPS"
+        ],
+        "createdAt": "2016-01-04T05:36:58.173Z",
+        "deviceToken": "6835a6b4aae865125b012f5446a34e4f654279d416c0e5bef51d582d643f5250",
+        "deviceType": "ios",
+        "deviceUID": "07F7C7B0-9F10-4B68-8DD6-000C186F6989",
+        "installationId": "970a0e59-705f-4b0f-af7c-e43974802561",
+        "localeIdentifier": "en-US",
+        "objectId": "7UXWEckxWm",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-04T05:38:01.349Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-17T02:28:20.089Z",
+        "deviceToken": "0b999cac28c2aa82d2f1b8e45e43694ed41766e37cf18a8e92bb589b8044f3e6",
+        "deviceType": "ios",
+        "deviceUID": "F5F6F5DD-AD48-42A2-8D2C-00C399D19DB7",
+        "installationId": "6cf2aa51-f30f-4a02-bd57-48958515c49d",
+        "localeIdentifier": "en-US",
+        "objectId": "7v1GwFDTvx",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-17T02:28:20.089Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-17T20:53:56.477Z",
+        "deviceToken": "b4cb0418e0b404bfa928f61136d8e247099a7b68f6a92bdb6976b9611bd3e062",
+        "deviceType": "ios",
+        "deviceUID": "63800368-B51E-4934-8D86-E0022B890117",
+        "installationId": "cd87834f-ccd4-4e6c-a1c8-295038797568",
+        "localeIdentifier": "en-US",
+        "objectId": "8CZsNeOkQX",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2016-01-17T20:53:56.477Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-29T00:28:42.873Z",
+        "deviceToken": "fd5839094b598c026c13d18e8e72ae6f1ffcdf878f9e49321f4f9f8885e810e0",
+        "deviceType": "ios",
+        "deviceUID": "E0CC90D2-300A-460D-8676-EB26866A9DCD",
+        "installationId": "56bf876b-20d6-45af-a86f-9e4cfc116740",
+        "localeIdentifier": "en-US",
+        "objectId": "8EVxhZsIpc",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-29T00:28:42.873Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-27T10:07:53.918Z",
+        "deviceToken": "3b8572aee2fe363fc02a7b1498fbdaa488e4b9f2c34c86d6e22d6e9d847d27bc",
+        "deviceType": "ios",
+        "deviceUID": "9A741898-4588-4916-A1DE-C3CFB95F005C",
+        "installationId": "fd54adfe-d7f0-4143-83bd-7529027d3a5a",
+        "localeIdentifier": "en-US",
+        "objectId": "8H7JViIjVy",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Jakarta",
+        "updatedAt": "2015-12-16T10:37:56.399Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-10T15:38:23.650Z",
+        "deviceToken": "346d79a186995a0292ed9026a3dcbb28791176c6bdf62cd5e6df2b859fd11fbe",
+        "deviceType": "ios",
+        "deviceUID": "E8FB3014-1C2C-4229-928C-2A7F424B8585",
+        "installationId": "5ffcf597-cc5b-4f46-968c-5cf1938b6ab2",
+        "localeIdentifier": "en-US",
+        "objectId": "8HCkfEaPdo",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Tehran",
+        "updatedAt": "2015-12-10T15:38:23.650Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-28T18:01:23.598Z",
+        "deviceToken": "7a72923f8ea181429afd7e975874c769315a7ac2e83efb2ec704c82ed1ce8dca",
+        "deviceType": "ios",
+        "deviceUID": "ED555AFD-1BEB-4563-B6C5-F7EE6ADA3DFE",
+        "installationId": "4df00137-62ce-40dc-8b68-73e58a657758",
+        "localeIdentifier": "en-US",
+        "objectId": "8SSuiUWlND",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-21T02:42:37.400Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-10T16:16:41.619Z",
+        "deviceToken": "3f7972b0f29a61cb516e773b07d30685b24777694978af272a022501b065bdb5",
+        "deviceType": "ios",
+        "deviceUID": "C3E43920-6C2F-493C-99CE-0D37AE9251A6",
+        "installationId": "7e3835b0-6ce3-41f1-9b40-08061f8761e0",
+        "localeIdentifier": "en-US",
+        "objectId": "8lIdqo4cc4",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-17T16:42:26.323Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-05T01:43:40.322Z",
+        "deviceToken": "de306bcb7c2499b44cf9d89d497706bce2960702a51bb8cc561a5050049877fd",
+        "deviceType": "ios",
+        "deviceUID": "709C7DD0-6411-4B5E-A3A4-1C2AAAF97DC0",
+        "installationId": "22d0300d-03c2-4dcb-b5bc-43db64ca4fce",
+        "localeIdentifier": "en-US",
+        "objectId": "98l4XeaLd9",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-17T16:24:30.515Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "as_R2VF0qKyiU",
+            "as_MYr7cZzssE"
+        ],
+        "createdAt": "2015-10-23T09:27:34.303Z",
+        "deviceToken": "7962d56efe7a6dc5b9a125cd8fd16ecdcce2eca04ae7c0d5e50a1bbf641f502c",
+        "deviceType": "ios",
+        "deviceUID": "190AABD1-6872-45CC-B0B2-B948579A63EB",
+        "installationId": "39bf396f-8368-491b-a8be-d29e78f160d9",
+        "localeIdentifier": "en-GB",
+        "objectId": "9Hhdud1bXg",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/London",
+        "updatedAt": "2015-12-19T08:39:40.074Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-02T06:55:29.963Z",
+        "deviceToken": "d4120c3d4653ffc8305e0c8141658035ee9fa5cea4fc2fc753deec36b5eeb01d",
+        "deviceType": "ios",
+        "deviceUID": "DA12FA18-5D27-4798-85A9-443D81B1E336",
+        "installationId": "1566c653-bad0-40c5-807a-f1c2a2faaa96",
+        "localeIdentifier": "en-US",
+        "objectId": "9XVAHGtpJB",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-02T06:55:29.963Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global",
+            "as_9cp8QPOM95",
+            "as_bngB1kvroM"
+        ],
+        "createdAt": "2015-12-04T20:37:58.141Z",
+        "deviceToken": "a2194d405dde3c97562c9524bb5f33ea0b113c938d2f9c91d9da02ce8a2abdb0",
+        "deviceType": "ios",
+        "deviceUID": "224CFF7E-B798-44FF-BEC7-ED97B2A42F51",
+        "installationId": "5eb23263-3d01-4ce0-aeae-377bfde46e4a",
+        "localeIdentifier": "en-US",
+        "objectId": "A7tCWQfDXf",
+        "parseVersion": "1.8.5",
+        "timeZone": "US/Mountain",
+        "updatedAt": "2015-12-04T20:39:16.623Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-25T14:15:34.131Z",
+        "deviceToken": "ee3e33e2d9f2c4f3e97c4f22f933d69cda11517e91ae7c50a0baded941e746e4",
+        "deviceType": "ios",
+        "deviceUID": "564BCE26-2149-4A52-B930-6DC9190A8746",
+        "installationId": "20021c1a-7491-456c-87b8-98efd5d5f33f",
+        "localeIdentifier": "en-US",
+        "objectId": "AB45hm5pUy",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-11-25T14:15:34.131Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "gs_2DaYITUHlt",
+            "gs_7DKVTEgxY8",
+            "gs_cbIc645gRZ"
+        ],
+        "createdAt": "2015-12-28T04:22:06.441Z",
+        "deviceToken": "da6bbb200d73be55cf2cd25ba6de14aa86ccbc4679b2ad87f5a9bd4bf35a60e0",
+        "deviceType": "ios",
+        "deviceUID": "B49A373D-961C-4BF1-A56C-C03C7027FCD8",
+        "installationId": "0e4360f8-f8af-4c0d-a8e5-1e2f9854e0c9",
+        "localeIdentifier": "en-US",
+        "objectId": "AQJ87NXKTY",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-28T04:25:24.185Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-26T15:18:08.969Z",
+        "deviceToken": "6a837ecc7f36abd78bd10baf58de7acef31a435e81cadd91bd93edb1c2602e22",
+        "deviceType": "ios",
+        "deviceUID": "DEFC8593-4C7C-4E87-BA1D-8552619E2A0A",
+        "installationId": "a83062f2-7dc9-4176-9c00-b985fb325533",
+        "localeIdentifier": "en-US",
+        "objectId": "AjhqnsSdA8",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-03T17:37:51.309Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-29T20:27:20.157Z",
+        "deviceToken": "bc4132721b8468bde38ec37cf0c98746026357d918cb29838d764747d7b00758",
+        "deviceType": "ios",
+        "deviceUID": "2D071C89-BFD5-4A93-B0BB-E839BE493069",
+        "installationId": "42c84e60-a0f8-4e6a-9164-6e1aecceaa0b",
+        "localeIdentifier": "en-US",
+        "objectId": "B3CgYdi9K8",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-29T20:27:20.157Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-11T12:17:48.129Z",
+        "deviceToken": "745f28285573babfaa6d65ca103a381728698ac11818c3d7068ffb9d9ca54b2e",
+        "deviceType": "ios",
+        "deviceUID": "C3E2433F-22F7-455F-90A6-1D1FE0263E20",
+        "installationId": "41752029-8693-48de-afb5-91e2b5735b4e",
+        "localeIdentifier": "en-US",
+        "objectId": "B5JoRrR1yS",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/Madrid",
+        "updatedAt": "2016-01-11T12:17:48.129Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-11T13:38:31.652Z",
+        "deviceToken": "5c1b289596ec3a1e4358fbcddc44de28d3872d691357069a0078d6ac142a2413",
+        "deviceType": "ios",
+        "deviceUID": "ADCF9FED-0A5F-44FF-B1AF-2B38DF43C508",
+        "installationId": "d13c0387-e6d0-49c2-a7a3-9ab6f0f7f7aa",
+        "localeIdentifier": "en-AF",
+        "objectId": "BQeVzzp9Hh",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Tehran",
+        "updatedAt": "2016-01-11T13:38:31.652Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-25T20:31:22.190Z",
+        "deviceToken": "6bdbf3bd2827cd31bea38feda88ee02e4d87782748be998640de07f28b2e08b9",
+        "deviceType": "ios",
+        "deviceUID": "B6FBC705-9D2A-4FB7-B115-4A5F97399C1C",
+        "installationId": "2541be85-e2b1-4090-8d9b-b8e6f5bee062",
+        "localeIdentifier": "en-US",
+        "objectId": "BiEAB1FHdJ",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-11T22:38:58.776Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-20T07:05:14.026Z",
+        "deviceToken": "422ab3c5975838e6624224a7338e98521dfcfe951591008aab986dc1bb7461bd",
+        "deviceType": "ios",
+        "deviceUID": "5F4CD972-207C-4A70-8F6D-0CDFD458CAF2",
+        "installationId": "9d782f67-e550-4399-9fca-d706d5918f25",
+        "localeIdentifier": "en-US",
+        "objectId": "ByFUp6NzLR",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-20T07:05:14.026Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-23T20:53:05.797Z",
+        "deviceToken": "5e2953485042506a99436a4efc78737a4c998fb193fa54763ca9991d1d453f43",
+        "deviceType": "ios",
+        "deviceUID": "3E2BE545-1711-463F-A49E-4CBF120671AE",
+        "installationId": "3cd4cfa2-9f06-44c2-9235-e19a53ce2014",
+        "localeIdentifier": "en-US",
+        "objectId": "CTYRLqlwRh",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-11-23T20:53:05.797Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-16T17:29:48.819Z",
+        "deviceToken": "38a3b5e29bf724c2e03f8af9e51215538bae22b857a725fbd8a9e6ad3c12ead4",
+        "deviceType": "ios",
+        "deviceUID": "FAF430CA-4346-4EA4-AF95-D962CD01FC13",
+        "installationId": "2a24e4ed-490b-4b39-8796-94bcd72bc13b",
+        "localeIdentifier": "en-US",
+        "objectId": "DDSDpBrgyb",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-16T17:29:48.819Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-09T14:36:27.704Z",
+        "deviceToken": "ace951e2814dc72cab8530c457d01229a7e2cdd94a8ecb54ed2e3446ea336fc7",
+        "deviceType": "ios",
+        "deviceUID": "E71B4EC0-E9AC-4E2F-8E0C-470C01548499",
+        "installationId": "10d143d7-cb3d-4957-b03c-b2a1e86a1a1e",
+        "localeIdentifier": "en-US",
+        "objectId": "DEwG6itTWZ",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-09T14:36:27.704Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-25T07:02:30.919Z",
+        "deviceToken": "ec74f812e6ba301a67a0b43fd4ef447ede792c42abf6ded17caed2553931d56c",
+        "deviceType": "ios",
+        "deviceUID": "6CA95966-2460-47F9-AA95-148847AB7ACA",
+        "installationId": "b3e3d254-8f55-4231-bb29-5743351fce40",
+        "localeIdentifier": "en-CA",
+        "objectId": "DMW8MftktL",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Toronto",
+        "updatedAt": "2015-12-26T06:04:22.426Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-24T11:14:14.146Z",
+        "deviceToken": "c5c68ccc20c8dbb32c101dee762d2959370bc0e90177346589de4acb84b1d027",
+        "deviceType": "ios",
+        "deviceUID": "5841417D-36EF-44BA-8233-1BB6F36805E2",
+        "installationId": "c7a14620-336c-43f1-910a-372b96ff9b30",
+        "localeIdentifier": "en-GB",
+        "objectId": "E2TlO7j7nE",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/London",
+        "updatedAt": "2015-12-16T09:52:34.529Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-02T06:47:18.234Z",
+        "deviceToken": "41cda6479de5b26ceccb97925a191030ffc22d07b7e089dde45fb01838ba8cac",
+        "deviceType": "ios",
+        "deviceUID": "E8B9D090-601F-4996-98BF-4DF1ACDB1147",
+        "installationId": "440a4195-a2bb-49be-81de-6b9b86a4e8ba",
+        "localeIdentifier": "en-US",
+        "objectId": "EC3kfAp3uG",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-02T06:47:18.234Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-17T17:57:22.795Z",
+        "deviceToken": "90af5bcf4bc7caef8fffaba50eab1ebf782f59fa1ef9de8a7250cebe396e7694",
+        "deviceType": "ios",
+        "deviceUID": "D6AEAF70-A93B-4035-8E99-ADEC9DBD0C08",
+        "installationId": "fc9478a1-9d25-456f-9a15-87cbfd13536d",
+        "localeIdentifier": "en-US",
+        "objectId": "EJitdaDmE7",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-18T03:21:37.073Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-23T18:43:02.122Z",
+        "deviceToken": "67fe5f834b4dbb6d33a86a46ae72dfd94e0821498d97458d62ed22c2d746b023",
+        "deviceType": "ios",
+        "deviceUID": "3ABC417E-FE06-4550-84A3-5BDFD937B890",
+        "installationId": "3e2e0bf2-8de3-4f0c-9859-9f378311f54d",
+        "localeIdentifier": "en-US",
+        "objectId": "EMvP68pqPK",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-23T18:43:02.122Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-20T19:44:55.650Z",
+        "deviceToken": "717cb83b1e6fe07610a7479ad2c972f164e0a6a8d48ae4a02206d1ed7b73708a",
+        "deviceType": "ios",
+        "deviceUID": "84CF700E-1FFA-4127-A7CF-2C7510FEBEB2",
+        "installationId": "5160e4db-7194-48a5-b192-a5d3f67dc479",
+        "localeIdentifier": "en-US",
+        "objectId": "FC88W4ysql",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-20T19:44:55.650Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-22T04:41:56.979Z",
+        "deviceToken": "8dfa9cc5fcd9336e2babb4792d67495cffe8159c3f85479d80a3b5102f1559f9",
+        "deviceType": "ios",
+        "deviceUID": "303CC5FB-A208-484A-A6EB-6564B1748672",
+        "installationId": "f4fda13f-589e-4024-b4f8-b294429e7776",
+        "localeIdentifier": "en-US",
+        "objectId": "FwLDw9iMSo",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-11-22T04:41:56.979Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-01T08:37:23.146Z",
+        "deviceToken": "8286ba10b30937064d5448c07ddd0b883cb1f96ea6073708e5439b4f75a0901b",
+        "deviceType": "ios",
+        "deviceUID": "BFD9A8F5-D77B-45D9-9178-4EC85A25C090",
+        "installationId": "5fc955ac-2c99-45c9-b4f6-d8b1289ffd8e",
+        "localeIdentifier": "en-US",
+        "objectId": "GSb3nwS78K",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-01T08:37:23.146Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-27T21:19:56.488Z",
+        "deviceToken": "36e9db3639f9361938240755eb05c8a185d1a0f2016aae4f8d95c30b54335d38",
+        "deviceType": "ios",
+        "deviceUID": "FF47DE8E-B034-49AF-A485-3CD2089B7BBE",
+        "installationId": "2b83e215-1be5-404d-82b8-3f4923624ab0",
+        "localeIdentifier": "en-US",
+        "objectId": "GtOs4yBFyE",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-17T12:45:49.504Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-24T19:24:43.901Z",
+        "deviceToken": "096cc39b60a52aaa6562bd0bbcb6ff8b586f5046584c4edc2eb8991fc6078c3e",
+        "deviceType": "ios",
+        "deviceUID": "5033CDB0-5FE1-4230-A835-8293F3532F2D",
+        "installationId": "5ab00826-44b1-44fd-b844-c252e8fae3ec",
+        "localeIdentifier": "en-US",
+        "objectId": "HSOQnbmz3z",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-17T17:29:44.120Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-10T06:24:38.717Z",
+        "deviceToken": "73e7184ffbc48733bd0e55010fe62add1dcce0aba4972764cdf562b599700456",
+        "deviceType": "ios",
+        "deviceUID": "094707D7-9FEB-41C6-A3E9-E39336DCD181",
+        "installationId": "b8a02d87-89c2-4c2d-bb87-a751944cdf59",
+        "localeIdentifier": "en-US",
+        "objectId": "HZGtD34Lev",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Denver",
+        "updatedAt": "2016-01-10T06:24:38.717Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-06T17:22:49.200Z",
+        "deviceToken": "b6cf825c4c404987b019da664d8f30b26f051e918a80aa1fdeba1aa24db7893e",
+        "deviceType": "ios",
+        "deviceUID": "0571DFF0-0631-4433-9C4F-A7D555DC890D",
+        "installationId": "b974f1b0-8c6a-4c10-996a-3e069cc6905c",
+        "localeIdentifier": "en-US",
+        "objectId": "HvWbALRLMb",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-06T17:22:49.200Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-02T06:14:07.073Z",
+        "deviceToken": "57519b4fcf8b2018f0e368a41c15e415a0a9bb20be1c86d2fc769202bd9c6bdf",
+        "deviceType": "ios",
+        "deviceUID": "57870029-9060-4481-9404-182F31C81345",
+        "installationId": "e54ec07a-99af-4223-8c09-97be97c95b76",
+        "localeIdentifier": "en-US",
+        "objectId": "Hzd2orw2lO",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-02T06:14:07.073Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-22T01:07:55.771Z",
+        "deviceToken": "794d41d12d63a650577c738cdc8f9d8e52da1dd962b8ab131eab6ccbff02fb95",
+        "deviceType": "ios",
+        "deviceUID": "93C68982-ED0D-43CB-908D-684A8E015856",
+        "installationId": "9fd12593-9218-44d9-8a51-beabfe32e02d",
+        "localeIdentifier": "en-US",
+        "objectId": "I9H8F19AwS",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-22T01:07:55.771Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-17T00:54:39.631Z",
+        "deviceToken": "97f759619e95db5290b5a410a328ab9f2a76ddc3d494bd69207c80579b74e6dd",
+        "deviceType": "ios",
+        "deviceUID": "BA986706-1D1D-4D0E-8F53-D0359936F5F1",
+        "installationId": "038c5d9a-0fdb-490c-8db3-31ce94efb406",
+        "localeIdentifier": "en-US",
+        "objectId": "IOgAqFsBU1",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-17T00:54:39.631Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-10T21:44:32.468Z",
+        "deviceToken": "5ca8718ac7f275064f9606d638975531ec394dd1778a094c30c09047459d2251",
+        "deviceType": "ios",
+        "deviceUID": "AF09BAF9-169B-483B-B02B-CE6D4496986F",
+        "installationId": "61fdf293-b8e2-4ab1-a359-50001aa2909b",
+        "localeIdentifier": "en-US",
+        "objectId": "IP1OoqaE5d",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-11-10T21:44:32.468Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-05T17:18:02.566Z",
+        "deviceToken": "eaee92f98bb6f0e827b9739ffba00cfc929acf77d40e444546bad381a2e19f4c",
+        "deviceType": "ios",
+        "deviceUID": "8AB168CD-EF4B-42AF-800C-32CB1CEB130D",
+        "installationId": "04947101-f0fc-4961-b0c8-8d12e40c825f",
+        "localeIdentifier": "en-US",
+        "objectId": "J9diPLGIgO",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-05T17:18:02.566Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-31T03:45:14.703Z",
+        "deviceToken": "dcfc68b8cb300e762afd26d6ca00b05d9776dbe59ed459e7d66d6a0fc59400d4",
+        "deviceType": "ios",
+        "deviceUID": "A9061368-B220-4BCF-9621-E7779DA14A49",
+        "installationId": "d2801bba-daa3-4128-a309-d59802d1b676",
+        "localeIdentifier": "en-US",
+        "objectId": "K7zquPow8Y",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-20T01:58:39.823Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-22T07:00:44.904Z",
+        "deviceToken": "6407693ae1a5568bb50947ad65c98b18992401fa8784d8a7a2e5e10d6633f8bc",
+        "deviceType": "ios",
+        "deviceUID": "79672207-2535-4F5D-81A7-6E933AF8736E",
+        "installationId": "a3cf1ac9-c597-4ca3-8bbf-18ad3491bdbd",
+        "localeIdentifier": "en-US",
+        "objectId": "KjiyaQfzDe",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-22T07:00:44.904Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-03T23:36:02.714Z",
+        "deviceToken": "1023933dd3c6ba2beadef58dbb021985a9256a2011e1f72e09634f3671cab87d",
+        "deviceType": "ios",
+        "deviceUID": "66853DD4-D4DE-48D1-A756-434271BACD14",
+        "installationId": "a51d003a-e66c-44e1-a4e9-38d955fd7631",
+        "localeIdentifier": "ru-RU",
+        "objectId": "LSm4iyMnj9",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/Moscow",
+        "updatedAt": "2016-01-03T23:36:02.714Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-07T19:42:50.684Z",
+        "deviceToken": "b49752b77bf0902fece6510f51790f5fced688115742458380f6c3bd34841469",
+        "deviceType": "ios",
+        "deviceUID": "DB931EB9-EC07-4228-A0ED-1CD1A4DCE044",
+        "installationId": "6219dce9-54c2-4f4e-990e-4f24faff4186",
+        "localeIdentifier": "en-US",
+        "objectId": "LuyuCEUju1",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-11-07T19:42:50.684Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-15T10:30:06.058Z",
+        "deviceToken": "dd84d3297784f0b77f59e76bf41748f98b7b8f6115a067c2b375249b994980f2",
+        "deviceType": "ios",
+        "deviceUID": "C951B30D-B1E5-4610-BBAA-818BD9008B11",
+        "installationId": "25f12feb-d237-444f-84b5-a8f90f5097c8",
+        "localeIdentifier": "en-US",
+        "objectId": "LxdsTWo3k2",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Riyadh",
+        "updatedAt": "2016-01-15T10:30:06.058Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-20T18:49:20.943Z",
+        "deviceToken": "c874e192cfe894b68d6c2733cbb56f8358bb48ba837bce8ad7fce594b0a13682",
+        "deviceType": "ios",
+        "deviceUID": "6DA2D01C-33DA-4CA6-98CE-2D1714F0CEE8",
+        "installationId": "fcc451eb-14f1-49f0-b651-48b31375bb00",
+        "localeIdentifier": "en-US",
+        "objectId": "M9YOTwccck",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-20T18:49:20.943Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-03T02:52:44.423Z",
+        "deviceToken": "8bcf2bc534d43cd1c44b6a5b4e3a89c8abd5f7c0978b0d83d04ec34539f67396",
+        "deviceType": "ios",
+        "deviceUID": "04C39841-4856-4F70-8103-2A304A3E1D1A",
+        "installationId": "84d9a327-48c3-4f7d-8e1f-4ea7d5477caf",
+        "localeIdentifier": "en-US",
+        "objectId": "MAxx4oV3ha",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/Amsterdam",
+        "updatedAt": "2016-01-18T10:56:04.768Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-31T04:23:17.876Z",
+        "deviceToken": "0d072f8cf5000c03587cb287116c67ee946ad971fac550ed1fdea5c8210dab19",
+        "deviceType": "ios",
+        "deviceUID": "9E0F6A0D-0D02-4E15-A292-3C3FCAC9AD80",
+        "installationId": "ae97ceaa-5bb8-44ab-892e-f05ea53b5b9f",
+        "localeIdentifier": "en-US",
+        "objectId": "MBIRVBufcs",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Indiana/Indianapolis",
+        "updatedAt": "2015-12-31T04:23:17.876Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-03T16:29:32.412Z",
+        "deviceToken": "33c3b67ee09280b4525477d4c2a6de2567edd7a87e4dd9c31df2d8e97a6c1687",
+        "deviceType": "ios",
+        "deviceUID": "D5E3E52B-AECC-44C4-A5B5-6F5D152467FA",
+        "installationId": "bb28c7a2-5e84-42e5-ba53-971a29759a0b",
+        "localeIdentifier": "en-US",
+        "objectId": "MfYS6E5qeZ",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-03T16:29:32.412Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-04T22:53:18.837Z",
+        "deviceToken": "019248def7d2d44e623b189df878f4359ebb8566a418bf68cecdca06d02908c6",
+        "deviceType": "ios",
+        "deviceUID": "751B7F23-362D-4113-A5B2-233F4616AF4D",
+        "installationId": "7d26f4a9-3127-462b-aa86-af453163d6de",
+        "localeIdentifier": "en-US",
+        "objectId": "N0Grh2epnu",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2016-01-04T22:53:18.837Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-10T13:03:18.276Z",
+        "deviceToken": "227b1e0e197d7aad2ec6efc4d0250df89df82b54d0e2f702fcc9d59caefcc67c",
+        "deviceType": "ios",
+        "deviceUID": "B95BEFCA-2AB6-458C-8729-5FD676C8D968",
+        "installationId": "9d09f077-1164-4082-8c2a-c17869d40e1f",
+        "localeIdentifier": "en-US",
+        "objectId": "N25nOJkwgU",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-10T13:03:18.276Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-25T01:40:28.152Z",
+        "deviceToken": "9dc37be2899ba8e56c46bf0319e4616fdf2ae5eea82d61a3e7aa2a4434a2b45c",
+        "deviceType": "ios",
+        "deviceUID": "5B344442-1668-4C64-ABE2-A289AF8C4FBB",
+        "installationId": "dc5ee312-f06f-47be-8977-831290d0d89f",
+        "localeIdentifier": "en-US",
+        "objectId": "NgPA9fXquf",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Phoenix",
+        "updatedAt": "2015-12-28T03:46:55.397Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-20T12:01:09.787Z",
+        "deviceToken": "015c32031033800070bada7fb3017900f9ed951b945853d69c71e9022d7f9c20",
+        "deviceType": "ios",
+        "deviceUID": "14F9F8A6-C6EE-4BC3-A5AD-029DCD0AD490",
+        "installationId": "28ea9fa9-85dc-4878-8e2a-d54b2e012ccc",
+        "localeIdentifier": "en-US",
+        "objectId": "NvHtStlN3p",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-10-20T12:01:09.787Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-06T18:30:35.435Z",
+        "deviceToken": "b4ec7e4d830540a77294b1443b80871fdbff490ffb1aba4fdf61296f02b8572c",
+        "deviceType": "ios",
+        "deviceUID": "31692087-31DA-4F57-95CC-4C7B2728D4E7",
+        "installationId": "ee5b09ec-7571-4778-b644-f3f4158355d2",
+        "localeIdentifier": "en-US",
+        "objectId": "ObpRLth5lz",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2016-01-06T18:30:35.435Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "as_RlULW1RXEW",
+            "as_dbNdySAWM5"
+        ],
+        "createdAt": "2015-11-08T05:47:13.838Z",
+        "deviceToken": "c40459c14ff387e8a3c143c0f7c3f216f55f0f5aeda01b794c155090bf2d102d",
+        "deviceType": "ios",
+        "deviceUID": "FE73E22E-3F8C-4A3A-AB43-1CC12EAFC90F",
+        "installationId": "9cb00474-bc42-4766-a13e-a43ef4ce86cd",
+        "localeIdentifier": "en-US",
+        "objectId": "PKpD3TVVN8",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-18T22:39:58.433Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global",
+            "gs_0x74mf4Mnf",
+            "as_UcsHzqxt33",
+            "gs_jw1uYvwEDh"
+        ],
+        "createdAt": "2015-12-09T06:39:27.098Z",
+        "deviceToken": "bd770bc105e9cbd04fa295a6a03a0127839b1e264b230bd1104a3cd86b46dbca",
+        "deviceType": "ios",
+        "deviceUID": "3AB03E89-7F92-4EC8-B808-81D4CCFEB879",
+        "installationId": "d16e551e-30e8-4448-8f83-8cd57356f432",
+        "localeIdentifier": "en-US",
+        "objectId": "PUGU0LKD1H",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-09T06:39:27.098Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-01T17:12:02.593Z",
+        "deviceToken": "c8a3ca21cb4ec8203304a44edbbf605be2108304c01d9d90d08c7bf2c70618d5",
+        "deviceType": "ios",
+        "deviceUID": "331EFF7D-0A1D-48B6-8223-2481C6FDD1B7",
+        "installationId": "91f2d921-c9dc-4a94-8f5e-1bb7e03d031f",
+        "localeIdentifier": "en-US",
+        "objectId": "PaIRo0ACjD",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-31T16:53:49.889Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-27T04:41:47.990Z",
+        "deviceToken": "8079a69e065e1f796c1466ca1414adc157ce0e8d413025bf25e9a61f325531f8",
+        "deviceType": "ios",
+        "deviceUID": "705E0982-8E6A-4AE5-949E-9E18EB3CBA9C",
+        "installationId": "9c163f24-92ef-48e1-937d-5efbf9349150",
+        "localeIdentifier": "en-US",
+        "objectId": "QK5rqVVFI6",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-11-27T04:41:47.990Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-04T00:46:24.845Z",
+        "deviceToken": "9ff3ea41f1b1f41070e8691c1a4d773a42b2ef4581032fe4077fc8a880bade4f",
+        "deviceType": "ios",
+        "deviceUID": "B8A9B525-0DF4-499E-8E62-51F334317C64",
+        "installationId": "d995718d-7c80-417b-a89a-0850e51835ed",
+        "localeIdentifier": "en-US",
+        "objectId": "QWrarQyXfv",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-02T18:19:32.297Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-28T19:40:32.331Z",
+        "deviceToken": "47719b78de6c696a76789f992191353786fd738d0f7571f6f8fb60c8d82599a2",
+        "deviceType": "ios",
+        "deviceUID": "0E375871-5866-467B-AEBC-CB2FDAFF99AA",
+        "installationId": "36e1f836-0b83-41e4-bf83-0cada9cb5e92",
+        "localeIdentifier": "en-US",
+        "objectId": "QcrabpLmTD",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-16T01:01:36.542Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-27T19:06:05.622Z",
+        "deviceToken": "b830fd3cd874c4f02fdfae91afe3309186df4744b9a3a27fb6ad1ac85ff70962",
+        "deviceType": "ios",
+        "deviceUID": "C5132911-4814-4AFA-9CDE-995DE2B0BFF1",
+        "installationId": "64ddc5d3-33fd-433f-87cd-b63a16dc9188",
+        "localeIdentifier": "en-US",
+        "objectId": "QkAkvrY7yL",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-27T19:06:05.622Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-20T00:04:47.551Z",
+        "deviceToken": "3a8ec7e6f4e6232fbebfd963b25928a3b2ff0c59d433ea6acf4396d717961f7d",
+        "deviceType": "ios",
+        "deviceUID": "56E30858-69C3-4C6B-A0DE-209C8082599E",
+        "installationId": "2c35adee-c5d1-4fb9-8924-ae00fa4c32e8",
+        "localeIdentifier": "en-US",
+        "objectId": "R0xNFYHEt1",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Detroit",
+        "updatedAt": "2016-01-21T02:53:40.389Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "gs_D6883arunu",
+            "gs_inmomYEPM4",
+            "gs_C0njExZVZy",
+            "as_qiePlHbtwa",
+            "gs_AXeboVOLrC",
+            "gs_0x74mf4Mnf",
+            "gs_xJBla65QeY",
+            "gs_9hTBsJ0Xcf",
+            "gs_NcDzICd799",
+            "gs_MKgqcs7Vl3",
+            "gs_DshVdSqHY3",
+            "gs_LTQ9jYOiNF",
+            "gs_cY7KLuvTv8",
+            "gs_u7HoELT1HB",
+            "gs_r7HCuiWKqI",
+            "gs_pbgK7ik99q",
+            "gs_53hHV70Ul3",
+            "as_l5sdStJWuS",
+            "as_NbSSrBPmxL",
+            "as_IicY5sfjBn"
+        ],
+        "createdAt": "2015-11-23T20:31:14.832Z",
+        "deviceToken": "4e03be5c456e4c61b2a4930b029ee7d74b6526987d6ba5c13af34c846aead853",
+        "deviceType": "ios",
+        "deviceUID": "17D7251C-6ECA-4A5D-B8DC-3A2861288413",
+        "installationId": "ea8a13f1-4a94-49d6-ae1a-1ec9296ebfd4",
+        "localeIdentifier": "en-US",
+        "objectId": "R50ZRqUWjN",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Mazatlan",
+        "updatedAt": "2016-01-17T21:07:08.182Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-29T20:42:14.251Z",
+        "deviceToken": "0eb9588ba4d6f69da211147a8151a4097ab873881dfe1d38bc44ff2b56693c15",
+        "deviceType": "ios",
+        "deviceUID": "1DC253E1-2A98-4E1E-A92A-2DE1864B41AC",
+        "installationId": "3cae4f85-e87a-4e31-9126-eb7425844df1",
+        "localeIdentifier": "fa-US",
+        "objectId": "RNBfSdnvQQ",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Tehran",
+        "updatedAt": "2015-12-29T20:42:14.251Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-23T18:53:47.337Z",
+        "deviceToken": "2214e34fc0aa69f6f66e0a50e90c9754d36e503bea1ecbc847ac1b58b783cb4d",
+        "deviceType": "ios",
+        "deviceUID": "267FFBE2-4B08-4C0B-93CD-E3F8B98E0F14",
+        "installationId": "2274c183-11df-4277-80db-dc09bdc7925a",
+        "localeIdentifier": "en-US",
+        "objectId": "RNd4tCPCwB",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-22T03:04:09.959Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global",
+            "gs_7RmJbYuUSn"
+        ],
+        "createdAt": "2015-11-07T05:14:56.041Z",
+        "deviceToken": "ff456f6bc4d454d72e48f170514011e9480cdffe3486a3a822956d2b871bbcb5",
+        "deviceType": "ios",
+        "deviceUID": "77EC6C4F-0430-41CA-B709-6B578216AB49",
+        "installationId": "c68b8f29-4931-4313-bdd4-c0f9e8e7ad60",
+        "localeIdentifier": "en-US",
+        "objectId": "ROAMAbl0wI",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-11-07T05:37:04.665Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-31T00:23:29.836Z",
+        "deviceToken": "44a728e01c2d79cefce17a0839be27ac52f58e2ff508286612a5458faa2629d6",
+        "deviceType": "ios",
+        "deviceUID": "C84330B6-7A1C-4F92-9B45-39249535B64A",
+        "installationId": "fdbd97ce-7427-4934-a48f-a605b0c608c1",
+        "localeIdentifier": "en-US",
+        "objectId": "Rvta9AYyD9",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-31T00:23:29.836Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-17T18:12:02.313Z",
+        "deviceToken": "02109f643a283423d8c08e84b8625de048b0da163e7f4ab1ff749c54d190fec3",
+        "deviceType": "ios",
+        "deviceUID": "F27F62BA-F099-4B5B-8BE9-7DE268811177",
+        "installationId": "7faf6703-6917-48e7-a080-6ecf8d708487",
+        "localeIdentifier": "en-US",
+        "objectId": "S3rkq56Rrc",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-17T18:12:02.313Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "as_2Ef9QHdz6R",
+            "as_z5aI6x25Yh"
+        ],
+        "createdAt": "2015-12-26T21:12:40.131Z",
+        "deviceToken": "01f733f4545ac4631ef6e73ea834c646c03867b3b2f8913aa2c757caa7c19d5b",
+        "deviceType": "ios",
+        "deviceUID": "D062EC83-67D6-4066-8A36-2EE1360A36BC",
+        "installationId": "624fec58-7099-4685-b351-90795e764ec0",
+        "localeIdentifier": "en-US",
+        "objectId": "S49SKFfW0e",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-28T23:20:37.411Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-21T00:56:38.967Z",
+        "deviceToken": "a4511785de7dbfa49c7f4152c7b94d78267485a0a86f3430e5b68d2a76f13534",
+        "deviceType": "ios",
+        "deviceUID": "F9491CB5-3628-4A82-96FE-E50A6E1656CF",
+        "installationId": "2963fdbe-d278-43fe-a99a-13c10ed3c0ec",
+        "localeIdentifier": "en-US",
+        "objectId": "SmdbHWDD4W",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-17T23:18:40.717Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-14T18:41:41.525Z",
+        "deviceToken": "8d580afd56b8d4ea90790f238bbb29da7e01ea4e6610471ff92c4ccc7adcde02",
+        "deviceType": "ios",
+        "deviceUID": "BF53DCEB-1B62-43E9-A0E3-6CC4F6F45E61",
+        "installationId": "622c8cf7-2bd8-4a0e-b966-366a01778d23",
+        "localeIdentifier": "en-US",
+        "objectId": "TGWMZF6ROy",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-11-14T18:41:41.525Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "gs_0x74mf4Mnf",
+            "gs_Py7CLcjxzy",
+            "gs_WjyQbfDoHv"
+        ],
+        "createdAt": "2015-11-13T04:48:09.778Z",
+        "deviceToken": "b953305e9fb1a4bb240d5568d8e69bf338cb6870101a6c4cbd2265554c3d6241",
+        "deviceType": "ios",
+        "deviceUID": "91258547-EE94-4935-9A89-E979397342E3",
+        "installationId": "8ed95857-cfb5-4bc2-9f41-62cc6ff4508b",
+        "localeIdentifier": "en-US",
+        "objectId": "TJDTg8A5vf",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-15T19:34:40.348Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-17T20:27:02.819Z",
+        "deviceToken": "879b4d56c8c0d032e2a5285c2c6d04c1b54b6f4f7237bd7c3179216235ad8b60",
+        "deviceType": "ios",
+        "deviceUID": "2ACB5928-BB28-40C8-8F8C-AE9D36D53927",
+        "installationId": "d1746881-a33a-403d-a669-8297979e4026",
+        "localeIdentifier": "en-US",
+        "objectId": "Tmi5ZolP9c",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-16T02:23:05.274Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "gs_bJEB6VyPPG"
+        ],
+        "createdAt": "2015-12-04T19:10:56.185Z",
+        "deviceToken": "6a3c933bbebd5230454d590e6da382e2370c687c5573c2a0bd6e1561f1de92ca",
+        "deviceType": "ios",
+        "deviceUID": "22964970-4D7A-4DF4-B7FF-DD457F4A7BB9",
+        "installationId": "ca1f3f0f-1846-444c-ad27-5ed531456b64",
+        "localeIdentifier": "en-US",
+        "objectId": "TuA6PEHyEl",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-27T00:21:40.719Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-25T03:09:18.309Z",
+        "deviceToken": "cd4ce40538662287736078dc4abe716de2b078ecdc3f8fe8a87915284275c26f",
+        "deviceType": "ios",
+        "deviceUID": "C40FE5DF-C829-41C0-B278-81BD34549214",
+        "installationId": "bc2f13c6-a250-4d3f-9fa4-d4b705acfef4",
+        "localeIdentifier": "en-US",
+        "objectId": "ULvzjBnNMo",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-11-25T03:09:18.309Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "gs_0x74mf4Mnf"
+        ],
+        "createdAt": "2015-11-25T20:07:15.504Z",
+        "deviceToken": "0be2c0cd0ba4e4d98b317613603ac0073732ce01ad8da0bb572ab875519aee88",
+        "deviceType": "ios",
+        "deviceUID": "DC0CE49A-84E9-42EF-BD4B-7CB8989F11C0",
+        "installationId": "ae28aeb0-ccab-4872-8cf6-8100313bfa25",
+        "localeIdentifier": "en-US",
+        "objectId": "UTiLn6Urp0",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-19T00:22:27.729Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-18T02:51:47.377Z",
+        "deviceToken": "f36227fec47c8a59c1a376e52e2703120727cd0f7273094eb8e8af9b93187032",
+        "deviceType": "ios",
+        "deviceUID": "C9BD6A68-514A-44FF-B54B-5D6B7B770C7E",
+        "installationId": "ca2f2629-855c-465e-8105-81bccf7caaae",
+        "localeIdentifier": "en-US",
+        "objectId": "UbRa7hGeVM",
+        "parseVersion": "1.8.5",
+        "timeZone": "US/Central",
+        "updatedAt": "2015-12-18T02:51:47.377Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-18T17:46:05.881Z",
+        "deviceToken": "31f77e48d000b0553cf6f08fb9146dca1ca59f3c80a732a3e0a5fee92ec6edf6",
+        "deviceType": "ios",
+        "deviceUID": "120478A3-9BCF-4B60-8B65-C8F1635B1811",
+        "installationId": "21d25e1e-535b-4577-b9aa-43cec8144eaa",
+        "localeIdentifier": "en-US",
+        "objectId": "V0kSoreWMC",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-11-18T17:46:05.881Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-04T08:31:38.970Z",
+        "deviceToken": "ad56001e67f57986ee0ace4e9b2b7313cbf7d33038f782533ad5980ebd77d9a5",
+        "deviceType": "ios",
+        "deviceUID": "BCC132DB-ED52-477E-BF50-A141C3DE1FB2",
+        "installationId": "069c5da7-e4e3-4d0a-8126-5162ed9d25d2",
+        "localeIdentifier": "en-US",
+        "objectId": "V7MNKUkwlp",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2016-01-04T08:31:38.970Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-19T23:58:40.944Z",
+        "deviceToken": "9f12f2095c86d394258a4bb0c4ef1f4a6561cb815091d1bfb6a76cba1eb29083",
+        "deviceType": "ios",
+        "deviceUID": "7FE2B453-6206-4571-814D-D7F65E3BACDE",
+        "installationId": "650154a7-bfc2-433a-bf95-3cbb84da71f4",
+        "localeIdentifier": "en-GE",
+        "objectId": "VFwVqxDdrx",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Tbilisi",
+        "updatedAt": "2015-10-19T23:58:40.944Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-10T15:43:41.040Z",
+        "deviceToken": "5783d3b5d55db0b969b4a3552332b1652e973dd5ca7e0be36e006db47a2cba52",
+        "deviceType": "ios",
+        "deviceUID": "F35F27DC-B2A8-4DC7-BD28-A30C88F307FF",
+        "installationId": "5c503426-f8cf-4772-91e9-f0d0cb7176b8",
+        "localeIdentifier": "en-US",
+        "objectId": "VO1t0rHCkc",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-23T16:19:42.319Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-13T20:53:21.432Z",
+        "deviceToken": "e35a32da4c9b5f1c0f260ec3e5c7d65e765aab71b0679575fe023b45c82c6299",
+        "deviceType": "ios",
+        "deviceUID": "47FEFFC4-C147-465B-9A77-36F085709E9A",
+        "installationId": "2d2713cf-4f9f-4597-95d4-679daddd1a2c",
+        "localeIdentifier": "en-US",
+        "objectId": "VPYhL1AAbN",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-16T01:00:43.361Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-16T21:09:18.559Z",
+        "deviceToken": "98b00e784edd8e8d6ca4cef7a9c9a0855b7adf04c40980902a0f69e535584f26",
+        "deviceType": "ios",
+        "deviceUID": "22D2780F-7291-4B1F-BEE0-5319150C8185",
+        "installationId": "30fa5f19-dd63-4b14-804d-cdea1e87fe7f",
+        "localeIdentifier": "en-TT",
+        "objectId": "Vfq2FqJmUP",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/La_Paz",
+        "updatedAt": "2015-12-17T13:35:53.511Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-07T00:05:33.721Z",
+        "deviceToken": "c8cd9af0dcbf6c9ad96822f8b42dc2006087f93d1e50524ae85ba6a2a515e806",
+        "deviceType": "ios",
+        "deviceUID": "A2B65E62-63FC-41B8-8023-45C517C37880",
+        "installationId": "8d5db01c-4c01-480f-9086-467a1073c2ed",
+        "localeIdentifier": "en-US",
+        "objectId": "WwqfheFN4E",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-25T03:54:05.967Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-19T10:32:43.743Z",
+        "deviceToken": "eae106f4c2cd936a52fd2a6df22517c09a164fb8dd6f8984ffb3e9531e8545d5",
+        "deviceType": "ios",
+        "deviceUID": "EB6FE05B-6A11-4608-9912-38D3115B6D77",
+        "installationId": "933ef15b-a349-4b10-aa51-41b36d95ab33",
+        "localeIdentifier": "en-US",
+        "objectId": "XAzUcYsOcj",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-19T10:32:43.743Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-22T00:07:28.875Z",
+        "deviceToken": "894132975bed97ed9876b3cb997e38b3de9abd5692dbc6c4d1d8184a0d6fa584",
+        "deviceType": "ios",
+        "deviceUID": "CABC6BE9-BE06-48DF-A5AB-396EFED34E45",
+        "installationId": "0d62687d-7424-4fcf-8675-cdea1073d0cc",
+        "localeIdentifier": "en-US",
+        "objectId": "XGzjl775SC",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-22T00:07:28.875Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-29T08:06:20.519Z",
+        "deviceToken": "355487159696e9aff98df5bd44c79a75e8cfce8f76e8812b0193f91af35441bc",
+        "deviceType": "ios",
+        "deviceUID": "821BD0E9-57D8-48DA-9E45-14B105054AC5",
+        "installationId": "dfdc4dab-4e87-420e-b59e-45387c5d2290",
+        "localeIdentifier": "en-US",
+        "objectId": "XWdBm3ovEY",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-29T08:06:20.519Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "gs_vvpMezRpvX",
+            "as_l5sdStJWuS",
+            "as_EhX0LEliQW",
+            "gs_0x74mf4Mnf",
+            "as_vUo7n9WabP"
+        ],
+        "createdAt": "2015-10-25T23:52:06.753Z",
+        "deviceToken": "e2b9ab9cd2d720c6f908b7e6457881fdd24549eeb4a0fa2efefa87651c65886d",
+        "deviceType": "ios",
+        "deviceUID": "B731964F-79E0-4B00-8FBB-DEC493C5F985",
+        "installationId": "81f71659-ccdc-4cea-bd15-bb978d074b1b",
+        "localeIdentifier": "en-US",
+        "objectId": "XmCR8dxBlH",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-21T06:01:48.617Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-20T06:12:34.307Z",
+        "deviceToken": "209aae06355cd9e51999d9b285aa73cbd974b47158c377e517f05b3bc126bcbe",
+        "deviceType": "ios",
+        "deviceUID": "DD55A91B-05B9-49C2-90AE-BCB9F4540450",
+        "installationId": "6092efb4-f94f-43e4-b2b5-c6052f5760b2",
+        "localeIdentifier": "en-US",
+        "objectId": "Y6L68ZIt1C",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-16T01:17:11.827Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-31T23:40:11.860Z",
+        "deviceToken": "209b623cabbe0bb408c5987798e987e9312f514472ea4a2bea9bb3bce679d0b0",
+        "deviceType": "ios",
+        "deviceUID": "2B6FA6A5-F74C-49C2-9A46-F490F3FBCB7F",
+        "installationId": "e0692bfa-2090-4cba-8491-3f2e64d58581",
+        "localeIdentifier": "en-US",
+        "objectId": "YATrUpzDdF",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-10-31T23:40:11.860Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-28T19:30:06.658Z",
+        "deviceToken": "9d8e20e8f9fd0ea6ba4971eb203a8aea3e4c810034ca56342bc236c30ff5ec96",
+        "deviceType": "ios",
+        "deviceUID": "7BF4EA4A-2907-41EF-AD8E-F3A2C423D273",
+        "installationId": "4b30bf9e-6ee1-4870-8d0d-d70bd29a7763",
+        "localeIdentifier": "en-US",
+        "objectId": "YjNRpcYxsa",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-28T19:30:06.658Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-31T19:19:42.938Z",
+        "deviceToken": "29acca7be8fef983caefc4aa74e5ddf74c594824236cf7b321a02f4f62e091ad",
+        "deviceType": "ios",
+        "deviceUID": "A1ED1E81-8AA6-4866-951F-9C1B71EFFAA4",
+        "installationId": "37b66178-cc1c-4bc8-90bb-8343f57c45a2",
+        "localeIdentifier": "en-US",
+        "objectId": "ZSTJrE2atl",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-20T21:25:59.295Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-27T20:14:51.731Z",
+        "deviceToken": "cfcc533b0c313e4075e262a0432c07e74b10b343fa85113bf0ae37db6a7f8823",
+        "deviceType": "ios",
+        "deviceUID": "8B2478BF-9DF4-42F5-8AD8-D1AFF499149E",
+        "installationId": "447da283-6a06-4d0b-8189-934a5cc4db59",
+        "localeIdentifier": "en-US",
+        "objectId": "ZbH299gLKn",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-11-27T20:14:51.731Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-10T13:50:16.193Z",
+        "deviceToken": "5c1f1db0687fdf7feb3ebd806388906b8286024f0e146abcb621c5d5ee6090fa",
+        "deviceType": "ios",
+        "deviceUID": "FAE81D55-27BC-41E1-9106-86A3562866BC",
+        "installationId": "e0fc979a-ef10-4a61-8761-2370bdc852b0",
+        "localeIdentifier": "en-US",
+        "objectId": "ZbuAwg0vx1",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-11T05:33:08.947Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "as_R2VF0qKyiU"
+        ],
+        "createdAt": "2015-11-05T00:10:06.177Z",
+        "deviceToken": "63facf00559ab9b3bd29762cbd293a570cd52ef077046fe18e5b3562bf21f489",
+        "deviceType": "ios",
+        "deviceUID": "5B07C565-222E-4ACA-84FC-1F62CAF50000",
+        "installationId": "18965c02-cd30-45aa-b12a-8549ba689371",
+        "localeIdentifier": "en-US",
+        "objectId": "a1XaWGZSnH",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-23T04:00:13.891Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-21T05:13:11.976Z",
+        "deviceToken": "a792dabb594785899cc94768f63f9eede55af7a1e83868c946425705dd0d5373",
+        "deviceType": "ios",
+        "deviceUID": "DD7EFA8B-432B-489A-88B0-747B6FB175F0",
+        "installationId": "2eab96b2-c316-410f-8cbe-8b143e8e6afa",
+        "localeIdentifier": "en-US",
+        "objectId": "a5JA0ZADLa",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-21T05:13:11.976Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-07T05:57:04.823Z",
+        "deviceToken": "7284bd78584a08b626b4f2e45e19fb41928460ce8b719f1a874fe3c2fe9b5299",
+        "deviceType": "ios",
+        "deviceUID": "21090CDF-8C21-4D7A-8E77-8B292D5E4FC5",
+        "installationId": "d73f028f-d253-4076-a01d-f23f8fd97748",
+        "localeIdentifier": "en-US",
+        "objectId": "aAMLnVwjmX",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-07T05:57:04.823Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-02T00:10:43.239Z",
+        "deviceToken": "913eafc30078e44e004d11f19272eadf9fb2f607dff086b98c986d538aafd37b",
+        "deviceType": "ios",
+        "deviceUID": "0ABBA6EE-732A-4AF5-A599-1B88CFD8099A",
+        "installationId": "6bbc022c-4997-43fc-919a-d395213aaa73",
+        "localeIdentifier": "en-CA",
+        "objectId": "acwmD0sTbK",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Edmonton",
+        "updatedAt": "2015-11-02T00:10:43.239Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-20T05:25:08.176Z",
+        "deviceToken": "db7a7030780fb3d9dce36079e4a599c72e302808e916b484e8d568a830b6e6d8",
+        "deviceType": "ios",
+        "deviceUID": "6F1E4C23-DEF2-4368-A38B-57FDCC0CA1BB",
+        "installationId": "0f7aa3c3-bb23-4058-8370-5b745a838284",
+        "localeIdentifier": "en-US",
+        "objectId": "amDvDJ8pY2",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-13T04:07:08.362Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-06T11:04:52.864Z",
+        "deviceToken": "63aaf7de49ee994b86b80a288d9b5b4793345f592bbba09a6b9b54c60d3cc1f5",
+        "deviceType": "ios",
+        "deviceUID": "FFAAB366-5321-4DE9-A63B-22C49F4E1D22",
+        "installationId": "e55fe9e1-74cc-43c7-9fa9-4ced3b35745f",
+        "localeIdentifier": "en-US",
+        "objectId": "auiHbCOgt4",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Denver",
+        "updatedAt": "2015-12-17T18:05:46.747Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-08T06:34:05.940Z",
+        "deviceToken": "c5eaefd26a9b94a74871a477f0e253c11583e493ed2872edb7637aa4db4ad94d",
+        "deviceType": "ios",
+        "deviceUID": "1374D8D8-A18D-46B9-85B0-07A42DED9550",
+        "installationId": "43a05741-8890-4b6d-9419-6d9f3ebae0c6",
+        "localeIdentifier": "en-US",
+        "objectId": "b5gBTdqkQh",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-08T06:34:05.940Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-29T21:11:37.416Z",
+        "deviceToken": "b6c124ed9669bfa7b601ef97dfce02ed53b856bdbdf421ba72bd481508788b93",
+        "deviceType": "ios",
+        "deviceUID": "46E92CD7-E262-40FD-ACFA-C85673885AD7",
+        "installationId": "fbfdb49d-d6d8-4329-afc8-b2b2c320478f",
+        "localeIdentifier": "en-US",
+        "objectId": "blR6EP528S",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-10-29T21:11:37.416Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global",
+            "gs_TYeYbN5Bdr"
+        ],
+        "createdAt": "2015-12-05T00:46:28.776Z",
+        "deviceToken": "77102a37c72e6bfdb926ac83515e9b7a3f1489e7e979b2974d938977d7b22716",
+        "deviceType": "ios",
+        "deviceUID": "5B9DEC5F-D854-4397-AB13-EF350B31B76A",
+        "installationId": "1d57c29f-8483-4571-98a1-dc28f9ca7b30",
+        "localeIdentifier": "en-US",
+        "objectId": "c0nIsyHRxs",
+        "parseVersion": "1.8.5",
+        "timeZone": "US/Eastern",
+        "updatedAt": "2015-12-05T00:47:27.382Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-20T23:18:04.046Z",
+        "deviceToken": "cae0d56dbc7e3153f5e0aedc44b0b1520a768010740d18abeb839544ae0b6e00",
+        "deviceType": "ios",
+        "deviceUID": "38AD1EB2-152E-48F7-838B-1CF0E836A091",
+        "installationId": "0e6be964-3055-4b37-854e-99cacb0a257a",
+        "localeIdentifier": "en-GB",
+        "objectId": "cPZwAnCxES",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/London",
+        "updatedAt": "2015-12-20T23:18:04.046Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-18T20:55:39.694Z",
+        "deviceToken": "8bfd99586cd74b2a6f1a4ab460a251f44f316176fd38ed0f9af04ccfc643f996",
+        "deviceType": "ios",
+        "deviceUID": "0D870AC7-D742-450C-A094-2196E557607C",
+        "installationId": "4c133da9-708e-4df4-8a10-9349505bcbd9",
+        "localeIdentifier": "en-US",
+        "objectId": "cbfMtxe3Qs",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-05T18:18:50.442Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-20T17:22:17.177Z",
+        "deviceToken": "4259bcb30771d5536b362298e8c242429a62446d29d2371e083f2422b5f77c17",
+        "deviceType": "ios",
+        "deviceUID": "FF300E72-6F18-499F-BC41-95489B1529B8",
+        "installationId": "5ea6d077-23a2-4766-adb1-1c87b6c11175",
+        "localeIdentifier": "en-US",
+        "objectId": "cvycXbH5U8",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Tehran",
+        "updatedAt": "2016-01-20T17:22:17.177Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-23T16:37:21.205Z",
+        "deviceToken": "9df8a34bc398f8870a7fe534bd80cc7a20251ae2e5688f9b3564c3180f12c0a6",
+        "deviceType": "ios",
+        "deviceUID": "DB31859C-61FE-4A6F-841E-7E8FC8AE984B",
+        "installationId": "4a59ed2c-57cd-42fc-8a4a-db72bf1dafbc",
+        "localeIdentifier": "en-US",
+        "objectId": "dLPpg1GoZl",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-23T16:37:21.205Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-27T20:44:00.044Z",
+        "deviceToken": "4cc882959960f533be3a235f2ee3810c4baae5e8faa30eef84b93ebb9e284f33",
+        "deviceType": "ios",
+        "deviceUID": "52421726-5DF8-4D3D-AE86-7358C3AC7C70",
+        "installationId": "d789d9e6-aa70-4918-85c0-3b30f61400d1",
+        "localeIdentifier": "en-US",
+        "objectId": "dRcGXD7NHw",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-11-27T20:44:00.044Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-16T15:24:16.845Z",
+        "deviceToken": "6f865f1a1a34bc25e3d05a2502150916da807c27eb5015ded13ad5f3cdbd5627",
+        "deviceType": "ios",
+        "deviceUID": "2491C618-1B81-4F1D-9146-E11DE738D80F",
+        "installationId": "66aee548-27e6-48d5-a049-4c1b67770873",
+        "localeIdentifier": "en-US",
+        "objectId": "e1y5IzV1h2",
+        "parseVersion": "1.8.5",
+        "timeZone": "US/Eastern",
+        "updatedAt": "2016-01-16T15:24:16.845Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-12T05:06:51.065Z",
+        "deviceToken": "f07dde807b54fd09a2e83a3bcb63042a7a378103052319292999319c4f6e46b2",
+        "deviceType": "ios",
+        "deviceUID": "019AE79B-A70C-4FDA-B0CB-76260D1401C8",
+        "installationId": "4650419f-e3e4-460e-be68-c8db69cc1243",
+        "localeIdentifier": "en-US",
+        "objectId": "eVm4YZ0Fxq",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-12T05:06:51.065Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-26T18:50:02.327Z",
+        "deviceToken": "086492cb6d8c898e7933f83390e8c564da146d8c5bb235c7fcd82ea3babbfc8b",
+        "deviceType": "ios",
+        "deviceUID": "DB3F7C34-77FF-483B-816E-16914CBE6592",
+        "installationId": "b40796a6-f730-44f9-b248-85c7bf9232c7",
+        "localeIdentifier": "en-US",
+        "objectId": "eZOHTnoQWl",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-26T18:50:02.327Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-19T20:44:21.915Z",
+        "deviceToken": "8053b1ad4ae49cade0e3bd8d39172c833992775b8e2e88d8b3c796061517bd60",
+        "deviceType": "ios",
+        "deviceUID": "89FDD36A-DACB-44FE-AA38-E91A6E3D6152",
+        "installationId": "7df27f19-abce-4ba4-a042-c1d46177d41b",
+        "localeIdentifier": "zh-CN",
+        "objectId": "fRCagnwzYW",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-19T20:44:21.915Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-06T04:34:32.252Z",
+        "deviceToken": "ce63a922e08ee1137bb6cd6d454afea5cdfe3d5f81f4020b9224ca98c776ef0a",
+        "deviceType": "ios",
+        "deviceUID": "07B2F1E1-E4FA-4C1C-BF90-04113A82EAD3",
+        "installationId": "363f3d1e-8497-454a-8446-c07df07c0eac",
+        "localeIdentifier": "en-US",
+        "objectId": "g2CwtGtXu6",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-01T23:17:36.178Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "as_k6zDjubgj3",
+            "as_3JVIAYmLQQ"
+        ],
+        "createdAt": "2016-01-06T07:04:09.775Z",
+        "deviceToken": "6a28c9e0c23f607c448e287df218c102288febb5f037217bbd3f199fe34b9247",
+        "deviceType": "ios",
+        "deviceUID": "155A7B1D-5886-4285-A13C-ECF6E8D6CAD1",
+        "installationId": "f10d0d85-d496-4a60-b94f-35250510e650",
+        "localeIdentifier": "en-US",
+        "objectId": "gWG9H1usFT",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-06T07:15:29.683Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-29T03:36:52.703Z",
+        "deviceToken": "1361bd506c57ac6b856f8a7126206905b0840f3da3245a9bbb2a26570e656ae1",
+        "deviceType": "ios",
+        "deviceUID": "010066D3-AF57-4517-97B0-F1A477125E6B",
+        "installationId": "fbdb1bac-aa83-466b-98b1-07b6fe0cdea1",
+        "localeIdentifier": "zh-CN",
+        "objectId": "h8D8HzK6pw",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Shanghai",
+        "updatedAt": "2015-12-29T03:36:52.703Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global",
+            "as_xnMQTYov44",
+            "as_FVIVVvyG54",
+            "as_KhuszNDBer",
+            "as_2k7jCxjL9J"
+        ],
+        "createdAt": "2015-12-01T16:48:01.361Z",
+        "deviceToken": "ee926bf083c10deb608c8131c4edd0cd5738de233e82fd1cc28272cbb7a16ffd",
+        "deviceType": "ios",
+        "deviceUID": "EB0502D6-33F3-4DB2-8946-BD5D81DD8B8B",
+        "installationId": "05807bbe-9305-48dc-80d9-86c6e22ac610",
+        "localeIdentifier": "en-US",
+        "objectId": "hb6PRJD6cs",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-01T16:50:45.663Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-20T05:41:44.831Z",
+        "deviceToken": "7fc16e8e4ea6216861665ada91d37f639d5f3e62899f3669d3e7bdb743374e39",
+        "deviceType": "ios",
+        "deviceUID": "408285EE-BE59-4498-A6BE-E37991947E23",
+        "installationId": "b54888a5-99c0-4786-b8a3-cdc6dcb275b2",
+        "localeIdentifier": "en-US",
+        "objectId": "iG2Jc3Ivo4",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-11-20T05:41:44.831Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-27T07:10:59.182Z",
+        "deviceToken": "a12cacf5f16adb20758bcdeb5be5d941834e5ac3940ebd66f916d25dce5d759e",
+        "deviceType": "ios",
+        "deviceUID": "14FBC7D1-DF25-4C88-B945-52574FD13E58",
+        "installationId": "6fcd31a4-06ec-4887-a181-a8b9c6a1394b",
+        "localeIdentifier": "en-US",
+        "objectId": "iPtJ0EYfaU",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Puerto_Rico",
+        "updatedAt": "2016-01-20T12:20:05.727Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-01T21:00:17.663Z",
+        "deviceToken": "adcba8f5db6bd941af9a851fce166a4d6dbdb92e150024b1e1c0ddc95e97e7ff",
+        "deviceType": "ios",
+        "deviceUID": "29869FDA-3117-4FAD-9859-BC0D7F9ECECA",
+        "installationId": "932203e7-4d92-4f00-9f08-5ae12d8942ef",
+        "localeIdentifier": "en-US",
+        "objectId": "ijrwRqaDJd",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-01T21:00:17.663Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-21T04:42:05.690Z",
+        "deviceToken": "c608bb7bf5ff8b9e1a366f39bf7b3fc10be68d64e52003b82ab3caf76b42a79b",
+        "deviceType": "ios",
+        "deviceUID": "971EDD21-0C49-4FD8-8AB4-084D302EA2D7",
+        "installationId": "330f299f-4ad0-473e-9321-2150481bd1e4",
+        "localeIdentifier": "en-US",
+        "objectId": "itdbwpToty",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-11-21T04:42:05.690Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-22T12:51:43.902Z",
+        "deviceToken": "c49d355f5a60bfc8e1e220f7d23215bc13eccb963d012061db77ab73c4bbaabf",
+        "deviceType": "ios",
+        "deviceUID": "E45CD0AA-64C2-4F76-86C6-5D94F540E461",
+        "installationId": "45bb0436-9c83-4d57-af9f-795fe8b19abd",
+        "localeIdentifier": "en-US",
+        "objectId": "jfjKdbR8WB",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Tehran",
+        "updatedAt": "2015-12-22T12:51:43.902Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-02T20:19:12.701Z",
+        "deviceToken": "96b01b3d914c7b43ec1d4fd05b9a2c071e6b16817361a2a35700ad3849e5ec9f",
+        "deviceType": "ios",
+        "deviceUID": "18395AB1-B5C8-4258-9C28-1BDE461D8CC8",
+        "installationId": "174f0df4-8b50-423c-8602-0817617e06cc",
+        "localeIdentifier": "en-US",
+        "objectId": "kPhC21E9hN",
+        "parseVersion": "1.8.5",
+        "timeZone": "US/Pacific",
+        "updatedAt": "2016-01-02T20:19:12.701Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-31T22:31:26.378Z",
+        "deviceToken": "fd021124356eba8a8074c8f871645af999ca23f386b757fee7eda1f23620e163",
+        "deviceType": "ios",
+        "deviceUID": "29496CDC-A63D-4286-8E00-EE46F1681606",
+        "installationId": "fe121785-7c14-4d13-9fae-1beae878f536",
+        "localeIdentifier": "en-US",
+        "objectId": "kpV96WG8NH",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-10-31T22:31:26.378Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-19T04:27:12.318Z",
+        "deviceToken": "6ee1c09d51b989722a3bb981169ea6362089425178122f21a1f144048c19bdef",
+        "deviceType": "ios",
+        "deviceUID": "627EE65A-18E3-468D-88A1-D8C825814CC5",
+        "installationId": "90e14efd-3e23-4f44-8bee-4513df01adf4",
+        "localeIdentifier": "en-US",
+        "objectId": "kshs3Rcw02",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-19T04:27:12.318Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-15T20:31:22.142Z",
+        "deviceToken": "64d53d8dddba798458dd57809b7ef3956f34e1056283dc707edafea510a30caf",
+        "deviceType": "ios",
+        "deviceUID": "5D579887-EEDE-41AA-8A26-6A0615595A16",
+        "installationId": "819a4a0c-40db-4f1f-86e5-3919f5b51d19",
+        "localeIdentifier": "en-US",
+        "objectId": "ktM9CIqwq7",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-11-15T20:31:22.142Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-18T01:24:04.741Z",
+        "deviceToken": "38406e05dde3e7319c1de7bf02ea68b8c677bf0d7715af1c3bb286eaf0ea5ac7",
+        "deviceType": "ios",
+        "deviceUID": "F4F74B9F-2F0A-44AE-9D36-9BE50EB54D90",
+        "installationId": "42244614-b8c0-4158-908d-62c3d95b5b6f",
+        "localeIdentifier": "en-US",
+        "objectId": "l5CAJ0eqXi",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-18T01:24:04.741Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-21T05:22:55.956Z",
+        "deviceToken": "5f1a8a6e9995f6820ab570857c9a3211215bf0be7239d587e8b55639793cf922",
+        "deviceType": "ios",
+        "deviceUID": "FF46E6B6-07CC-40AB-AE40-25DE66C346B7",
+        "installationId": "11fb701f-4b06-4c5b-a1a8-8d966d0fb48f",
+        "localeIdentifier": "en-US",
+        "objectId": "lAYVVGxTx7",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-21T05:22:55.956Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-29T19:05:35.238Z",
+        "deviceToken": "6a6dcd7d31b558e3210fef059e64cb772c912055b6b01eab22449a17ff83bdc7",
+        "deviceType": "ios",
+        "deviceUID": "5284A9F5-FE79-4F7E-9596-8883477767B2",
+        "installationId": "80063172-1979-4c8e-94c4-9456139aba9e",
+        "localeIdentifier": "en-US",
+        "objectId": "lJ1w4vbvHH",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Phoenix",
+        "updatedAt": "2015-12-29T19:05:35.238Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-01T23:20:38.217Z",
+        "deviceToken": "bca41742b3b61e8ccd01dfddd1fc08de14b78161cc9bcc88892d08086bb0bb81",
+        "deviceType": "ios",
+        "deviceUID": "ACA97AD9-D4A2-4A69-A3E7-194271249518",
+        "installationId": "57c0d227-f3bd-4cad-805f-f0ff6dca9714",
+        "localeIdentifier": "en-US",
+        "objectId": "m0hYKUEnWd",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-22T18:41:36.514Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-04T08:16:26.418Z",
+        "deviceToken": "9560beba69c9e0c741a7852b12211abf4a98c541454e1acfabc66de260c5f033",
+        "deviceType": "ios",
+        "deviceUID": "39E47044-2715-48A4-8C96-84F1171E1FF2",
+        "installationId": "7aeeeab7-133e-48f7-af0a-080df6ab3989",
+        "localeIdentifier": "en-US",
+        "objectId": "m9H1u2GoRB",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-18T07:08:57.721Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-27T18:29:16.961Z",
+        "deviceToken": "6ee3c013dbe5d182bbf1a8fd7579875822d3cb8dfe636a5396f8932957e3d033",
+        "deviceType": "ios",
+        "deviceUID": "71A309AD-0790-4173-A2ED-16BD6BE3B02A",
+        "installationId": "48fded6e-b2e1-45ff-b7f2-08416ba37e2c",
+        "localeIdentifier": "en-GB",
+        "objectId": "mMe2X2PPH0",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/London",
+        "updatedAt": "2015-10-27T18:29:16.961Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-21T20:37:17.775Z",
+        "deviceToken": "500239a3b3c3549af07f711e4f3aed91bc4d5fcdd34f8c875de6d7ef39ad7a80",
+        "deviceType": "ios",
+        "deviceUID": "CAED8956-F7D5-4045-97DA-45381D9ED837",
+        "installationId": "50336ec8-7d5f-49e3-84df-8f4168c9e43e",
+        "localeIdentifier": "ru-RU",
+        "objectId": "mlnCUu4n9w",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Jerusalem",
+        "updatedAt": "2015-12-21T20:37:17.775Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-21T02:58:23.538Z",
+        "deviceToken": "1b97b41b84e06605ba3d9bd0b8ee86d3d5669b2c7dc3a20bcfcd963551ebdabd",
+        "deviceType": "ios",
+        "deviceUID": "937B0004-689A-4B18-A084-5867C8F3C617",
+        "installationId": "10dedbc8-9694-4706-b6d3-7858b369286f",
+        "localeIdentifier": "en-US",
+        "objectId": "nRB69zLSgS",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-21T02:58:23.538Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-27T08:52:57.988Z",
+        "deviceToken": "5f1187532ae66ff3cb663ce76ac63f5532bc1bc7420242a30d151ac5f8d47fb6",
+        "deviceType": "ios",
+        "deviceUID": "3191F36D-A482-4648-B2C5-119E5F34C31C",
+        "installationId": "eae9bffd-0ba7-4741-8423-5e579e24cef3",
+        "localeIdentifier": "en-US",
+        "objectId": "ndk74hZ8eR",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-10-27T08:52:57.988Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-15T03:34:04.980Z",
+        "deviceToken": "d4359b5be464ec0f572db1a60aea3bea725d562b57bcaa248038bd6e3853324f",
+        "deviceType": "ios",
+        "deviceUID": "2260118E-40B7-4E27-87F9-ABA049B303BD",
+        "installationId": "c784d4d8-a621-4983-8317-173a7b028a88",
+        "localeIdentifier": "en-PR",
+        "objectId": "nf4QT2JHZZ",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Puerto_Rico",
+        "updatedAt": "2016-01-15T03:34:04.980Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-04T23:17:51.373Z",
+        "deviceToken": "7e65c9a62836ff11b52275a43e233b780f75514ef3e6dfee4a80c041c12ed6c1",
+        "deviceType": "ios",
+        "deviceUID": "CE16F9B8-1700-425E-B7C5-07793AC9F2BC",
+        "installationId": "6c741b46-839b-4194-8a5a-cb33f44bfe1b",
+        "localeIdentifier": "en-US",
+        "objectId": "njap02Nkyl",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-18T15:49:11.668Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-08T22:56:32.540Z",
+        "deviceToken": "bfdeb2c3846191337cca8ff01df088410f9f02fbcbb4782f134caf5c051a4a9e",
+        "deviceType": "ios",
+        "deviceUID": "C7BEC5C3-8733-4CBC-8CED-D322673C168D",
+        "installationId": "9403ad76-fc1f-4276-ac1d-491f7aebced3",
+        "localeIdentifier": "en-US",
+        "objectId": "njgjVeVFUY",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-11-08T22:56:32.540Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-04T20:39:38.046Z",
+        "deviceToken": "71695a54d11040762dabf0930eed55544cc3580da5aadcb4539d0dc14c90678b",
+        "deviceType": "ios",
+        "deviceUID": "856955FB-C488-4B52-B008-41571818A3F8",
+        "installationId": "8d503bdb-eed5-4b65-a7ee-8ad468f62427",
+        "localeIdentifier": "en-US",
+        "objectId": "o2Kbs7QEvJ",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2015-12-04T20:39:38.046Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-08T05:19:03.543Z",
+        "deviceToken": "f5447fab3b156fc010f7d9fb06d923d0d29ae20d869bf0aa1caf930a6161ff69",
+        "deviceType": "ios",
+        "deviceUID": "C1A3AFCB-0BB5-47F8-8241-75E4B2CFF47F",
+        "installationId": "5de4ea28-aaac-4c69-a68a-a438730947fc",
+        "localeIdentifier": "en-US",
+        "objectId": "o6KjnuhAbX",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-17T15:45:17.870Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-19T21:01:42.551Z",
+        "deviceToken": "34fbf0785aa07fbb716175e3960fc6c2cdaad986847da34a48e8887c19c4a9c9",
+        "deviceType": "ios",
+        "deviceUID": "A5EE000A-1D59-4F2C-9153-0EDFEE63D2D6",
+        "installationId": "a04d2d76-1a2f-47ba-8777-a955f036bcc0",
+        "localeIdentifier": "en-US",
+        "objectId": "o9uKXpnSDU",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-19T21:01:42.551Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-09T01:41:13.199Z",
+        "deviceToken": "4e3cc4e029943376e7adefaa08d99dc87952166a654c970df829c082c1f7050f",
+        "deviceType": "ios",
+        "deviceUID": "72BAB1F5-C9F1-4706-A0F0-ADFFBC6195E1",
+        "installationId": "4752c4fa-adc5-4815-8eea-179620b1ee8a",
+        "localeIdentifier": "en-US",
+        "objectId": "oAfOAy61pF",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-11-09T01:41:13.199Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-11T12:20:03.835Z",
+        "deviceToken": "8ff52cd75f3a20c7b14d45ece5d8a6bb5a6578331db8493d1b15be99b08a643b",
+        "deviceType": "ios",
+        "deviceUID": "40738C87-30FF-4121-9F77-1D67C453735C",
+        "installationId": "6320ebd3-cc7f-4b5d-aa5e-92b40185c748",
+        "localeIdentifier": "en-US",
+        "objectId": "oJ2xR6NsVl",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2016-01-11T12:20:03.835Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-02T02:05:33.811Z",
+        "deviceToken": "af991073c900b7f187e2199e57d609c69d5adf9d92178d0763a8a1441ef573a5",
+        "deviceType": "ios",
+        "deviceUID": "BA8FBF8C-94A5-46B9-9846-7B3937D4F245",
+        "installationId": "760a35d6-dafa-410f-8e85-2cc1a31ecfe5",
+        "localeIdentifier": "en-US",
+        "objectId": "oTEuSfCt1P",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Phoenix",
+        "updatedAt": "2015-12-02T02:05:33.811Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-14T23:21:34.043Z",
+        "deviceToken": "569f8bc834600f0e4f8319c49e0f6ccc5dcd3891e5522f12b6044f34787bd39b",
+        "deviceType": "ios",
+        "deviceUID": "7EC83C56-5F84-4728-B849-3105B887099F",
+        "installationId": "cf72fa34-2a51-484d-ad30-ad2fdcd8bfe1",
+        "localeIdentifier": "en-US",
+        "objectId": "oqhehl2fcc",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2016-01-14T23:21:34.043Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-27T18:25:00.406Z",
+        "deviceToken": "797d3b675eb5f39efbaf1a8d0b86a168792fee28f13480f06b7c16c3805ec2ba",
+        "deviceType": "ios",
+        "deviceUID": "825B88F0-A3F7-424E-A088-3C73F997CBF6",
+        "installationId": "b6d65226-9c21-447c-a516-027aec83e547",
+        "localeIdentifier": "en-US",
+        "objectId": "pEL7ldBBMu",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-27T18:25:00.406Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-26T03:19:58.856Z",
+        "deviceToken": "a61fc72ad0e0c8dcfebea21e5f333561e65f48262dc4b56f51fddfa6cd6c360d",
+        "deviceType": "ios",
+        "deviceUID": "607FA94D-947E-48E8-95C8-134C1D6A8DA7",
+        "installationId": "5311a43c-473a-4150-8a5d-7c98f08b87d7",
+        "localeIdentifier": "en-US",
+        "objectId": "pbiylDPyJm",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-17T15:45:14.706Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "gs_0x74mf4Mnf",
+            "gs_H56OcXYZEc",
+            "gs_qvVxcwQS3e",
+            "as_6EZiNSGDJI",
+            "gs_AdaXJDk7y2",
+            "as_w3LR85QS4B",
+            "gs_929wVAO7AT",
+            "gs_a9A2c1Jccv",
+            "as_FeTOPaDJEg",
+            "gs_lzYDr0ssY6",
+            "gs_5qK6aP1JOy",
+            "as_Sy6w7KxLgs",
+            "gs_HYWPpVIFRb",
+            "gs_aRsG7foCDP",
+            "as_2PCRjGh5Qj",
+            "as_AL8xD1N4nl",
+            "as_sakMj1O3xK",
+            "as_IicY5sfjBn",
+            "as_l5sdStJWuS",
+            "gs_NrMLzJKFBc",
+            "as_FAlfrIwdsl",
+            "gs_wzGPCyIfjS",
+            "as_pYK5N5xU7R",
+            "gs_i56LoA0igM",
+            "as_TfFI0gWrCd",
+            "gs_vvUaojNWiM",
+            "as_UcsHzqxt33"
+        ],
+        "createdAt": "2015-11-10T21:33:12.830Z",
+        "deviceToken": "b11fae8eb4989e56eb494105a65f4443ececc3c9f472fd726b5d906bbfa73360",
+        "deviceType": "ios",
+        "deviceUID": "59079113-C9BF-4EBE-B86C-6A23829D7FF8",
+        "installationId": "5e76f69c-e022-4624-9b12-6a74617e39f6",
+        "localeIdentifier": "en-US",
+        "objectId": "pghsWQRibA",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-15T02:02:00.365Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-24T01:09:40.810Z",
+        "deviceToken": "c34db72cfa6e35c1c57b304bee91dda3e353b5e5840437843fd4a4dbb60a339f",
+        "deviceType": "ios",
+        "deviceUID": "2D078340-6FF6-49F6-A330-7D1EA56822D1",
+        "installationId": "14c8dda0-f8b6-4ad6-a199-bf476fba2ef2",
+        "localeIdentifier": "en-US",
+        "objectId": "qal0NQXxbJ",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-24T01:09:40.810Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-22T19:21:53.331Z",
+        "deviceToken": "7e3d833b6d3efbd4971919362e719e66f5334c2913b31e2f6446bc7910b40a0b",
+        "deviceType": "ios",
+        "deviceUID": "8C54DE50-ECD4-42B5-8417-ABABD8950A0E",
+        "installationId": "03cd1773-0baa-4b98-a7f3-ba39342fb707",
+        "localeIdentifier": "en-US",
+        "objectId": "qtC13PVjRa",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-10-22T19:21:53.331Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-01T04:10:29.704Z",
+        "deviceToken": "8e4b25bf80948bb0e4d37ddd03f21375fef7355699f696543364fa62de9e78c7",
+        "deviceType": "ios",
+        "deviceUID": "736AE1CB-030A-4B59-AB0C-50A85A8843F7",
+        "installationId": "0b95f8b1-ead5-4e49-a200-4f2c262a9f5d",
+        "localeIdentifier": "en-FR",
+        "objectId": "r2QEPYUG9W",
+        "parseVersion": "1.8.5",
+        "timeZone": "Africa/Cairo",
+        "updatedAt": "2015-12-16T13:35:45.376Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-02T22:22:46.150Z",
+        "deviceToken": "5bdc49cc3b5fe5a3c5fd3951986422940baac60054de1352af36b56a80eb1495",
+        "deviceType": "ios",
+        "deviceUID": "FD2E9CD6-1DC1-401C-934B-F5DFD03352A3",
+        "installationId": "9514fbef-9f1c-4027-a0ad-afea3cc0d3c0",
+        "localeIdentifier": "en-US",
+        "objectId": "rRR9PtF7xe",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-17T17:35:29.007Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-08T07:08:26.954Z",
+        "deviceToken": "50f2b280bc36a8ff9440bdd1d83cd2afa941158e3d2704ad3d4b68058fb66ac9",
+        "deviceType": "ios",
+        "deviceUID": "3DD90584-31AD-4B2F-A924-21D6DBF5682C",
+        "installationId": "0786b59a-7d97-48ba-8718-0e448939ba0e",
+        "localeIdentifier": "en-US",
+        "objectId": "ryMiyGnrKu",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-17T15:45:21.450Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-25T05:47:26.196Z",
+        "deviceToken": "4a18c88a81abcadf75286b239672540796509a6e1b8e341dabb8b4f00d9aa2af",
+        "deviceType": "ios",
+        "deviceUID": "64709D4B-E43B-4370-A925-493544301633",
+        "installationId": "89978b39-cd22-43ba-acca-b81bca73382d",
+        "localeIdentifier": "en-US",
+        "objectId": "sPfwAChNAU",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Tehran",
+        "updatedAt": "2015-12-25T05:47:26.196Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-26T18:56:46.766Z",
+        "deviceToken": "26b5522d9b9ed0eccfe9d6c0585051c341cd87afaad3f3de9f76649c6b010fab",
+        "deviceType": "ios",
+        "deviceUID": "BD9DA986-846C-4324-8786-1605C7F16B86",
+        "installationId": "ab934616-b6ea-4a35-8a68-e22a9b714240",
+        "localeIdentifier": "en-US",
+        "objectId": "smorUXciN6",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Tehran",
+        "updatedAt": "2015-12-26T18:56:46.766Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-24T07:46:15.581Z",
+        "deviceToken": "afebaa5e908c0438921944cb43389144b02992d0c97b4003712e73e8d4dfec0b",
+        "deviceType": "ios",
+        "deviceUID": "6B44A0B8-4407-4542-B393-5E59A3D2E10F",
+        "installationId": "9761ea82-8e39-4e1d-a09d-64f1fe28c4eb",
+        "localeIdentifier": "en-US",
+        "objectId": "szGQ6pYQ7u",
+        "parseVersion": "1.8.5",
+        "timeZone": "Pacific/Honolulu",
+        "updatedAt": "2015-12-24T07:46:15.581Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-06T15:43:25.999Z",
+        "deviceToken": "c97e55627ef13123de5f590ae94921920f639971d22882bd18bb70f0280d7e29",
+        "deviceType": "ios",
+        "deviceUID": "FE469D00-BC1F-4238-B28C-FC5CEFBC46B5",
+        "installationId": "27ebed05-9fb5-4672-af9a-304804eccfb3",
+        "localeIdentifier": "en-US",
+        "objectId": "t2URC3a1rC",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-06T15:43:25.999Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "129",
+        "badge": 0,
+        "channels": [
+            "global",
+            "as_YhHJo6D9ku",
+            "as_AhWrn3eqrd",
+            "gs_0x74mf4Mnf",
+            "gs_Py7CLcjxzy",
+            "gs_OtXH1vgqGh",
+            "as_NbSSrBPmxL",
+            "as_l5sdStJWuS"
+        ],
+        "createdAt": "2015-11-23T20:44:41.204Z",
+        "deviceToken": "320beecaa3fc4a6fbceccce63064e07d0e9faa85076cfa97dfd605b2fb581ebb",
+        "deviceType": "ios",
+        "deviceUID": "A81076B5-58AF-41AE-A9A3-602C127A6B66",
+        "installationId": "e31642ad-5c8e-4768-9251-35c4a642dacb",
+        "localeIdentifier": "en-US",
+        "objectId": "uO5h0MbDuQ",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-16T18:58:03.147Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-19T21:18:33.358Z",
+        "deviceToken": "aea233fd1526dbcaefbf6d7d51b4e3f5b5f7de4afce2732811c206f32f1e39fd",
+        "deviceType": "ios",
+        "deviceUID": "F771FFFB-1ACD-4616-8BC0-E77DD42B3409",
+        "installationId": "bc2b7857-c012-4333-9cce-23e6c423a120",
+        "localeIdentifier": "en-US",
+        "objectId": "uTtRWtsvoe",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/New_York",
+        "updatedAt": "2016-01-19T21:18:33.358Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-20T18:05:32.530Z",
+        "deviceToken": "029da952e3b6e426a079d86d518645a7fdb24df3db549d360750c86a11d10811",
+        "deviceType": "ios",
+        "deviceUID": "564191E5-C2C1-41D0-BA72-A6376A8E94E9",
+        "installationId": "0e8fb8a0-2ea2-4e3b-af4d-88ff7c7a8893",
+        "localeIdentifier": "en-US",
+        "objectId": "ucK35Hm0v5",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/Vilnius",
+        "updatedAt": "2015-11-20T18:05:32.530Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "125",
+        "badge": 1,
+        "channels": [
+            "global",
+            "gs_OnKH9nBsgK",
+            "gs_0x74mf4Mnf",
+            "as_UcsHzqxt33"
+        ],
+        "createdAt": "2015-10-08T22:53:38.373Z",
+        "deviceToken": "ebb1feee5256f04330a4711098059bb9bd20dd991e2f8193b8f52bc58e0b4d42",
+        "deviceType": "ios",
+        "deviceUID": "4D3AD708-4413-4287-BBB1-2E58CA2B1A8F",
+        "installationId": "550b5513-1ee1-4c4c-bf61-b323750afe89",
+        "localeIdentifier": "en-US",
+        "objectId": "vnd1wgIPHN",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Jakarta",
+        "updatedAt": "2015-10-08T22:53:38.373Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-19T19:55:21.980Z",
+        "deviceToken": "b931b96fa7e129f86ec387460b020cf3ea7f83e1a4f15113258db35b4265a5bc",
+        "deviceType": "ios",
+        "deviceUID": "52502B97-2FC9-4C47-91FA-19B77ED5DE28",
+        "installationId": "2a802240-5654-49b2-84d6-3e02ccf5cdc6",
+        "localeIdentifier": "en-US",
+        "objectId": "vv7u5e5nTA",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-11-19T19:55:21.980Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-13T17:38:07.471Z",
+        "deviceToken": "2e272e5a787d6ab99bd83691f2420ec7ea9fbd84770fc4d311666af7d101bd01",
+        "deviceType": "ios",
+        "deviceUID": "A0249A5E-5E8B-4551-9BAF-659EAA6BACF9",
+        "installationId": "e2a50cb2-12ba-4961-b4d2-a4c6fb681fbf",
+        "localeIdentifier": "en-GB",
+        "objectId": "w4l9Sfbd34",
+        "parseVersion": "1.8.5",
+        "timeZone": "Europe/London",
+        "updatedAt": "2016-01-13T17:38:07.471Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-10-24T05:42:09.023Z",
+        "deviceToken": "6dc84375e2734d0e816a17ca638ae9d2082155a39a7f132076ca4619dbe3f07b",
+        "deviceType": "ios",
+        "deviceUID": "59A607E1-2851-4F24-9CD6-227523478627",
+        "installationId": "1709f77a-2ff4-4a69-87cc-9947f361318f",
+        "localeIdentifier": "en-IN",
+        "objectId": "wi9DeVe1Pm",
+        "parseVersion": "1.8.5",
+        "timeZone": "US/Pacific",
+        "updatedAt": "2015-12-17T22:11:53.335Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-02T06:17:25.859Z",
+        "deviceToken": "6ca97f3282d5d08281300e31e037de8c0847f94057f4a52578b8ed1bbd4478bf",
+        "deviceType": "ios",
+        "deviceUID": "99754969-4DBA-4E00-8213-16075633308C",
+        "installationId": "047788c5-3a72-442e-9557-9a119d06e129",
+        "localeIdentifier": "en-US",
+        "objectId": "wya95ZhYZW",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-09T03:32:30.923Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-10T02:10:30.202Z",
+        "deviceToken": "f93cea9e06c83305247beda926ed3c16996bf82c2e712a3a294fa60fbae2e475",
+        "deviceType": "ios",
+        "deviceUID": "2BDCA187-2FCF-48D7-A123-83D51AACD0E2",
+        "installationId": "a980634e-30bc-403b-b674-e3b23b44a261",
+        "localeIdentifier": "en-US",
+        "objectId": "x6rF92ygrH",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2016-01-10T02:10:30.202Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-24T15:06:30.609Z",
+        "deviceToken": "dab6c4b4c02f199204362b6ba4a27a2b359f0d255374d94225c0dd407cd199b2",
+        "deviceType": "ios",
+        "deviceUID": "D2514F6D-B577-4641-BF6A-8E03E486A7C6",
+        "installationId": "aeeafd1e-ccfd-4191-95cd-a6fe80c5ced8",
+        "localeIdentifier": "fa-US",
+        "objectId": "xSFMO9YzgI",
+        "parseVersion": "1.8.5",
+        "timeZone": "Asia/Tehran",
+        "updatedAt": "2015-12-24T15:06:30.609Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2016-01-01T16:19:51.504Z",
+        "deviceToken": "dbadc1243e27761c9c975fd42f29ef75b1954256906d5576dd67ccccae76737a",
+        "deviceType": "ios",
+        "deviceUID": "92E4EF1E-0709-4D4C-A1CC-104F94B29D4B",
+        "installationId": "7c3030a8-82af-43bf-b9ca-8667d25d3f73",
+        "localeIdentifier": "en-US",
+        "objectId": "y3NNQpS8Ii",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-01T16:19:51.504Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-15T21:00:19.331Z",
+        "deviceToken": "17955b3228e386dbb428fcfb8aa12e474591fdfa12622c57e12bde44f288a8b3",
+        "deviceType": "ios",
+        "deviceUID": "FD6F61E8-28BA-4F36-ACE8-FE42973A603E",
+        "installationId": "9b589028-214f-4afd-a141-e1bb2f5b5e21",
+        "localeIdentifier": "en-US",
+        "objectId": "yCeIgxbpeJ",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Phoenix",
+        "updatedAt": "2015-11-15T21:00:19.331Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 0,
+        "channels": [
+            "global",
+            "as_xLQoK34S4q"
+        ],
+        "createdAt": "2016-01-07T05:51:07.069Z",
+        "deviceToken": "0b341224f6f14eff51ab0de8fde3394ccc72b7e3c22ca6e6d49cdd79634ecf2d",
+        "deviceType": "ios",
+        "deviceUID": "D72A9AA7-5F83-4E9E-BAA3-1A3561EFF0FF",
+        "installationId": "fb2e44cc-7874-43aa-b102-65cb26c7e2ff",
+        "localeIdentifier": "en-US",
+        "objectId": "ypdMNOpdlS",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2016-01-07T05:52:03.134Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-01T09:44:03.433Z",
+        "deviceToken": "7a9969918bb254e5eb5f92d39c6b48ad4c4249bbd8fcc2a274825e2896ccbe5b",
+        "deviceType": "ios",
+        "deviceUID": "1E841824-0993-4F03-8075-D5A323A563A4",
+        "installationId": "59bdc902-54b9-4ea8-9501-fb1bf46866be",
+        "localeIdentifier": "en-US",
+        "objectId": "z3fa2wltci",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-12-01T09:44:03.433Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-11-28T07:04:22.233Z",
+        "deviceToken": "01b3788ca294bb96c92bacbd9969985e71b01a966617e3ede83be2d0942dff86",
+        "deviceType": "ios",
+        "deviceUID": "45767E7D-9875-4229-9CA3-5F30446D7A39",
+        "installationId": "c2890dfd-7faa-4a42-a707-bce942852d2d",
+        "localeIdentifier": "en-US",
+        "objectId": "zFtWamOsFu",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-11-28T07:04:22.233Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 1,
+        "channels": [
+            "global"
+        ],
+        "createdAt": "2015-12-06T23:06:48.951Z",
+        "deviceToken": "d695ade449fc8f2061a7d87a40fc77531cf6f946718cde4c140797cde9b093ed",
+        "deviceType": "ios",
+        "deviceUID": "32955765-1052-4AB1-B946-6838B26ED70F",
+        "installationId": "453db93f-efe7-426c-967a-cfb72303f210",
+        "localeIdentifier": "en-US",
+        "objectId": "zGG8u7JSPz",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Los_Angeles",
+        "updatedAt": "2015-12-06T23:06:48.951Z"
+    },
+	{
+        "appIdentifier": "com.roomartgallery.seekfineart",
+        "appName": "Seek Fine Art",
+        "appVersion": "126",
+        "badge": 2,
+        "channels": [
+            "global",
+            "as_vuYq98iLNK"
+        ],
+        "createdAt": "2015-11-07T14:06:15.705Z",
+        "deviceToken": "969a2b7da796f61f5fab2ed842d84678892f674cce7630b40892147baf62b821",
+        "deviceType": "ios",
+        "deviceUID": "7A25A5FB-3E8A-4699-B404-688F87E12729",
+        "installationId": "f2c32f18-d346-4b56-80ae-e78423b1b104",
+        "localeIdentifier": "en-US",
+        "objectId": "zI81yRn69t",
+        "parseVersion": "1.8.5",
+        "timeZone": "America/Chicago",
+        "updatedAt": "2015-11-07T14:11:51.551Z"
+    }
+] }
