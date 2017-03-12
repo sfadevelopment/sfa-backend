@@ -1,0 +1,16 @@
+{ "results": [
+	{
+        "createdAt": "2015-04-02T14:15:42.878Z",
+        "objectId": "JxHxfsSGvp",
+        "price": 299.99,
+        "term": 12,
+        "updatedAt": "2015-04-02T14:15:49.245Z"
+    },
+	{
+        "createdAt": "2015-04-02T14:14:00.801Z",
+        "objectId": "TqqjzSw53c",
+        "price": 29.99,
+        "term": 1,
+        "updatedAt": "2015-04-02T14:15:52.513Z"
+    }
+] }

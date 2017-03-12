@@ -1,0 +1,515 @@
+{ "results": [
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-d3c005cb-4044-412b-bd27-8b36fd34735c-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-d3c005cb-4044-412b-bd27-8b36fd34735c-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:31:42.012Z",
+        "name": "Installation",
+        "objectId": "0uTVvDbmD1",
+        "searchable_name": [
+            "installation"
+        ],
+        "updatedAt": "2015-09-09T19:58:24.732Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-696f1ef9-07e3-4766-af01-2a5c5971f25d-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-696f1ef9-07e3-4766-af01-2a5c5971f25d-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:43:35.965Z",
+        "name": "Contemporary",
+        "objectId": "2GrGn8dtf0",
+        "searchable_name": [
+            "contemporary"
+        ],
+        "updatedAt": "2016-01-11T22:14:54.327Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-1a0d8e28-3ccf-4797-b4ea-b7721c20d559-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-1a0d8e28-3ccf-4797-b4ea-b7721c20d559-med_crop.jpg"
+        },
+        "createdAt": "2015-11-18T19:14:47.687Z",
+        "name": "Collage",
+        "objectId": "3G1Jg14aaS",
+        "searchable_name": [
+            "collage"
+        ],
+        "updatedAt": "2015-12-28T20:06:22.332Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-59e8e034-1490-4c88-965a-8571b4640445-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-59e8e034-1490-4c88-965a-8571b4640445-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:40:20.421Z",
+        "name": "Photography",
+        "objectId": "4VmhvmyA46",
+        "searchable_name": [
+            "photography"
+        ],
+        "updatedAt": "2016-01-02T15:04:09.697Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-899d2ff3-fa97-4298-9f6b-427c5c357943-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-899d2ff3-fa97-4298-9f6b-427c5c357943-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:41:42.658Z",
+        "name": "Abstract",
+        "objectId": "60mmddLp1q",
+        "searchable_name": [
+            "abstract"
+        ],
+        "updatedAt": "2015-06-03T22:59:35.943Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-0bd917b9-cb30-45aa-95f4-3c447efe76af-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-0bd917b9-cb30-45aa-95f4-3c447efe76af-med_crop.jpg"
+        },
+        "createdAt": "2015-11-18T19:14:40.205Z",
+        "name": "Transportation",
+        "objectId": "6b53lSMetl",
+        "searchable_name": [
+            "transportation"
+        ],
+        "updatedAt": "2015-12-03T17:15:31.235Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-24fa3dd8-2ec0-4d84-af43-1a6d98d41604-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-24fa3dd8-2ec0-4d84-af43-1a6d98d41604-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:43:17.935Z",
+        "name": "Surrealism",
+        "objectId": "78FeV6tQS3",
+        "searchable_name": [
+            "surrealism"
+        ],
+        "updatedAt": "2015-03-27T09:28:21.571Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-c1cbd1f6-6acf-4e68-8f90-3603c84fe4e9-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-c1cbd1f6-6acf-4e68-8f90-3603c84fe4e9-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:41:26.892Z",
+        "name": "Figurative",
+        "objectId": "8Xo6GlSjtX",
+        "searchable_name": [
+            "figurative"
+        ],
+        "updatedAt": "2015-03-27T09:28:21.318Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-6707ad83-e741-498d-8104-fcf6a8fb5980-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-6707ad83-e741-498d-8104-fcf6a8fb5980-med_crop.jpg"
+        },
+        "createdAt": "2015-11-18T19:06:02.643Z",
+        "name": "Cityscape",
+        "objectId": "BNSe7yukMP",
+        "searchable_name": [
+            "cityscape"
+        ],
+        "updatedAt": "2015-12-29T00:35:12.253Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-4942b450-e3a7-4b9a-8a9d-f3f55a3e3aaa-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-4942b450-e3a7-4b9a-8a9d-f3f55a3e3aaa-med_crop.jpg"
+        },
+        "createdAt": "2015-11-18T18:58:45.456Z",
+        "name": "Portrait",
+        "objectId": "BRQG5mq1gc",
+        "searchable_name": [
+            "portrait"
+        ],
+        "updatedAt": "2015-12-15T18:09:58.989Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-7456e6e4-e3af-4382-b609-be46016c2abf-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-7456e6e4-e3af-4382-b609-be46016c2abf-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:42:46.875Z",
+        "name": "Impressionism",
+        "objectId": "DvCv2NtWVr",
+        "searchable_name": [
+            "impressionism"
+        ],
+        "updatedAt": "2015-07-15T21:43:11.523Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-7704a498-0841-40ac-807a-c6173ee34492-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-7704a498-0841-40ac-807a-c6173ee34492-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:32:59.085Z",
+        "name": "Cultural Art",
+        "objectId": "E7tDoQRBbj",
+        "searchable_name": [
+            "cultural",
+            "art"
+        ],
+        "updatedAt": "2015-11-21T01:23:30.432Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-d2893afc-5a19-4b96-9c07-87391330b1d6-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-d2893afc-5a19-4b96-9c07-87391330b1d6-med_crop.jpg"
+        },
+        "createdAt": "2015-11-18T18:53:03.008Z",
+        "name": "Minimalism",
+        "objectId": "G21TnAiYnQ",
+        "searchable_name": [
+            "minimalism"
+        ],
+        "updatedAt": "2015-11-24T19:48:52.908Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-9aa7909a-1ae8-435a-8f1f-f576022de196-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-9aa7909a-1ae8-435a-8f1f-f576022de196-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:31:13.846Z",
+        "name": "Glass",
+        "objectId": "Guh9hRSAxM",
+        "searchable_name": [
+            "glass"
+        ],
+        "updatedAt": "2015-11-21T04:32:38.775Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-d7ed7bbd-b7b6-4d1b-851e-914a31399152-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-d7ed7bbd-b7b6-4d1b-851e-914a31399152-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:40:00.001Z",
+        "name": "Sculpture",
+        "objectId": "Km447FLeCY",
+        "searchable_name": [
+            "sculpture"
+        ],
+        "updatedAt": "2015-12-10T19:54:37.819Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-92a117fc-1bfa-43bf-92f5-184f0efd3011-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-92a117fc-1bfa-43bf-92f5-184f0efd3011-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:44:09.943Z",
+        "name": "Modern Masters",
+        "objectId": "NrOaIabNo7",
+        "searchable_name": [
+            "modern",
+            "masters"
+        ],
+        "updatedAt": "2015-11-07T14:12:43.095Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-4f6b40ee-5c42-4d53-bbec-c56d405cbfd7-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-4f6b40ee-5c42-4d53-bbec-c56d405cbfd7-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:30:24.542Z",
+        "name": "Watercolor",
+        "objectId": "PWFVLMaBUh",
+        "searchable_name": [
+            "watercolor"
+        ],
+        "updatedAt": "2015-09-30T03:31:30.193Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-e505f547-e78d-462e-a6bb-e0098e830f8f-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-e505f547-e78d-462e-a6bb-e0098e830f8f-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:29:52.618Z",
+        "name": "Still Life",
+        "objectId": "RU1hTwmcOI",
+        "searchable_name": [
+            "still",
+            "life"
+        ],
+        "updatedAt": "2015-11-11T00:59:48.319Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-7bfe8a19-0faf-475e-a645-eab669aef0c5-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-7bfe8a19-0faf-475e-a645-eab669aef0c5-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:30:45.752Z",
+        "name": "Ceramic",
+        "objectId": "TQXwxljXkX",
+        "searchable_name": [
+            "ceramic"
+        ],
+        "updatedAt": "2015-12-25T07:48:11.854Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-c1cbd1f6-6acf-4e68-8f90-3603c84fe4e9-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-c1cbd1f6-6acf-4e68-8f90-3603c84fe4e9-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:38:42.270Z",
+        "name": "Painting",
+        "objectId": "TvBMDlqHYm",
+        "searchable_name": [
+            "painting"
+        ],
+        "updatedAt": "2015-09-30T01:51:07.237Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-d7ed7bbd-b7b6-4d1b-851e-914a31399152-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-d7ed7bbd-b7b6-4d1b-851e-914a31399152-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:33:20.224Z",
+        "name": "Metal",
+        "objectId": "WFj3SK7s2d",
+        "searchable_name": [
+            "metal"
+        ],
+        "updatedAt": "2015-09-09T19:58:24.231Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-38975c15-3a87-4516-ac16-e68b0b7b466e-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-38975c15-3a87-4516-ac16-e68b0b7b466e-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:43:51.725Z",
+        "name": "Expressionism",
+        "objectId": "YDxnJ3Dmqq",
+        "searchable_name": [
+            "expressionism"
+        ],
+        "updatedAt": "2015-05-28T00:40:13.078Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-0b0d1ba5-79ec-4727-bcdd-825b38760ff9-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-0b0d1ba5-79ec-4727-bcdd-825b38760ff9-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:29:33.729Z",
+        "name": "Animal Art",
+        "objectId": "YvGruhi10p",
+        "searchable_name": [
+            "animal",
+            "arts"
+        ],
+        "updatedAt": "2015-11-07T14:09:39.234Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-43c1e9eb-b362-4c4b-a9d4-0a7b6da48442-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-43c1e9eb-b362-4c4b-a9d4-0a7b6da48442-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:32:17.511Z",
+        "name": "Book Art",
+        "objectId": "beLETXLKq6",
+        "searchable_name": [
+            "book",
+            "art"
+        ],
+        "updatedAt": "2015-12-12T20:19:18.115Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-c651defc-1993-426b-b904-170bda000dda-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-c651defc-1993-426b-b904-170bda000dda-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:31:01.011Z",
+        "name": "Wood",
+        "objectId": "btn4S7jx4W",
+        "searchable_name": [
+            "wood"
+        ],
+        "updatedAt": "2015-12-10T19:32:14.712Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-1a9b2b55-b6dc-4c7b-b49e-e337e606dc38-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-1a9b2b55-b6dc-4c7b-b49e-e337e606dc38-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:31:26.855Z",
+        "name": "Encaustic",
+        "objectId": "cFRqKq4pGs",
+        "searchable_name": [
+            "encaustic"
+        ],
+        "updatedAt": "2015-09-09T19:58:24.721Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-daf686b4-97b1-4cab-88e8-24a2e25dc233-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-daf686b4-97b1-4cab-88e8-24a2e25dc233-med_crop.jpg"
+        },
+        "createdAt": "2015-11-18T19:12:59.807Z",
+        "name": "Seascape",
+        "objectId": "cxeUFYneQf",
+        "searchable_name": [
+            "seascape"
+        ],
+        "updatedAt": "2016-01-02T06:48:49.506Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-965c888f-e2b4-47ca-bbda-6f0bbac63706-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-965c888f-e2b4-47ca-bbda-6f0bbac63706-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:43:02.840Z",
+        "name": "Realism",
+        "objectId": "dUcFdTRzY5",
+        "searchable_name": [
+            "realism"
+        ],
+        "updatedAt": "2015-11-12T13:52:42.132Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-058d37a7-00fe-46c2-92f5-f138b995ff96-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-058d37a7-00fe-46c2-92f5-f138b995ff96-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:32:39.450Z",
+        "name": "Land Art",
+        "objectId": "eHZiiMpuho",
+        "searchable_name": [
+            "land",
+            "art"
+        ],
+        "updatedAt": "2015-10-05T04:12:56.883Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-8dead887-51de-4b95-819e-2f13803eedfb-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-8dead887-51de-4b95-819e-2f13803eedfb-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:40:40.738Z",
+        "name": "Drawing",
+        "objectId": "m5MreUjVw4",
+        "searchable_name": [
+            "drawing"
+        ],
+        "updatedAt": "2015-07-30T06:43:44.271Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-24fa3dd8-2ec0-4d84-af43-1a6d98d41604-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-24fa3dd8-2ec0-4d84-af43-1a6d98d41604-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:42:24.256Z",
+        "name": "Pop Art",
+        "objectId": "oXQ54WoL1R",
+        "searchable_name": [
+            "pop",
+            "art"
+        ],
+        "updatedAt": "2015-03-27T09:28:21.896Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-dae51e90-eb55-46f1-b856-69a0c19c17b2-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-dae51e90-eb55-46f1-b856-69a0c19c17b2-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:30:10.804Z",
+        "name": "Paper",
+        "objectId": "q7NK48mMCd",
+        "searchable_name": [
+            "paper"
+        ],
+        "updatedAt": "2015-09-09T19:58:24.451Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-f1336c77-8195-4e5f-a5a8-aa8f01d5c9bc-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-f1336c77-8195-4e5f-a5a8-aa8f01d5c9bc-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:41:58.930Z",
+        "name": "Landscape",
+        "objectId": "rIWaTaznbn",
+        "searchable_name": [
+            "landscape"
+        ],
+        "updatedAt": "2015-08-08T08:03:52.534Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-4edef961-ab96-47a8-afb9-8381a832563f-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-4edef961-ab96-47a8-afb9-8381a832563f-med_crop.jpg"
+        },
+        "createdAt": "2015-03-18T04:40:58.009Z",
+        "name": "Mixed Media",
+        "objectId": "ryZf2z8FVz",
+        "searchable_name": [
+            "mixed",
+            "media"
+        ],
+        "updatedAt": "2015-08-08T08:03:52.421Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-d627b2e9-80f9-4ba9-a783-0c9cb31333dd-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-d627b2e9-80f9-4ba9-a783-0c9cb31333dd-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:31:56.430Z",
+        "name": "Digital Art",
+        "objectId": "xsvaU1XUzt",
+        "searchable_name": [
+            "digital",
+            "art"
+        ],
+        "updatedAt": "2016-01-02T06:48:41.237Z"
+    },
+	{
+        "banner": {
+            "__type": "File",
+            "name": "tfss-dae51e90-eb55-46f1-b856-69a0c19c17b2-med_crop.jpg",
+            "url": "http://files.parsetfss.com/5894029f-76c1-4a69-8aca-f90791ab56cf/tfss-dae51e90-eb55-46f1-b856-69a0c19c17b2-med_crop.jpg"
+        },
+        "createdAt": "2015-09-01T03:29:13.733Z",
+        "name": "Print",
+        "objectId": "zeKrInUOvt",
+        "searchable_name": [
+            "print"
+        ],
+        "updatedAt": "2015-09-30T01:50:56.653Z"
+    }
+] }
